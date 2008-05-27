@@ -1,0 +1,52 @@
+'''ISO/DIS 639-3''' es la tercel parti la familia e nolmas ISO 639, la cual tiini cumu fin coifical, pol mé d'ientificaoris únicus de tres letras (''Alpha-3''), tolos luengahis umanus conocius, encruyendu vivus, estinguius, antigus, estóricus, artificialis u de señas; qu'en total s'estiman entri 6 000 i 7 000. S'alcuentran descruius desta nolma los luengahis de pogramación d'ordinaoris.
+
+Esta parti la norma ISO 639 tiini pol el momentu el estatus d'esborraol (DIS polas sigras en ingrés de ''Draft International Standard''), i hue aprebá cumu proyeutu ena reunión ISO/TC37/SC2 en Agostu de 2003<ref name=Hjulstad>[http://eikenes.alvestrand.no/pipermail/ietf-languages/2003-November/001589.html Håvard Hjulstad]</ref>
+
+Los coigus de ISO/DIS 639-3 se basan enos ya desistentis ena segundera parti la nolma, ISO 639-2, i encruin los coigus de la 15ª eición el catálogu Ethnologue de [http://www.sil.org SIL International].<ref name=SIL>[http://www.sil.org/iso639-3/default.asp ISO/DIS 639-3 Home] at SIL International</ref> Esta úrtima entiá á siu anombrá pol [http://www.iso.org ISO] cumu el ahenti rustriol de coigus pala nolma ISO/DIS 639-3, lo que quiei izil que s'encarga e recibil i revisal las solicituis de nuevus coigus, asín cumu de mantenel un catálogu atualizau de coigus válius. Sigún SIL, una atualiçación del catálogu sedrá pubricá anualmenti a partil de 2006.
+
+==Espáciu de coificación==
+
+El númiru máisimu de luengas que puein arrepresentalsi pol mé desti coigo puei carculalsi de la siguienti holma: dau qu'el coigu gasta 3 letras, i el conhuntu disponibri es de 26, 26 × 26 × 26 = 17 576 coigus que puein heneralsi. Ebiu a que la nolma ISO 639 ebi sel consistenti en tolas sus partis, i ena segundera (ISO 639-2) se defini un rangu de 520 coigos reservaus (dendi el ''qaa'' al ''qtz''), dos coigos especialis (''mul'' i ''und'') i un conhuntu de 23 coigus bibliugráficus (639-2(B)) pa luengas que posein un coigu telminulóhicu deferenti (639(T)), el total de coigus que puein heneralsi pa esta nolma es de 17 032.
+
+==Relación con otrus catálogus==
+
+===ISO 639-1===
+
+La primel parti la nolma ISO/DIS 639 consisti en coigus de dos letras i ententa cubril las luengas enas que desisti cierta cantiá de bibliugrafia ténica, mentris que la parti ISO/DIS 639-3 ententa cubril tolas idiomas umanas conocias, seyan estas sin escritura, estintus u artificialis.<ref name=LOC>[http://www.loc.gov/standards/iso639-2/faq.html#1 ISO 639-2 FAQ] at the Library of Congress</ref>
+
+===ISO 639-2===
+
+La segundera parti la nolma ISO 639 hue diseñá con el ohetivu de sel gastá en sistemas de decumentación bibliugráfica, polo qu'encrui aquellas luengas que cuentan con ciertu material escritu, mentris que la tercel parti pretendi encruil tamién aquellus luengahis que nu posein sistema d'escritura i se mantienin únicamenti de holma oral.<ref name=LOC /> 
+
+Esta parti la nolma encrui amás coigus de tres letras p'angunus grupus luengüísticus, los cualis nu tiinin correspondéncia ena nolma ISO/DIS 639-3 que coifica únicamenti luengas endividualis, polo que dambas las dos nolmas se superponin en gran miia, peru una nu es desatamenti un sugrupu la otra. Sin embargu los coigus de tres letras son únicus a través de la nolma ISO 639, es izil, nu puei bel asinau un mesmu coigu a un grupo luengüísticu ena nolma ISO 639-2 i a una luenga endividual ena nolma ISO/DIS 639-3.<ref name=SILr>[http://www.sil.org/iso639-3/relationship.asp Relationship between ISO/DIS 639-3 and the other parts of ISO 639] at SIL International</ref> Nel chascu de coigus asinaus a grupus luengüísticus, desisti una [http://www.sil.org/iso639-3/macrolanguages.asp tabra] que relaciona estus coigus de la nolma ISO/DIS 639-2 con várius luengahis de la nolma ISO 639-3.
+
+===Ethnologue===
+
+El catálogu Ethnologue de SIL International tiini cumu ohetivu coifical aquellas luengas umanas vivas, u que s'aigan estinguiu dendi la criación del catálogu en 1950, i nu encrui, a deferéncia del ISO/DIS 639-3, luengas antiguas, ni artificialis. Sin embargu, el Ethnologue á siu moificado a partil de la 15ª eición de holma que seya un suconhuntu la nolma ISO/DIS 639-3.<ref name=Eth>[http://www.ethnologue.com/codes/default.asp Three-letter codes for identifying languages] at Ethnologue</ref>
+
+==RFC 3066==
+
+El decumentu RFC 3066 consisti nel estándal mas difundiu pala ientificación d'idiomas en decumentus d'internet. Sigún esta nolma se gastan los coigus de dos letras de la primel parti de la norma ISO 639 cuandu desistan, alogu, los de la segundera parti (ISO 639-2) i nu especificalu cuandu nu desistan. Estu es ebiu a que la tercel parti (ISO/DIS 639-3) entovia tieni el estatus d'esborraol. Endrentu d'este estándal desisti la posibiliá d'utilizal un campu estendiu nel que se puei asiahal un coigu rustriu ena ISO /DIS 639-3 i s'aspera qu'esta nolma seya revisá cuandu la parti ISO 639-3 seya una nolma oficial.
+
+==Atihus==
+
+# [http://www.sil.org/iso639-3/default.asp ISO/DIS 639-3]
+# [http://www.ethnologue.com Ethnologue]
+
+==Referéncias==
+
+<references />
+
+[[Category:Luengüística]]
+
+<!--EntriGüiqui-->
+
+[[br:ISO 639-3]]
+[[en:ISO 639-3]]
+[[es:ISO 639-3]]
+[[eu:ISO 639-3]]
+[[it:ISO 639-3]]
+[[ja:ISO 639-3]]
+[[lmo:ISO 639-3]]
+[[sk:ISO 639-3]]
+[[zh:ISO 639-3]]
