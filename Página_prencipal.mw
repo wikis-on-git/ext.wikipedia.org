@@ -1,6 +1,98 @@
-{{approved
-|interwiki=w:ext:
-|project=wikipedia
-|name=Extremaduran Wikipedia
-|date=May 26, 2008
-}}
+<div id="mainpage"></div>
+<!-- Beginning of header section -->{|style="width:100%;margin-top:+.7em;background-color:#f5fffa;border:1px solid #ccc"
+|style="width:56%;color:#000"|
+{|style="width:280px;border:solid 0px;background:#f5fffa"
+|-
+|style="width:280px;text-align:center;white-space:nowrap;color:#000" |
+<div style="font-size:162%;border:none;margin: 0;padding:.1em;color:#000">Bienviniu a la [[Güiquipeya|Güiquipeya]],</div>
+<div style="top:+0.2em;font-size: 95%">la enciclupeya que [[Ayua|cualisquiá puei eital]].</div>
+<div id="articlecount" style="width:100%;text-align:center;font-size:85%;">[[Special:Statistics|{{NUMBEROFARTICLES}}]] endirguis ena encubaora i más de 500 ena Güiquipeya</div>
+|}<!-- Portals Follow -->
+|style="width:20%;font-size:95%;color:#000"|
+:[[Image:cencias_naturalis.png|15px|]][[:Category:Céncias naturalis|Céncias naturalis]]
+:[[Image:cencias_umanas.png|15px]][[:Category:Céncias socialis|Céncias socialis]]
+:[[Image:biografias.png|15px]][[:Category:Biugrafias|Biugrafias]]
+|style="width:20%;font-size:95%"|
+:[[Image:cencias_aplicas.png|15px]][[:Category:Tenulohia|Tenulohia]]
+:[[Image:cultura.png|15px]][[:Category:Curtura|Curtura]]
+:[[Image:sociea.png|15px]][[:Category:Socieá|Socieá]]
+|}<!-- End Portals -->
+{|style="width:100%;background:none;margin:-.8em 0 -.7em 0"
+|style="font-size:95%;text-align:left;white-space:nowrap;color:#000"|[[Bienviniu|Bienviniu]] '''·''' [[Güiquipeya|Al tentu]] '''·''' [[Ayua|Ayua]] '''·''' [[Zona e prebas|Esmienza a eital!]]
+|style="font-size:95%;padding:10px 0;margin:0px;text-align:right;white-space:nowrap;color:#000"|
+[http://incubator.wikimedia.org/w/index.php?title=Special%3APrefixindex&from=Wp%2Fext&namespace=0 Éndici A–Z] '''·''' [[Ayuntamientu|El ayuntamientu]] '''·''' [[:Category:Trohi|La trohi]] '''·''' [[Embahá|Embassy]]
+|}
+<!-- End of header section / beginning of left-column -->
+
+{{Aprebau final}}
+
+{| style="border: 0; background-color: #ffffff" cellpadding="0" cellspacing="10"
+| style="width: 50%; vertical-align: top; border:1px solid #cef2e0; background-color: #f5fffa" |
+<div style="background-color:#088A4B; font-size:1px; height:8px; border-bottom:1px solid #000000;"></div>
+<div style="float:right; margin:8px; margin-top:5px">[[Image:Estremaura.png|48px]]</div>
+<div style="font: 13pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;">Güiquipeya enas palras d´Estremaura</div>
+<div style="font-size:9pt; padding:5px">
+{{Palras}}
+</div>
+|}
+
+{| style="border: 0; background-color: #ffffff" cellpadding="0" cellspacing="10"
+| style="width: 50%; vertical-align: top; border:1px solid #cef2e0; background-color: #f5fffa" |
+<div style="background-color:#088A4B; font-size:1px; height:8px; border-bottom:1px solid #000000;"></div>
+<div style="float:right; margin:8px; margin-top:5px">[[Image:indirguidestacau.png|48px]]</div>
+<div style="font: 13pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;">Endirgui destacau</div>
+<div style="font-size:9pt; padding:5px">
+{{Endirgui destacau}}
+</div>
+| style="width: 50%; vertical-align: top; border:1px solid #cef2e0; background-color: #f5fffa" |
+<div style="background-color:#088A4B; font-size:1px; height:8px; border-bottom:1px solid #000000;"></div>
+<div style="float:right; margin:5px; margin-top:5px">[[Image:enasnoticias.png|48px]]</div>
+<div style="font: 13pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #aaa;">Enas notícias</div>
+<div style="font-size:9pt; padding:5px">
+{{enas noticias}}
+</div>
+|-
+{| style="border: 0; background-color: #ffffff" cellpadding="0" cellspacing="10"
+| style="width: 50%; vertical-align: top; border:1px solid #cef2e0; background-color: #f5fffa" |
+<div style="background-color:#088A4B; font-size:1px; height:8px; border-bottom:1px solid #000000;"></div>
+<div style="float:right; margin:8px; margin-top:5px">[[Image:afotudestaca.png|48px]]</div>
+<div style="font: 13pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;">Afotu destacau</div>
+<div style="font-size:9pt; padding:5px">
+{{Afotu destacau}}
+</div>
+| style="width: 50%; vertical-align: top; border:1px solid #cef2e0; background-color: #f5fffa" |
+<div style="background-color:#088A4B; font-size:1px; height:8px; border-bottom:1px solid #000000;"></div>
+<div style="float:right; margin:5px; margin-top:5px">[[Image:teniasconocenciade.png|48px]]</div>
+<div style="font: 13pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #aaa;">Pi sabias que...?</div>
+<div style="font-size:9pt; padding:5px">
+{{tenías conocencia de}}
+</div>
+|}
+
+<!-- Start of reference section -->
+==Otras árias la Güiquipeya==
+{{Categorias}}
+
+<div style="border:1px solid #cccccc; background-color:#ffffff; padding:0.5em 1em 0.5em 1em;">
+<div style="text-align:center; padding-bottom:0.5em; font-size:110%; font-weight:bold;">'''Güiquipeya i los sus proyeutus helmanus'''</div>
+{| cellspacing="0" cellpadding="3" style="background-color:transparent; margin:auto;"
+|{{Proyeutus helmanus}}
+|}
+
+
+<!--EntriGüiqui-->
+
+[[an:]]
+[[ast:]]
+[[ca:]]
+[[de:]]
+[[en:]]
+[[es:]]
+[[fr:]]
+[[gl:]]
+[[it:]]
+[[la:]]
+[[oc:]]
+[[pt:]]
+
+[[Category:!Main]]
