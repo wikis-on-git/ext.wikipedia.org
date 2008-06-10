@@ -1,26 +1,43 @@
-{{Infobox Videojuego
-|nombri = StepMania
-|image = StepMania 4 Gameplay.png
-|anchón = 250px
-|pie = Captura de pantalla
-|esarrollaol = Chris Danford
-|destribuiol = 
-|diseñaol = 
-|velsión = 4.0
-|motol = 
-|lançamientu = 1 de [[Noviembri]] de [[2005]]
-|héneru = simulaol
-|mó = 
-|crasificación = 
-|pratahorma = [[Linux]]<br/>[[Mac OS]]<br/>[[Microsoft Windows]]
-|hormatu = 
-|requisitus = 
-|entrás = 
-|licéncia = MIT License
-|web = [http://www.stepmania.com/ www.stepmania.com]
-}}
+{| {{fichabonita}}
+|+ <big>'''StepMania'''</big>
+|-
+| style="background:#efefef;" align="center" colspan="2" |
+{| border="0" cellpadding="2" cellspacing="0"
+|-
+| align="center" width="140" | [[StepMania 4 Gameplay.png|250px]]
+|}
+|-
+| • '''Nombri estremeñu''' || StepMania
+|-
+| • '''Nombri orihinal''' || StepMania
+|-
+| • '''Esarrollaol''' || Chris Danford
+|-
+| • '''Velsión''' || 4.0
+|-
+| • '''Nacéncia''' || 1-11-2005
+|-
+| • '''Héneru''' || Simulaol
+|-
+| • '''Pratahorma''' || [[Linux]]<br/>[[Mac OS]]<br/>[[Microsoft Windows]]
+|-
+| • '''Licéncia''' || MIT License
+|-
+| • '''Web''' || [http://www.stepmania.com/ stepmania.com]
+|-
+|}
 
 '''StepMania''' es un [[vidiuhuegu]] del tipu simulación ispirau en [[Dance Dance Revolution]]. Es software libri i totalmenti de bardi, disponibri pa várius sistemas cumu [[Linux]], [[Windows]] u [[Mac OS X]].
+
+== Requisitus del sistema ==
+
+Estus requisitus son lo ménimu nesezáriu pa qu'el huegu furruli, lo que nu senifica que seyan suficientis pa qu'el huegu huncioni de la mehol manera posibri.
+
+* [[Windows]] 98/ME/2000/XP, [[Linux]] u [[Mac OS X]].
+* Pentium II u superiol, Celeron, Athlon u procesaol compatibri, ménimu de 266 MHz (recomendau 400 MHz).
+* 64 MB de memória.
+* Praca de vídiu con suporti High Color (16 bits) con al menus 16 MB de memória i drivers OpenGL.
+* Praca de son compatibri con DirectX 7.0 i los sus respetivus drivers.
 
 == Caraterísticas ==
 
