@@ -1,7 +1,49 @@
-'''Puerta lohica '''  es un [[despositivu electrónicu]] qu'es la espresión física de un operadol [[Álgebra de Boole|booleano]] ena lohica de [[Circuito de conmutación|conmutación]]. Ca puerta lohica consisti nuna redi de dispusitivus enterrutoris que cumpli las condicionis booleanas pa el operadol praticulal. Son esencialmenti circuitus de conmutación integraus nun chip.
+'''Puerta lohica '''  es un [[despusitivu electrónicu]] qu'es la espresión física de un operaol [[Alhebra de Boole|booleano]] ena lohica de [[Circuitu de conmutación|conmutación]]. Ca puerta lohica consisti nuna redi de despusitivus enterrutoris que cumpri las condicionis booleanas pal operadol praticulal. Son esencialmenti circuitus de conmutación entegraus nun chip.
 
 
-
+{| class="wikitable"
+! Tipu !! Simbolu distintivu  !! Retangulal  !!  Algebra booleana entri A & B !! Tabra de la verdá
+|-
+| '''[[AND gate|AND]]'''
+| [[Image:AND ANSI.svg|128px|AND symbol]]
+| [[Image:AND IEC.svg|128px|AND symbol]]
+| <math>A \cdot B</math>
+|
+{| class="wikitable" align=right
+|- bgcolor="#ddeeff" align="center"
+|colspan=2|'''INPUT''' || '''OUTPUT'''
+|- bgcolor="#ddeeff" align="center"
+| A || B || A AND B
+|- bgcolor="#ddffdd" align="center"
+|0 || 0 || 0
+|- bgcolor="#ddffdd" align="center"
+|0 || 1 || 0
+|- bgcolor="#ddffdd" align="center"
+|1 || 0 || 0
+|- bgcolor="#ddffdd" align="center"
+|1 || 1 || 1
+|}
+|-
+| '''[[OR gate|OR]]'''
+| [[Image:OR ANSI.svg|128px|OR symbol]]
+| [[Image:OR IEC.svg|128px|OR symbol]]
+| <math>A+B</math>
+|
+{| class="wikitable" align=right
+|- bgcolor="#ddeeff" align="center"
+|colspan=2|'''INPUT''' || '''OUTPUT'''
+|- bgcolor="#ddeeff" align="center"
+| A || B || A OR B
+|- bgcolor="#ddffdd" align="center"
+|0 || 0 || 0
+|- bgcolor="#ddffdd" align="center"
+|0 || 1 || 1
+|- bgcolor="#ddffdd" align="center"
+|1 || 0 || 1
+|- bgcolor="#ddffdd" align="center"
+|1 || 1 || 1
+|}
+|
 == Atihus esternus ==
 
 *[http://www.phy.hk/wiki/englishhtm/NotGate.htm Java applet of NOT gate]
