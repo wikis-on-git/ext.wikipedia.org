@@ -1,0 +1,39 @@
+El '''transistol d'efeutu camp''' (''Field-Effect Transistor'' o ''FET'', en ingrès) es en realidá una família de [[transistol|transistoris]] que se basan en el [[campu elètricu]] pa controlal la conductividá dun "canal" nun material [[semiconductol]]. Los FET, cumu tos los transistoris, puein plantealse cumu [[Resistència elètrica]]s controlás pol [[voltahi]]. La mayoria delos FET estan hechus usandu las tècnicas de procesamientu de semiconductoris habitualis.
+
+==Tipus de transistoris d'efectu campu==
+
+* El [[MOSFET]] (''Metal-Oxide-Semiconductor Field-Effect Transistor'') usa una uñon (normalment SiO<sub>2</sub>).
+* El [[JFET]] (''Junction Field-Effect Transistor'') usa una uñón p-n.
+* El [[MESFET]] (''Metal-Semiconductor Field Effect Transistor'') usa una [[barrera Schottky]]
+* En el [[HEMT]] (''High Electron Mobility Transistor''), tamién hucheau HFET (''heterostructura FET''), la banda de material dopada cun "buits" horma l'aislanti.
+
+
+[[Category:enhenieria]]
+
+
+
+[[ar:ترانزستور حقلي]]
+[[be:Палявы транзістар]]
+[[be-x-old:Палявы транзыстар]]
+[[bg:Полеви транзистор]]
+[[cs:Unipolární tranzistor]]
+[[da:Felteffekttransistor]]
+[[de:Feldeffekttransistor]]
+[[en:Field-effect transistor]]
+[[es:Transistor de efecto campo]]
+[[et:Väljatransistor]]
+[[fa:ترانزیستور اثر میدان]]
+[[fr:Transistor à effet de champ]]
+[[ja:電界効果トランジスタ]]
+[[ko:전계효과 트랜지스터]]
+[[lt:Lauko tranzistorius]]
+[[lv:Lauktranzistors]]
+[[nl:Veldeffecttransistor]]
+[[pl:Tranzystor polowy]]
+[[pt:Transistor de Efeito de Campo]]
+[[ru:Полевой транзистор]]
+[[sl:Tranzistor na poljski pojav]]
+[[stq:Fäild-Effekt-Transistore]]
+[[sv:Fälteffekttransistor]]
+[[uk:Польовий транзистор]]
+[[zh:场效应管]]
