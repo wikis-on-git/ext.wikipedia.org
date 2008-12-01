@@ -1,11 +1,17 @@
 [[image:Transistor-photo.JPG|right|thumb|250px|Fotu cun distintus tipus de transistoris]]
 El '''transistol''' es un dispositivu semicondutol d'estau sóliu que se gasta pa l'amplificación i la conmutación, i tien tres telminalis: una corrienti u vortahi apricá a unu los bichus controla la corrienti los otrus dos. El transistol es el componenti prencipal de tola eletrónica muelna. Enos circuitus dehitalis, el transistol s'utiliza cumu un enterrutol elétricu mu liheru, i l'olganización sistemática los transistoris premiti que enhuncionin cumu una [[puerta lohica]], memórias tipu [[RAM]] i [[micruprohessaol|microprohessaoris]]. Enos cercuitus analóhicus los transistoris se gastan cumu amplificaoris. Los amplificaoris d'audiu, las huentis d'alimentación estabiliçás i los amplificaoris de frecuéncia son cercuitus analohicus que llevan transistoris. Ái dos tipus basicus de transistoris, los bipolaris (BJT) i los d'efeutu campu ([[FET]]), i ca unu hunciona de holma deferenti. 
 ==Huncionamientu==
-El transistol bipolal se huchea asina  polquè el canal de condución prencipal gasta tantu electronis cumu vacius pa transpoltal la corrienti eletrica prencipal. 
+El transistol bipolal se huchea asina  polquè el canal de condución prencipal gasta tantu electronis cumu vacius pa transpoltal la corrienti eletrica prencipal. Un transistol de uñón bipolal está hormau pol dos Uniones PN nun solu cristal semicondutol, separaus pol una rehión mu estrecha. De esta maera quean hormadas tres rehionis:
+
+*Emisor, que se diferencia de las otras dos pol estal huertimenti dopada, comportándosi cumu un metal. 
+*Base, la intermedia, mu estrecha, que separa el emisor del coletol. 
+*Colector, de extensión muchu mayol. 
+ 
 
 '''Zona de rutura''' : El hechu de sel nula la correnti de base, es equivalenti a mantenel el circuitu basi emisol abieltu, en estas circustancias la correnti e coletol es praticamenti nula i pol esu se puei consideral el transistol en el su circuitu  cumu un '''interrutol''' abieltu.
 
-'''Zona de saturacion''' : El '''díodu''' colectol està polariçau directamenti i el transistol se compolta cumu una pequeña resistencia. 
+'''Zona de saturacion''' : El '''díodu''' colectol està polariçau directamenti i el transistol se compolta cumu una pequeña resistencia.
+
 == Atihus esternus ==
 *[http://otro-geek-mas.blogspot.com/2008/08/como-funcionan-realmente-los.html Lo cumu huncionan los transistoris]
 *[http://commons.wikimedia.org/wiki/Category:Transistors?uselang=ca commons]
