@@ -15,7 +15,7 @@ El transistol bipolal se huchea asina  polquè el canal de condución prencipal 
 
 
 
-'''Zona de saturacion''' : El '''díodu''' colectol està polariçau directamenti i el transistol se compolta cumu una pequeña resistencia.
+'''Zona de saturacion''' : El '''díodu''' colectol està polariçau directamenti i el transistol se porta cumu una pequeña resistencia.
 
 [[Image:npn BJT cross section.PNG|thumb|250px|left|Corti trasvelsal simplificau dun transistol bipolal de huntaera NPN. Dondi se puei aprecial cumu la huntaera basi-coletol es muchu más amplia que la basi-emisol.]]
 
@@ -27,7 +27,6 @@ El transistol bipolal se huchea asina  polquè el canal de condución prencipal 
 
 * '''Rehión aitiva''': 
 :Cuandu un transistol no está ni en su rehión de saturación ni en la región de rutura astoncis está en una rehión intermeya, la región aitiva. Nesta rehión la corrienti e coletol (Ic) ependi prencipalmenti de la corrienti de basi (Ib), de β (ganancia de corrienti, es un datu del fabricanti) i de las resistencias que se encuentrin conetadas nel coletol i emisol. Esta rehión es la más emportanti si lu que se anhea es utilizal el transistol cumu un amplificadol de señal.
-
 
 == Atihus esternus ==
 *[http://otro-geek-mas.blogspot.com/2008/08/como-funcionan-realmente-los.html Lo cumu huncionan los transistoris]
