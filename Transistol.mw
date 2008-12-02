@@ -5,13 +5,29 @@ El '''transistol''' es un dispositivu semicondutol d'estau sóliu que se gasta p
 El transistol bipolal se huchea asina  polquè el canal de condución prencipal gasta tantu electronis cumu vacius pa transpoltal la corrienti eletrica prencipal. Un transistol de uñón bipolal está hormau pol dos Uniones PN nun solu cristal semicondutol, separaus pol una rehión mu estrecha. De esta maera quean hormadas tres rehionis:
 
 *Emisol, que se diferencia de las otras dos pol estal huertimenti dopada, comportándosi cumu un metal. 
-*Base, la intermedia, mu estrecha, que separa el emisor del coletol. 
-*Coletol, de extensión muchu mayol. 
+*Basi, la intermeya, mu estrecha, que separa el emisol del coletol. 
+*Coletol, de estensión muchu mayol. 
  
 
-'''Zona de rutura''' : El hechu de sel nula la correnti de base, es equivalenti a mantenel el circuitu basi emisol abieltu, en estas circustancias la correnti e coletol es praticamenti nula i pol esu se puei consideral el transistol en el su circuitu  cumu un '''interrutol''' abieltu.
+'''Zona de rutura''' : El hechu de sel nula la correnti de base, es equivalenti a mantenel el circuitu basi emisol abieltu, en estas circustancias la correnti e coletol es praticamenti nula i pol esu se puei consideral el transistol nel su circuitu  cumu un '''enterrutol''' abieltu. Un transistol esta en corti cuandu:
+
+:<math>corrienti de coletol  = corrienti de emisol = 0, (Ic = Ie = 0)</math>
+
+
 
 '''Zona de saturacion''' : El '''díodu''' colectol està polariçau directamenti i el transistol se compolta cumu una pequeña resistencia.
+
+[[Image:npn BJT cross section.PNG|thumb|250px|left|Corti trasvelsal simplificau dun transistol bipolal de huntaera NPN. Dondi se puei aprecial cumu la huntaera basi-coletol es muchu más amplia que la basi-emisol.]]
+
+
+
+
+[[Image:BJT symbol NPN.svg|thumb|El símbolu de un transistol NPN.]]
+
+
+* '''Rehión aitiva''': 
+:Cuandu un transistol no está ni en su rehión de saturación ni en la región de rutura astoncis está en una rehión intermeya, la región aitiva. Nesta rehión la corrienti e coletol (Ic) ependi prencipalmenti de la corrienti de basi (Ib), de β (ganancia de corrienti, es un datu del fabricanti) i de las resistencias que se encuentrin conetadas nel coletol i emisol. Esta rehión es la más emportanti si lu que se anhea es utilizal el transistol cumu un amplificadol de señal.
+
 
 == Atihus esternus ==
 *[http://otro-geek-mas.blogspot.com/2008/08/como-funcionan-realmente-los.html Lo cumu huncionan los transistoris]
