@@ -1,45 +1,28 @@
-{| border="1" cellpadding="2" cellspacing="0" align="right" width="300"
-! colspan="2" bgcolor="lawngreen" style="font-size:120%"|Córnicu (''Kernewek'')
-|-
-| valign="top"|Palrau en :
-|[[Reinu Uniu]]
-|-
-| valign="top"|Rehión:
-|[[Cornuallis]]
-|-
-| valign="top"|Palrantis:
-| entri 2.000 y 3.000 
-|-
-| valign="top"|Crasificación:
-|[[Induropeu]]<br/>
-&nbsp;[[Cérticu]]<br/>
-&nbsp;&nbsp;[[Certa britónicu]]<br/>
-&nbsp;&nbsp;&nbsp;Córnicu <br/>
-|-
-! colspan="2" bgcolor="lawngreen"|Estatus
-|-
-| valign="top"|Idioma oficial en:
-| valign="top"|[[Reinu Uniu]]
-|-
-! colspan="2" bgcolor="lawngreen"|Códigos luengüísticos
-|-
-|[[ISO 639]]-1|| kw
-|-
-|ISO 639-2|| cor
-|-
-|[[SIL]]|| crn
-|}
-El '''Córnicu''' es una [[luenga certa]] palrá nel condau británicu de Cornuallis (n'[[ingrés]] ''Cornwall'', en córnicu ''Kernow''). Tien un 80% de paeciu col [[Luenga bretona|Bretón]] i un 75% col [[Luenga galesa|Galés]], palrau ena mesma isla.
-Esapaeció cumu luenga d'úsiu abitual nel [[siglu XIX]], sustituia pola luenga ingresa, peru hue arrecuperá nel primel cuartu del siglu XX.
+{{Infobox idiomas|nombri=Córnicu|nombriautótonu=''Kernewek/Kernowek''
+|Imahin=[[Image:Kernow_a'gas_dynnergh_20050527.jpg|300px]]
+|estaus=Cornuallis (''Kernow'')
+|palrantis= 2.000 palrantis fluius i abitualis<ref>[http://www.gosw.gov.uk/497666/docs/254795/mode_of_use.doc http://www.gosw.gov.uk/497666/docs/254795/mode_of_use.doc] (En [[Luenga ingresa|ingrés]]).</ref>
+|p1=65-109 millonis|p2=-
+|crasificación=
+|família=[[Luengas induropeas|Induropea]]<br>
+&nbsp;&nbsp;Luenga cértica<br>
+&nbsp;&nbsp;&nbsp;Certa insulal<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Britónicu<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'''Córnicu'''<br />
+|pais=Inque nu es oficial, está reconocia cumu idioma minoritária 
+|regulau=Kesva an Taves Kernewek
+|iso1=kw
+|iso2=cor
+|sil=cor}}{{InterWiki|code=kw}}
+El '''Córnicu''' es una [[luenga certa]] palrá nel condau británicu de Cornuallis (n'[[ingrés]] ''Cornwall'', en córnicu {{Polmehoral}}''Kernow''). Tien un 80% de paeciu col [[Luenga bretona|Bretón]] i un 75% col [[Luenga galesa|Galés]], palrau ena mesma isla.
+Esapaeció cumu luenga d'úsiu abitual nel [[siglu XIX]], sustituia pola luenga ingresa, peru hue arrecuperá nel primel cuartu del sigru XX.
+
+==Huentis==
+{{Listaref}}
 
 == Atihus ==
- 
 *[http://wikisource.org/wiki/Main_Page:Kernewek La >>NOVA<< edición còrnica de Wikisource]
 *[http://www.ordinalia.com/ord.htm Ordinalia - Pàhina sinòptica]
-
-
-{{InterWiki|code=kw}}
-
 
 
 [[Category:Luengas del mundu]]
@@ -47,7 +30,6 @@ Esapaeció cumu luenga d'úsiu abitual nel [[siglu XIX]], sustituia pola luenga 
 [[af:Kornies]]
 [[als:Kornisch]]
 [[am:ኮርንኛ]]
-
 [[be-x-old:Корнская мова]]
 [[bg:Корнуолски език]]
 [[br:Kerneveureg]]
