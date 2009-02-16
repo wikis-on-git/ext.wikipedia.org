@@ -7,7 +7,7 @@
 | align="center" width="140" | [[Image:Logo linex nuevo peque.jpg|center|100px]]
 |}
 |-
-| '''Esarrollaol''' || Equipu d'Esarrollu<br>e GNULinEx
+| '''Esarrollaol''' || Equipu de desarrollu<br>de GNULinEx
 |-
 | '''Moelu d'esarrollu''' || FOOS
 |-
@@ -19,28 +19,30 @@
 |-
 | '''Licéncia''' || GPL
 |-
-| '''Úrtima velsión<br>estabri''' || 19 e Húniu<br>e 2006
+| '''Úrtima velsión<br>estabri''' || 9 d'Eneru<br>de 2009
 |-
-| '''Estau atual''' || En esarrollu
+| '''Estau atual''' || En desarrollu
 |-
 | '''Páhina web''' || [http://www.linex.org www.linex.org]
 |-
 |}
-'''GnuLinEx''' es una distribución de software libri qu'inclui el kernel Linux i está basá en Debian GNU/Linux i GNOME, cuentandu con OpenOffice.org cumu Suite Ofimática, entri algotras apricacionis.
+'''GnuLinEx''' es una distribución de software libri basá en Debian Linux.
 
-Está apuchau pola Conseheria d'Infraestruturas i Esarrollu Tenulóhicu la Comuniá Autónuma d'[[Estremaura|Estremaura]] ([[España|España]]), siendu pioneru i secundau pol otrus olganismus púbricus i privaus del restu d'España. Duranti un periu considerabri e tiempu, la comuniá estremeña ofreció tamién apoyu a la d'[[Andalucia|Andalucia]] (la cual s'ispiró en GnuLinex pa esarrollal Guadalinex) nel emprantaeru e solucionis abiertas en coléhius, alministración, ec.
+Está apuchau pola Conseheria d'Infraestruturas i Desarrollu Tenulóhicu la [[Comuniá Autónuma]] d'[[Estremaura|Estremaura]], siendu pioneru i secundau pol otrus olganismus púbricus i privaus del restu d'España. Duranti un periu considerabri e tiempu, la comuniá estremeña ofreció tamién apoyu a la d'[[Andalucia|Andalucia]] (la cual s'ispiró en GnuLinex pa esarrollal Guadalinex) nel emprantaeru e solucionis abiertas en coléhius, alministración, ec.
 
-El 19 e Húniu e 2006 se liberó ''GNULinex 2006'', con Gnome 2.14.1, Xorg 6.9, i Kernel 2.6.16.
+La úrtima velsión estabri hue empuntá a internet el 9 d'Eneru de 2009, con Gnome 2.22, Xorg 7.3, i Kernel Debian-Lenny.
 
 ==Prencipal software incluiu==
-#Suite d'oficina e cóigu abiertu '''OpenOffice.org''' 2.0.2 :
+#Suite d'oficina e cóigu abiertu '''OpenOffice.org''' 3.0 con :
 ##Procesaol de testus i eitol de HTML
-##Oha e cárculu
+##Pograma e cárculu
 ##Presentacionis
 #Vezerus de correu eletrónicu i de USENET
-#Escrucaol web, Firefox. Opera en velsionis anterioris a la 2006.
-#Pogramas d'eición i retoqui afotugráficu
-##Gimp 2.2.11
+#Escrucaol web, Iceweasel (Lenix), Firefox (2006), i Opera en velsionis anterioris a la 2006.
+#Pogramas d'eición d'afotugráfias
+##Gimp
+
+Cabi destacal qu'el Linex Lenix gasta efetos Compiz i trai una tupa pogramas más que las velsionis anterioris de seri (Amule, Bittorrent Transmission, Amsn, Pidgin, Firestarter...), inque los nombris nu as siu estremeñizaus.
 
 ==Vertuis==
 # Estabiliá
@@ -52,13 +54,13 @@ El 19 e Húniu e 2006 se liberó ''GNULinex 2006'', con Gnome 2.14.1, Xorg 6.9, 
 
 ==Defetus==
 # En pocas tiendas se puei mercal un ordenaol con ''GnuLinEx'' preistalau. Esti "pobrema" es produtu los alcuerdus entri Microsoft i los fabricantis de hardware, nu e dengún sistema operativu.
-# Los nombris duna tupa pogramas contenius ena distribución án siu chambaus pol otrus relacionaus con Estremaura, lo que puei hazel enteosu el usu u deprendiçahi en ocasionis, inque ena velsión 2004 s'á incluiu la posibiliá d'otal polos iconus i nombri orihinalis de tolas apricacionis incluias en ''GnuLinEx''. De cualisquiel mó, albondus usuárius lo ven cumu una virtú, ya que les ayua a recuerdal las sus apricacionis preferias con nombris comunis i sin angricismus.
+# Los nombris duna tupa pogramas contenius ena distribución án siu chambaus pol otrus relacionaus con Estremaura, lo que puei hazel enteosu el usu u deprendiçahi en ocasionis, inque ena velsión 2004 s'á incluiu la posibiliá d'otal polos iconus i nombri orihinalis de tolas apricacionis incluias en ''GnuLinEx''. De cualisquiel mó, albondus usuárius lo ven cumu una virtú, ya que les ayua a recuerdal las sus apricacionis preferias con nombris comunis i sin angricismus. Ena úrtima velsión de GNU Linex, los nombris nu ás siu estremeñizaus, haziendu mas acessibri el sistema operativu a los nu estremeñus.
 
 ==Linex Coléhius==
 Es una variación de ''GnuLinex'' orientá a los eucaoris. Está hormau pol tres perfilis d'usuáriu, ca unu dellus, pa un ciclu e primária. Tós están presonalizaus i llenus de contenius i software eucativu pa ca alunu.
 
 ==Usuárius==
-En Mayu e 2003, s'abian distribuiu 200.000 CDs de LinEx de bardi meyanti los diárius localis, s'abian descargau 70.000 imahin del sistema operativu dendi el sitiu web la distribución. Alreol del 10% los abitantis d'Estremaura pudrian gastal LinEx.
+En Mayu e 2003, s'abian distribuiu 200.000 CDs de LinEx de bardi pol mé los diárius localis, s'abian descargau 70.000 imahin del sistema operativu dendi el sitiu web la distribución. Alreol del 10% los abitantis d'Estremaura pudrian gastal LinEx.
 
 ==Prémius conseguius==
 * Prémiu que concei la ''Asociación de Usuarios de las Telecomunicaciones (AUTEL)'' al esarrollu e servícius avançaus de Tenulohias la Enhormación i la Comunicación (Otubri e 2002)
