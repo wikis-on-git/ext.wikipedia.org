@@ -28,7 +28,7 @@
 | style="width: 50%; vertical-align: top; border:1px solid #cef2e0; background-color: #f5fffa" |
 <div style="background-color:#088A4B; font-size:1px; height:8px; border-bottom:1px solid #000000;"></div>
 <div style="float:right; margin:8px; margin-top:5px">[[Image:Wikiproyecto Extremadura.png|48px]]</div>
-<div style="font: 13pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;">Güiquipeya enas palras d'Estremaura</div>
+<div style="font: 12pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;">Güiquipeya enas palras d'Estremaura</div>
 <div style="font-size:9pt; padding:5px">
 {{Palras}}
 </div>
@@ -38,14 +38,14 @@
 | style="width: 50%; vertical-align: top; border:1px solid #cef2e0; background-color: #f5fffa" |
 <div style="background-color:#088A4B; font-size:1px; height:8px; border-bottom:1px solid #000000;"></div>
 <div style="float:right; margin:8px; margin-top:5px">[[Image:Nuvola filesystems services.png|48px]]</div>
-<div style="font: 13pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;">Endirgui destacau</div>
+<div style="font: 12pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;">Endirgui destacau</div>
 <div style="font-size:9pt; padding:5px">
 {{Endirgui destacau}}
 </div>
 | style="width: 50%; vertical-align: top; border:1px solid #cef2e0; background-color: #f5fffa" |
 <div style="background-color:#088A4B; font-size:1px; height:8px; border-bottom:1px solid #000000;"></div>
 <div style="float:right; margin:5px; margin-top:5px">[[Image:Nuvola filesystems ftp.png|48px]]</div>
-<div style="font: 13pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #aaa;">Enas notícias</div>
+<div style="font: 12pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #aaa;">Enas notícias</div>
 <div style="font-size:9pt; padding:5px">
 {{enas notícias}}
 </div>
@@ -54,16 +54,26 @@
 | style="width: 50%; vertical-align: top; border:1px solid #cef2e0; background-color: #f5fffa" |
 <div style="background-color:#088A4B; font-size:1px; height:8px; border-bottom:1px solid #000000;"></div>
 <div style="float:right; margin:8px; margin-top:5px">[[Image:Gnome-dev-camera.svg|48px]]</div>
-<div style="font: 13pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;">Afotu destacau</div>
+<div style="font: 12pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;">Afotu destacau</div>
 <div style="font-size:9pt; padding:5px">
 {{Afotu destacau}}
 </div>
 | style="width: 50%; vertical-align: top; border:1px solid #cef2e0; background-color: #f5fffa" |
 <div style="background-color:#088A4B; font-size:1px; height:8px; border-bottom:1px solid #000000;"></div>
 <div style="float:right; margin:5px; margin-top:5px">[[Image:Nuvola apps filetypes.png|48px]]</div>
-<div style="font: 13pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #aaa;">Pi sabias que...?</div>
+<div style="font: 12pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #aaa;">Pi sabias que...?</div>
 <div style="font-size:9pt; padding:5px">
 {{tenías conocencia de}}
+</div>
+|}
+
+{| style="border: 0; background-color: #ffffff" cellpadding="0" cellspacing="10"
+| style="width: 50%; vertical-align: top; border:1px solid #cef2e0; background-color: #f5fffa" |
+<div style="background-color:#088A4B; font-size:1px; height:8px; border-bottom:1px solid #000000;"></div>
+<div style="float:right; margin:8px; margin-top:5px">[[File:Compfile.png|48px]]</div>
+<div style="font: 12pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;">Úrtimus endirguis</div>
+<div style="font-size:9pt; padding:5px">
+{{Úrtimus endirguis}}
 </div>
 |}
 
