@@ -1,13 +1,11 @@
-<div id="mainpage"></div>
-<!-- Beginning of header section -->{|style="width:100%;margin-top:+.7em;background-color:#f5fffa;border:1px solid #ccc"
-|style="width:56%;color:#000"|
-{|style="width:280px;border:solid 0px;background:#f5fffa"
-|-
-|style="width:280px;text-align:center;white-space:nowrap;color:#000" |
-<div style="font-size:162%;border:none;margin: 0;padding:.1em;color:#000">Bienviniu a la [[Güiquipeya|Güiquipeya]],</div>
+{| style="border-spacing:8px;margin:0px -8px"
+|class="MainPageBG" style="width: 50%; border: 1px solid #006600; background-color: #ffffff; vertical-align: top; -moz-border-radius:10px " | 
+{| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background-color:#F5FBEF; "
+|style="width:280px;text-align:left;white-space:nowrap;color:#000" |
+<center><div style="font-size:162%;border:none;margin: 0;padding:.1em;color:#000">Bienviniu a la [[Güiquipeya|Güiquipeya]],</div>
 <div style="top:+0.2em;font-size: 95%">la enciclopeya que [[Ayua|cualisquiá puei eital]].</div>
-<div id="articlecount" style="width:100%;text-align:center;font-size:85%;">[[Special:Statistics|'''{{NUMBEROFARTICLES}}''']] endirguis ena Güiquipeya n'[[Luenga estremeña|estremeñu]]</div>
-|}<!-- Portals Follow -->
+<div id="articlecount" style="width:100%;text-align:center;font-size:85%;">Nesti prehissu intri áin [[Special:Statistics|'''{{NUMBEROFARTICLES}}''']] endirguis ena Güiquipeya n'[[Luenga estremeña|estremeñu]]</div>
+<!-- Portals Follow -->
 |style="width:20%;font-size:95%;color:#000"|
 :[[Image:Broccoli-tree.svg|15px|]][[:Category:Céncias naturalis|Céncias naturalis]]
 :[[Image:Nuvola apps kdmconfig.png|15px]][[:Category:Céncias socialis|Céncias socialis]]
@@ -16,76 +14,104 @@
 :[[Image:Nuvola apps input devices settings.png|15px]][[:Category:Tenulohia|Tenulohia]]
 :[[Image:Nuvola apps bookcase.png|15px]][[:Category:Curtura|Curtura]]
 :[[Image:Gamepad.svg|15px]][[:Category:Socieá|Socieá]]
-|}<!-- End Portals -->
-{|style="width:100%;background:none;margin:-.8em 0 -.7em 0"
-|style="font-size:95%;text-align:left;white-space:nowrap;color:#000"|[[Bienviniu|Bienviniu]] '''·''' [[Güiquipeya|Al tentu]] '''·''' [[Ayua|Ayua]] '''·''' [[Zona e prebas|Esmiença a eital!]]
-|style="font-size:95%;padding:10px 0;margin:0px;text-align:right;white-space:nowrap;color:#000"|
-[[Special:AllPages|Éndici A–Z]] '''·''' [[Ayuntamientu|El ayuntamientu]] '''·''' [[:Category:Trohi|La trohi]] '''·''' [[Güiquipeya:Embahá|Embassy]]
 |}
-<!-- End of header section / beginning of left-column -->
-
-{{Nueva portá}}
-{| style="border: 0; background-color: #ffffff" cellpadding="0" cellspacing="10"
-| style="width: 50%; vertical-align: top; border:1px solid #cef2e0; background-color: #f5fffa" |
-<div style="background-color:#088A4B; font-size:1px; height:8px; border-bottom:1px solid #000000;"></div>
-<div style="float:right; margin:8px; margin-top:5px">[[Image:Wikiproyecto Extremadura.png|48px]]</div>
-<div style="font: 12pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;">Güiquipeya enas palras d'Estremaura</div>
-<div style="font-size:9pt; padding:5px">
-{{Palras}}
-</div>
 |}
-
-{| style="border: 0; background-color: #ffffff" cellpadding="0" cellspacing="10"
-| style="width: 50%; vertical-align: top; border:1px solid #cef2e0; background-color: #f5fffa" |
-<div style="background-color:#088A4B; font-size:1px; height:8px; border-bottom:1px solid #000000;"></div>
-<div style="float:right; margin:8px; margin-top:5px">[[Image:Nuvola filesystems services.png|48px]]</div>
-<div style="font: 12pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;">Endirgui destacau</div>
-<div style="font-size:9pt; padding:5px">
-{{Endirgui destacau}}
-</div>
-| style="width: 50%; vertical-align: top; border:1px solid #cef2e0; background-color: #f5fffa" |
-<div style="background-color:#088A4B; font-size:1px; height:8px; border-bottom:1px solid #000000;"></div>
-<div style="float:right; margin:5px; margin-top:5px">[[Image:Nuvola filesystems ftp.png|48px]]</div>
-<div style="font: 12pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #aaa;">Enas notícias</div>
-<div style="font-size:9pt; padding:5px">
-{{enas notícias}}
-</div>
+<p style="margin: 0 0 2px 0; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 100%; padding: 0; font-size: 90%; text-align: center;">
+'''[[Bienviniu]] 
+[[File:Bullet green.png|7px]] '''[[Güiquipeya]]''' 
+[[File:Bullet green.png|7px]] '''[[Ayua]]''' 
+[[File:Bullet green.png|7px]] '''[[Güiquipeya:Zona de prebas|Zona de prebas]]'''
+[[File:Bullet green.png|7px]] '''[[Special:AllPages|Éndici A–Z]]'''
+[[File:Bullet green.png|7px]] '''[[Ayuntamientu|El ayuntamientu]]'''
+[[File:Bullet green.png|7px]] '''[[:Category:Trohi|La trohi]]'''
+[[File:Bullet green.png|7px]] '''[[Güiquipeya:Embahá|Embassy]]'''
+</p>
+<!-------------------------------------------------------------------->
+{| style="border-spacing:8px;margin:0px -8px"
+|class="MainPageBG" style="width: 50%; border: 1px solid #006600; background-color: #ffffff; vertical-align: top; -moz-border-radius:10px " | 
+{| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background-color:#ffffff; "
+<!-------------------------------------------------------------------->
+! style="background-color: #DCF4CC; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #006600; text-align: left; padding-left: 7px; -moz-border-radius:10px " | <div style="float:right;">[[File:Wbar_green2.jpg]]</div><div style="float:left;">[[File:Exquisite-kmenu.png|23px]] '''Endirgui destacau'''
 |-
-{| style="border: 0; background-color: #ffffff" cellpadding="0" cellspacing="10"
-| style="width: 50%; vertical-align: top; border:1px solid #cef2e0; background-color: #f5fffa" |
-<div style="background-color:#088A4B; font-size:1px; height:8px; border-bottom:1px solid #000000;"></div>
-<div style="float:right; margin:8px; margin-top:5px">[[Image:Gnome-dev-camera.svg|48px]]</div>
-<div style="font: 12pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;">Afotu destacau</div>
-<div style="font-size:9pt; padding:5px">
-{{Afotu destacau}}
-</div>
-| style="width: 50%; vertical-align: top; border:1px solid #cef2e0; background-color: #f5fffa" |
-<div style="background-color:#088A4B; font-size:1px; height:8px; border-bottom:1px solid #000000;"></div>
-<div style="float:right; margin:5px; margin-top:5px">[[Image:Nuvola apps filetypes.png|48px]]</div>
-<div style="font: 12pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #aaa;">Pi sabias que...?</div>
-<div style="font-size:9pt; padding:5px">
-{{tenías conocencia de}}
-</div>
+| style="font-size: 90%; font-family:Verdana, Arial, Helvetica, sans-serif; -moz-border-radius:10px" | 
+{{Endirgui destacau}}
+|-
+<!-------------------------------------------------------------------->
+! style="background-color: #DCF4CC; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #006600; text-align: left; padding-left: 7px; -moz-border-radius:10px " | <div style="float:right;">[[File:Wbar green2.jpg]]</div><div style="float:left;">[[File:Nuvola filesystems ftp.png|23px]] '''Úrtimas notícias'''
+|-
+| style="font-size: 90%; font-family:Verdana, Arial, Helvetica, sans-serif; -moz-border-radius:10px" | {{enas notícias}}
+|-
 |}
-
-{| style="border: 0; background-color: #ffffff" cellpadding="0" cellspacing="10"
-| style="width: 50%; vertical-align: top; border:1px solid #cef2e0; background-color: #f5fffa" |
-<div style="background-color:#088A4B; font-size:1px; height:8px; border-bottom:1px solid #000000;"></div>
-<div style="float:right; margin:8px; margin-top:5px">[[File:Compfile.png|48px]]</div>
-<div style="font: 12pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;">Úrtimus endirguis</div>
-<div style="font-size:9pt; padding:5px">
+<!----------------------------------------------------------------------------->
+|class="MainPageBG" style="border:1px solid #006600; background-color:#ffffff; vertical-align:top; -moz-border-radius:10px "| <div style="margin: 4px 4px 2px 4px; text-align: left;">
+{| width="100%" cellpadding="2" cellspacing="3" style="vertical-align: top; background-color:#ffffff; "
+|-
+<!-------------------------------------------------------------------->
+! style="background-color: #DCF4CC; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #006600; text-align: left; padding-left: 7px;-moz-border-radius:10px " | <div style="float:right;">[[File:Wbar_green2.jpg]]</div><div style="float:left;">[[File:Compfile.png|23px]] Úrtimus endirguis</div>
+|-
+| style="font-size: 90%; font-family:Verdana, Arial, Helvetica, sans-serif; -moz-border-radius:10px" | 
+<div style="float:left; width:100%;"><div style="float:left; width:32px;"></div><div style="float:center; width:350px;"><inputbox>
+type=create
+width=15
+bgcolor=#ffffff
+break=no
+</inputbox></div></div>
 {{Úrtimus endirguis}}
-</div>
+|-
+<!-------------------------------------------------------------------->
+! style="background-color: #DCF4CC; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #006600; text-align: left; padding-left: 7px;-moz-border-radius:10px " | <div style="float:right;">[[File:Wbar_green2.jpg]]</div><div style="float:left;">[[File:Nuvola apps digikam.png|23px]] Afotu destacau</div>
+|-
+| style="font-size: 90%; font-family:Verdana, Arial, Helvetica, sans-serif; -moz-border-radius:10px" | {{Afotu destacau}}
+|-
+<!-------------------------------------------------------------------->
+! style="background-color: #DCF4CC; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #006600; text-align: left; padding-left: 7px; -moz-border-radius:10px " | <div style="float:right;">[[File:Wbar green2.jpg]]</div><div style="float:left;">[[File:Nuvola filesystems ftp.png|23px]] '''Ayuamus'''
+|-
+| style="font-size: 90%; font-family:Verdana, Arial, Helvetica, sans-serif; -moz-border-radius:10px" | [[Image:Nuvola gaim.svg|left|40px]]Ayua a la Güiquipeya trauciendu estus endirguis:
+
+[[Lista e artículus que toa Güiquipeya eberie tenel|Lista d'artículus que toa Güiquipeya eberia tenel]]
+|-
+<!----------------------------------------------------------------------------->
+! style="background-color: #DCF4CC; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #006600; text-align: left; padding-left: 7px;-moz-border-radius:10px " | <div style="float:right;">[[File:Wbar_green2.jpg]]</div><div style="float:left;">[[Image:Wikiproyecto Extremadura.png|23px]] Palras d'Estremaura</div>
+|-
+| style="font-size: 90%; font-family:Verdana, Arial, Helvetica, sans-serif; -moz-border-radius:10px" | {{Palras}}
+|-
 |}
-
-<!-- Start of reference section -->
-==Otras árias la Güiquipeya==
-{{Categorias}}
-
-<div style="border:1px solid #cccccc; background-color:#ffffff; padding:0.5em 1em 0.5em 1em;">
-<div style="text-align:center; padding-bottom:0.5em; font-size:110%; font-weight:bold;">'''Güiquipeya i los sus proyeutus helmanus'''</div>
-{| cellspacing="0" cellpadding="3" style="background-color:transparent; margin:auto;"
-|{{Proyeutus helmanus}}
+|}
+<!-------------------------------------------------------------------->
+{| style="border-spacing:8px;margin:0px -8px"
+|class="MainPageBG" style="width: 50%; border: 1px solid #006600; background-color: #ffffff; vertical-align: top; -moz-border-radius:10px " | 
+{| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background-color:#ffffff; "
+<!-------------------------------------------------------------------->
+! style="background-color: #DCF4CC; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #006600; text-align: left; padding-left: 7px; -moz-border-radius:10px " | <div style="float:right;">[[File:Wbar green2.jpg]]</div><div style="float:left;">[[File:Exquisite-packagesettings.png|23px]] '''Categorias'''
+|-
+| style="font-size: 90%; font-family:Verdana, Arial, Helvetica, sans-serif; -moz-border-radius:10px" | {{Categorias}}
+|}
+|}
+<!-------------------------------------------------------------------->
+{| style="border-spacing:8px;margin:0px -8px"
+|class="MainPageBG" style="width: 50%; border: 1px solid #006600; background-color: #F5FBEF; vertical-align: top; -moz-border-radius:10px; font-size:90% " | 
+{| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background-color:#F5FBEF; "
+{| align="center" cellpadding="2" width="100%"
+|-  valign="top"
+|-
+| [[Image:Wikimedia-logo.svg|35px|<nowiki></nowiki>]]
+|class="plainlinks"| [http://meta.wikimedia.org/wiki/P%C3%A1hina_prencipal '''Meta-Wiki''']<br />Cordinación de proyeutus
+| [[image:Commons-logo.png|20px|<nowiki></nowiki>]]
+|class="plainlinks"| [http://commons.wikimedia.org/wiki/P%C3%A1hina_prencipal '''Commons''']<br />Continiu murtimeya libri
+| [[Image:Wiktionary-logo-es.png|21px|<nowiki></nowiki>]]
+|class="plainlinks"| [http://en.wiktionary.org/ '''Wiktionary''']<br />Izionáriu con sinónimus ''(en ingrés)''
+| [[Image:Es_wikibooks.png|20px|<nowiki></nowiki>]]
+|class="plainlinks"| [http://en.wikibooks.org/ '''Wikibooks''']<br />Librus de testu i manualis ''(en ingrés)''
+|-
+| [[Image:Wikisource-logo.svg|20px|<nowiki></nowiki>]]
+|class="plainlinks"| [http://wikisource.org/wiki/Main_Page:Estreme%C3%B1u '''Wikisource''']<br />Decumentus orihinalis
+| [[Image:Wikiquote-logo.svg|20px|<nowiki></nowiki>]]
+|class="plainlinks"| [http://es.wikiquote.org/ '''Wikiquote''']<br />Coleción de citas ''(en ingrés)''
+| [[Image:Wikispecies-logo.svg|20px|<nowiki></nowiki>]]
+|class="plainlinks"| [http://species.wikipedia.org/wiki/ '''Wikispecies''']<br />Diretoriu d'especis ''(en ingrés)''
+| [[Image:Wikinews-logo.svg|20px|<nowiki></nowiki>]]
+|class="plainlinks"| [http://en.wikinews.org/ '''Wikinews''']<br />Notícias libris ''(en ingrés)''
+|}
 |}
 
 <!--EntriGüiqui-->
