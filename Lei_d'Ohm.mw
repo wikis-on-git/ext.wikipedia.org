@@ -1,0 +1,73 @@
+[[Image:Ohms law voltage source.svg|thumb|200px|Circuitu que muestra la Lei d'Ohm]]
+	
+La '''Lei d'Ohm''' establez que "La Intensidá de corrienti elétrica|intensidá de la corrienti llétrica que circula pol un conductol es direutamenti proporcional a la [[tensión|diferencia de potencial]] aplicá i inversamenti proporcional a la Resistencia llétrica del mesmu", puei espresasi matemáticamenti ena siguienti ecuación:
+: <math> I= \frac{V}{R} </math>
+
+ondi, haciendu usu  d'unidais del [[Sistema Internacional d'Unidais|Sistema internacional]], tenemus que:
+* ''I'' = Intensidá n’[[Amperiu|amperius]] (A)
+* ''V'' = Diferencia de potencial en [[voltiu|voltius]] (V)
+* ''R'' = Resistencia n'[[ohmiu|ohmius]] (Ω).
+
+Esta lei nun se cumpli, pol ehemplu, cuandu la resistencia del conductol chamba cola temperatura, i la temperatura del conductol dependi de la intensidá de corrienti i el tiempu que este circulandu.
+
+La lei defini una propiedá específica de ciertus materialis pola que se cumpli la relación: 
+: <math> V= I \cdot R \, </math>
+
+Un conductor cumpli la Lei d'Ohm sólu si la su curva ''V''-''I'' es linial, estu es si ''R'' es independienti de ''V'' i de ''I''.
+
+[[Category:física]]
+
+[[af:Ohm se wet]]
+[[ar:قانون أوم]]
+[[ast:Llei d'Ohm]]
+[[bg:Закон на Ом]]
+[[bn:ও'মের সূত্র]]
+[[br:Lezenn Ohm]]
+[[ca:Llei d'Ohm]]
+[[cs:Ohmův zákon]]
+[[cy:Deddf Ohm]]
+[[da:Ohms lov]]
+[[de:Ohmsches Gesetz]]
+[[el:Νόμος του Ωμ]]
+[[eml:Legg d'Ohm]]
+[[en:Ohm's law]]
+[[eo:Leĝo de Omo]]
+[[es:Ley de Ohm]]
+[[et:Ohmi seadus]]
+[[eu:Ohmen legea]]
+[[fa:قانون اهم]]
+[[fi:Ohmin laki]]
+[[fr:Loi d'Ohm]]
+[[ga:Dlí Ohm]]
+[[gl:Lei de Ohm]]
+[[he:חוק אוהם]]
+[[hi:ओम का नियम]]
+[[hr:Ohmov zakon]]
+[[hu:Ohm törvénye]]
+[[is:Ohmslögmál]]
+[[it:Legge di Ohm]]
+[[ja:オームの法則]]
+[[ko:옴의 법칙]]
+[[lt:Omo dėsnis]]
+[[lv:Oma likums]]
+[[mk:Омов закон]]
+[[ml:ഓമിന്റെ നിയമം]]
+[[ms:Hukum Ohm]]
+[[nl:Wet van Ohm]]
+[[nn:Ohms lov]]
+[[no:Ohms lov]]
+[[pl:Prawo Ohma]]
+[[pt:Lei de Ohm]]
+[[ro:Legea lui Ohm]]
+[[ru:Закон Ома]]
+[[simple:Ohm's law]]
+[[sk:Ohmov zákon]]
+[[sl:Ohmov zakon]]
+[[sr:Омов закон]]
+[[sv:Ohms lag]]
+[[ta:ஓமின் விதி]]
+[[th:กฎของโอห์ม]]
+[[tr:Ohm Kanunu]]
+[[uk:Закон Ома]]
+[[vi:Định luật Ohm]]
+[[zh:欧姆定律]]
