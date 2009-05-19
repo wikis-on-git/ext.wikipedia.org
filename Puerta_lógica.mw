@@ -1,12 +1,12 @@
-{{Polgüiquifical}}'''Puerta lohica '''  es un [[despusitivu electrónicu]] qu'es la espresión [[física]] dun operaol [[Alhebra de Boole|booleano]] ena lóhica e [[Circuitu de conmutación|conmutación]]. Ca puerta lóhica consisti nuna redi de despusitivus enterrutoris que cumpri las condicionis booleanas pal operaol particulal. Son esencialmenti cercuitus de conmutación entegraus nun chip.
+{{Polgüiquifical}}'''Puerta lohica ''' es un [[despusitivu electrónicu]] qu'es la espresión [[física]] dun operaol [[Alhebra de Boole|booleano]] ena lóhica e [[Circuitu de conmutación|conmutación]]. Ca puerta lóhica consisti nuna redi de despusitivus enterrutoris que cumpri las condicionis booleanas pal operaol particulal. Son esencialmenti cercuitus de conmutación entegraus nun chip.
 
 
 {| class="wikitable"
 ! Tipu !! Simbolu distintivu  !! Retangulal  !!  Algebra booleana entri A & B !! Tabra de la verdá
 |-
 | '''[[AND gate|AND]]'''
-| [[Image:AND ANSI.svg|128px|AND symbol]]
-| [[Image:AND IEC.svg|128px|AND symbol]]
+| [[File:AND ANSI.svg|128px|AND symbol]]
+| [[File:AND IEC.svg|128px|AND symbol]]
 | <math>A \cdot B</math>
 |
 {| class="wikitable" align=right
@@ -25,8 +25,8 @@
 |}
 |-
 | '''[[OR gate|OR]]'''
-| [[Image:OR ANSI.svg|128px|OR symbol]]
-| [[Image:OR IEC.svg|128px|OR symbol]]
+| [[File:OR ANSI.svg|128px|OR symbol]]
+| [[File:OR IEC.svg|128px|OR symbol]]
 | <math>A+B</math>
 |
 {| class="wikitable" align=right
@@ -48,42 +48,43 @@
 
 *[http://www.phy.hk/wiki/englishhtm/NotGate.htm Java applet of NOT gate]
 *[http://www.digital-simulator.de Digital Circuit Simulator (Online and Windows Program)]
-[[Category:Enhenieria]]
 
+[[Category:Enhenieria]]
 
 [[af:Logiese hek]]
 [[ar:بوابة منطقية]]
 [[bg:Логически елемент]]
+[[ca:Porta lògica]]
 [[cs:Logický člen]]
 [[da:Gate (digital elektronik)]]
 [[de:Logikgatter]]
 [[el:Λογική πύλη]]
-[[en:Logic gates]]
+[[en:Logic gate]]
 [[es:Puerta lógica]]
 [[eu:Ate logiko]]
 [[fa:دروازه منطقی]]
+[[fi:Looginen portti]]
 [[fr:Fonction logique]]
 [[gl:Porta lóxica]]
-[[ko:논리 회로]]
+[[he:שער לוגי]]
 [[hr:Logički sklopovi]]
+[[hu:Logikai kapu]]
 [[id:Gerbang logika]]
 [[is:Rökrás]]
 [[it:Porta logica]]
-[[he:שער לוגי]]
+[[ja:論理回路]]
+[[ko:논리 회로]]
 [[ku:Dergehê mantiqî]]
-[[lv:Loģiskais elements]]
 [[lt:Loginis elementas]]
-[[hu:Logikai kapu]]
+[[lv:Loģiskais elements]]
 [[ms:Get logik]]
 [[nl:Logische poort]]
-[[ja:論理回路]]
 [[pl:Bramka logiczna]]
 [[pt:Porta lógica]]
 [[ro:Poartă logică]]
 [[ru:Логический вентиль]]
 [[simple:Logic gate]]
 [[sr:Логичка капија]]
-[[fi:Looginen portti]]
 [[sv:Logisk grind]]
 [[ta:தருக்க படலை]]
 [[th:ลอจิกเกต]]
