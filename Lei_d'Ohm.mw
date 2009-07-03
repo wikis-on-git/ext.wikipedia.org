@@ -1,12 +1,12 @@
-[[Image:Ohms law voltage source.svg|thumb|200px|Circuitu que muestra la Lei d'Ohm]]
+[[File:Ohms law voltage source.svg|thumb|200px|Circuitu que muestra la Lei d'Ohm]]
 	
 La '''Lei d'Ohm''' establez que "La intensidá de la corrienti elétrica que circula pol un conductol es direutamenti proporcional a la [[tensión|diferencia de potencial]] aplicá i inversamenti proporcional a la Resistencia elétrica del mesmu", puei espresasi matemáticamenti ena siguienti ecuación:
 : <math> I= \frac{V}{R} </math>
 
-ondi, haciendu usu  d'unidais del [[Sistema Internacional d'Unidais|Sistema internacional]], tenemus que:
+ondi, haciendu usu d'unidais del [[Sistema Internacional d'Unidais|Sistema internacional]], tenemus que:
 * ''I'' = Intensidá n’[[Amperiu|amperius]] (A)
-* ''V'' = Diferencia de potencial en [[voltiu|voltius]] (V)
-* ''R'' = Resistencia n'[[ohmiu|ohmius]] (Ω).
+* ''V'' = Diferencia de potencial en [[voltiu]]s (V)
+* ''R'' = Resistencia n'[[ohmiu]]s (Ω).
 
 Esta lei nun se cumpli, pol ehemplu, cuandu la resistencia del conductol chamba cola temperatura, i la temperatura del conductol dependi de la intensidá de corrienti i el tiempu que este circulandu.
 
@@ -15,7 +15,7 @@ La lei defini una propiedá específica de ciertus materialis pola que se cumpli
 
 Un conductol cumpli la Lei d'Ohm sólu si la su curva ''V''-''I'' es linial, estu es si ''R'' es independienti de ''V'' i de ''I''.
 
-[[Category:física]]
+[[Category:Física]]
 
 [[af:Ohm se wet]]
 [[ar:قانون أوم]]
@@ -44,6 +44,7 @@ Un conductol cumpli la Lei d'Ohm sólu si la su curva ''V''-''I'' es linial, est
 [[hi:ओम का नियम]]
 [[hr:Ohmov zakon]]
 [[hu:Ohm törvénye]]
+[[id:Hukum Ohm]]
 [[is:Ohmslögmál]]
 [[it:Legge di Ohm]]
 [[ja:オームの法則]]
