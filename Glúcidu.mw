@@ -24,8 +24,7 @@ Son las uniais monoméricas los glúcidus, es izil, moléculas olgánicas peque�
 == Huentis ==
 
 === Notas ===
-<div class="references-small" style="font-size:90%;{{#if: {{{colwidth|}}}| -moz-column-width:{{{colwidth}}}; column-width:{{{colwidth}}}; | {{#if: {{{1|}}}| -moz-column-count:{{{1}}}; column-count:{{{1}}} }}};|}}">
-<references group=n/></div>
+{{Lista notas}}
 
 === Referéncias ===
 {{Listaref}}
