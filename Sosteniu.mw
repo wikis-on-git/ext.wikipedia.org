@@ -6,6 +6,23 @@ El '''Sosteníu''' o sostenuto (#) es unu los símbulus musicalis llamáus d'[[a
 
 La imagin es un ejempru d'un ''do''<sub>6</sub> sosteníu.
 
+
+== Enarmonías ==
+
+Comu la distancia entre dos notas siguías pue sel d'un [[semitonu]], la alteración d'una nota pol mé un sosteníu produði una enarmonía u equivalencia al respectibri las arturas desta nota y algotra qu'esté pol cima. Assina, la nota Si sosteníu es [[Enarmonia|enarmónicaenti]] equivalenti a ''[[Nota musical|do]]'' natural.
+Dado que la distancia entre dos notas consecutivas puede ser de un [[semitono]], la alteración de una nota mediante un sostenido produce una enarmonía o equivalencia respecto a las alturas de esta nota y otra superior. Así, la nota ''[[Nota musical|si]]'' sostenido es [[enarmonía|enarmónicamente]] equivalente a ''[[Nota musical|do]]'' natural. Para más información debe consultarse el artículo [[enarmonía]].
+
+== Sosteníus [[Microtonu|microtonalis]] ==
+Dexisti tamién ena [[música contemporánea]] que contiini [[microtonu]]s el "meyu sosteníu" (que namás que subi la artura meyu semitonu, es iðil, un cuartu 'e tonu u 50 [[cent]]s); también dexistin los "tres cuartus de sosteníu" (que subin la artura tres cuartus de semitonu, u 75 [[cent]]s). Otra manera de marcal cuartus de tonu ena notación musical es con un signu + sobre el pentagrama pol cima la nota qu'hay que subil un semitonu.
+
+Ena armaúra l'ordin los sosteníus es esti : FA,DO,SOL,RE,LA,MI,SI.
+
+== Presentación informatizada ==
+Ena juerza los ordenaoris el [[caraiti]] d'[[Unicode]] '♯' (hex 266F) pue general el signu "sosteníu".
+
+En [[LaTeX]], el símbulu <math>\sharp</math> se pue consiguil con el comandu <code>\sharp</code>, en un entornu de matemáticas.
+
+
 [[ca:Sostingut]]
 [[da:Kryds (musik)]]
 [[de:Kreuz (Notenschrift)]]
