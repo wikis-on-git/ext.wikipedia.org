@@ -1,16 +1,16 @@
 {| border="1" cellpadding="4" style="float: right; margin: 0 0 1em 1em; width: 300px; background:#FFF5EE; border: 1px #A0522D solid; border-collapse: collapse; font-size: 95%;"
-|+ style="margin-left: inherit; font-size: larger; font-weight: bold;" | <font size="-1"> <big>'''Cataluña'''</big><br><big>'''Catalunya'''</big><br><big>'''Catalonha'''</big>
+|+ style="margin-left: inherit; font-size: larger; font-weight: bold;" | <font size="-1"> <big>'''Cataluña'''</big><br /><big>'''Catalunya'''</big><br /><big>'''Catalonha'''</big>
 | style="background:#FFFFFF;" align="center" colspan="2" |
 {| border="0" cellpadding="2" cellspacing="0" style="text-align: center;"
 |-----
-| width="140" | [[Image:Flag of  Catalonia.svg|150px|Bandera e Cataluña]]
-| width="140" | [[Image:Escudo de Cataluña.svg|100px|Escú de Cataluña]]
+| width="140" | [[File:Flag of  Catalonia.svg|150px|Bandera e Cataluña]]
+| width="140" | [[File:Escudo de Cataluña.svg|100px|Escú de Cataluña]]
 |-----
 |}
 |- bgcolor="#FFEFD5"
 ! colspan="2" align=center | Sítiu
 |-
-| style="background:#c6c6c6;" align="center" colspan="2" | [[Image:Localización de Cataluña.svg|300px]]
+| style="background:#c6c6c6;" align="center" colspan="2" | [[File:Localización de Cataluña.svg|300px]]
 |- bgcolor="#FFEFD5"
 ! colspan="2" align=center | Datus estaísticus
 |-
@@ -19,11 +19,11 @@
 | [[Luenga oficial|Luengas oficialis]]
 | [[luenga castellana|Castellanu]], [[luenga catalana|catalán]] i [[aranés]]
 |-
-| [[Superfici]]<br/>&nbsp;- total<br/>&nbsp;- % d'España
-| [[Comuniais Autúnomas d'España pol superfici|Puestu núm. 6]]<br/> 32.114[[Qm²]]<br/>                
+| [[Superfici]]<br />&nbsp;- total<br />&nbsp;- % d'España
+| [[Comuniais Autúnomas d'España pol superfici|Puestu núm. 6]]<br /> 32.114[[Qm²]]<br /> 
 |-
-| [[Puebración]]<br/>&nbsp;- Total (2007)<br/>&nbsp;- <br/>&nbsp;- [[Densiá e puebración|Densiá]]
-| [[Comuniais Autónomas d'España pol puebración|Puestu núm. 2]]<br/> 7.467.423 <br/>  %<br/>295,0 ab./km² 
+| [[Puebración]]<br />&nbsp;- Total (2007)<br />&nbsp;- <br />&nbsp;- [[Densiá e puebración|Densiá]]
+| [[Comuniais Autónomas d'España pol puebración|Puestu núm. 2]]<br /> 7.467.423 <br /> %<br />295,0 ab./km² 
 |-
 | [[Gentilíciu]] ||catalán/a
 |-
@@ -31,13 +31,13 @@
 |-
 | [[ISO 3166-2]] ||CT
 |-
-| [[Cortis españolas|Arrepresentación<br/>palramentária]]<br/>&nbsp;- [[Congresu los Deputaus|Congresu]]<br/>&nbsp;- [[Senau español|Senau]]
-| &nbsp;<br/>&nbsp;<br/>47 escañus<br/>23 escañus
+| [[Cortis españolas|Arrepresentación<br />palramentária]]<br />&nbsp;- [[Congresu los Deputaus|Congresu]]<br />&nbsp;- [[Senau español|Senau]]
+| &nbsp;<br />&nbsp;<br />47 escañus<br />23 escañus
 |-
 | [[Presientis de Cataluña|Presienti]]
 | [[José Montilla]] ([[PSC]])
 |-
-| align="center" colspan="2" | [[http://www.gencat.cat/index_cas.htm]]
+| align="center" colspan="2" | [http://www.gencat.cat/index cas.htm]
 |}
 
 '''Cataluña''' (oficialmenti ''Catalunya'' en [[luenga catalana|catalán]], ''Cataluña'' en [[luenga castellana|castellanu]] i ''Catalonha'' n'[[aranés]]) es una [[comuniá autónoma]] d'[[España]] i, pol me la su estória, es consierá comu una [[nacionaliá estórica]].<ref>[http://www.gencat.cat/generalitat/cas/estatut/titol_preliminar.htm#a1 Articulo 1] el estatutu d'autonomia</ref> S'alcuentra assitiá ena parti norti la [[Península Ibérica]], hiziendu arrayu con [[Aragón]] al oesti, mentris que pol norti linda con [[Fráncia]] i pol esti da pal [[mari Mediterráneu]] i pol sul, cona [[Comuniá Valenciana]].
@@ -57,12 +57,11 @@ Se devii en cuatru províncias: [[província de Barcelona|Barcelona]], [[provín
 == Huentis ==
 {{Listaref}}
 
-==Atijus==
+== Atijus ==
 {{commonscat|Cataluña}}
 * [http://www.gencat.cat/index_cas.htm Web de la Generalitat de Cataluña]
 * [http://www.gencat.net/generalitat/cas/estatut/index.htm Estatutu d'autonomía]
 * [http://www10.gencat.net/ptop/binaris/carreteres300_tcm32-23833.pdf Redi básica carreteras de Cataluña]
-
 
 [[Category:Comuniais autúnomas d'España]]
 
@@ -147,6 +146,7 @@ Se devii en cuatru províncias: [[província de Barcelona|Barcelona]], [[provín
 [[sr:Каталонија]]
 [[stq:Katalonien]]
 [[sv:Katalonien]]
+[[szl:Katalůńijo]]
 [[th:แคว้นคาเทโลเนีย]]
 [[tl:Catalunya]]
 [[tr:Katalonya]]
