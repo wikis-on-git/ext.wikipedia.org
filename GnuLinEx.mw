@@ -4,10 +4,10 @@
 | style="background:#efefef;" align="center" colspan="2" |
 {| border="0" cellpadding="2" cellspacing="0"
 |-
-| align="center" width="140" | [[Image:Logo linex nuevo peque.jpg|center|100px]]
+| align="center" width="140" | [[File:Logo linex nuevo peque.jpg|center|100px]]
 |}
 |-
-| '''Esarrollaol''' || Equipu de desarrollu<br>de GNULinEx
+| '''Esarrollaol''' || Equipu de desarrollu<br />de GNULinEx
 |-
 | '''Moelu d'esarrollu''' || FOOS
 |-
@@ -15,11 +15,11 @@
 |-
 | '''Crasi e núcliu''' || Monolíticu
 |-
-| '''Entrihazi gráfica<br>pol defetu''' || GNOME
+| '''Entrihazi gráfica<br />pol defetu''' || GNOME
 |-
 | '''Licéncia''' || GPL
 |-
-| '''Úrtima velsión<br>estabri''' || 9 d'Eneru<br>de 2009
+| '''Úrtima velsión<br />estabri''' || 9 d'Eneru<br />de 2009
 |-
 | '''Estau atual''' || En desarrollu
 |-
@@ -28,25 +28,25 @@
 |}
 '''GnuLinEx''' es una distribución de software libri basá en Debian Linux.
 
-Está apuchau pola Conseheria d'Infraestruturas i Desarrollu Tenulóhicu la [[Comuniá Autúnoma]] d'[[Estremaura|Estremaura]], siendu pioneru i secundau pol otrus olganismus púbricus i privaus del restu d'España. Duranti un periu considerabri e tiempu, la comuniá estremeña ofreció tamién apoyu a la d'[[Andaluzia|Andaluzia]] (la cual s'ispiró en GnuLinex pa esarrollal Guadalinex) nel emprantaeru e solucionis abiertas en coléhius, alministración, ec.
+Está apuchau pola Conseheria d'Infraestruturas i Desarrollu Tenulóhicu la [[Comuniá Autúnoma]] d'[[Estremaura]], siendu pioneru i secundau pol otrus olganismus púbricus i privaus del restu d'España. Duranti un periu considerabri e tiempu, la comuniá estremeña ofreció tamién apoyu a la d'[[Andaluzia]] (la cual s'ispiró en GnuLinex pa esarrollal Guadalinex) nel emprantaeru e solucionis abiertas en coléhius, alministración, ec.
 
 La úrtima velsión estabri hue empuntá a internet el 9 d'Eneru de 2009, con Gnome 2.22, Xorg 7.3, i Kernel Debian-Lenny.
 
-==Prencipal software incluiu==
+== Prencipal software incluiu ==
 En heneral, tolas velsionis gastan las siguientis apricacionis:
-#Suite d'oficina e cóigu abiertu '''OpenOffice.org''' con :
-##Procesaol de testus i eitol de HTML
-##Pograma e cárculu
-##Presentacionis
-#Vezerus de correu eletrónicu i de USENET
-#Escrucaol web, Iceweasel (Lenix), Firefox (2006), i Opera en velsionis anterioris a la 2006.
-#Pogramas d'eición d'afotugráfias
-##Gimp
+# Suite d'oficina e cóigu abiertu '''OpenOffice.org''' con :
+## Procesaol de testus i eitol de HTML
+## Pograma e cárculu
+## Presentacionis
+# Vezerus de correu eletrónicu i de USENET
+# Escrucaol web, Iceweasel (Lenix), Firefox (2006), i Opera en velsionis anterioris a la 2006.
+# Pogramas d'eición d'afotugráfias
+## Gimp
 
 Cabi destacal qu'el Linex Lenix gasta efetos Compiz i trai una tupa pogramas más que las velsionis anterioris de seri (Amule, Bittorrent Transmission, Amsn, Pidgin, Firestarter...), inque los nombris nu as siu estremeñizaus.
 
 [[File:Escrucaol Mozilla Firefox.png|300px|right|Escrucaol en Linex]]
-==Vertuis==
+== Vertuis ==
 # Estabiliá
 # Facil istalación
 # Libri distribuieru i usu
@@ -54,24 +54,24 @@ Cabi destacal qu'el Linex Lenix gasta efetos Compiz i trai una tupa pogramas má
 # Sin costis pol pagu e licéncias
 # Adatación al español (los pogramas vinin arrepresentaus pol emportantis figuras la literatura, céncia, ec.)
 
-==Defetus==
+== Defetus ==
 # En pocas tiendas se puei mercal un ordenaol con ''GnuLinEx'' preistalau. Esti "pobrema" es produtu los alcuerdus entri Microsoft i los fabricantis de hardware, nu e dengún sistema operativu.
 # Los nombris duna tupa pogramas contenius ena distribución án siu chambaus pol otrus relacionaus con Estremaura, lo que puei hazel enteosu el usu u deprendiçahi en ocasionis, inque ena velsión 2004 s'á incluiu la posibiliá d'otal polos iconus i nombri orihinalis de tolas apricacionis incluias en ''GnuLinEx''. De cualisquiel mó, albondus usuárius lo ven cumu una virtú, ya que les ayua a recuerdal las sus apricacionis preferias con nombris comunis i sin angricismus. Ena úrtima velsión de GNU Linex, los nombris nu ás siu estremeñizaus, haziendu mas acessibri el sistema operativu a los nu estremeñus.
 
-==Linex Coléhius==
+== Linex Coléhius ==
 Es una variación de ''GnuLinex'' orientá a los eucaoris. Está hormau pol tres perfilis d'usuáriu, ca unu dellus, pa un ciclu e primária. Tós están presonalizaus i llenus de contenius i software eucativu pa ca alunu.
 
-==Usuárius==
+== Usuárius ==
 En Mayu e 2003, s'abian distribuiu 200.000 CDs de LinEx de bardi pol mé los diárius localis, s'abian descargau 70.000 imahin del sistema operativu dendi el sitiu web la distribución. Alreol del 10% los abitantis d'Estremaura pudrian gastal LinEx.
 
-==Prémius conseguius==
+== Prémius conseguius ==
 * Prémiu que concei la ''Asociación de Usuarios de las Telecomunicaciones (AUTEL)'' al esarrollu e servícius avançaus de Tenulohias la Enhormación i la Comunicación (Otubri e 2002)
-* Prémiu la "Asociación de Usuarios Españoles de Linux (Hispalinux)" a la [[Hunta d'Estremaura|Hunta d'Estremaura]], pol esarrollu e gnuLinEx (Noviembri e 2002)
+* Prémiu la "Asociación de Usuarios Españoles de Linux (Hispalinux)" a la [[Hunta d'Estremaura]], pol esarrollu e gnuLinEx (Noviembri e 2002)
 * Prémiu "Computerworld 2003" a la Conseheria d'Eucáncia, Céncia i Tenulohia la Hunta d'Estremaura pola criación de gnuLinEx (Marçu e 2003)
 * Prémiu "Vettonia, voz Castúa" al conseheru d'Eucáncia, Céncia i Tenulohia, conceiu pola "Agrupación Extremeña de Alcorcón", pol esarrollu e gnuLinEx (Húniu e 2003)
 * Prémiu Uropeu la Enovación Rehional, Categoria e Socieá la Enhormación, otorgau pola Comisión Uropea nel marcu el Pograma Rehional Uropeu d'Acionis Enovaoras i entregau nel prenu el Comité las Rehionis, en Bruselas, el 22 d'Abril de 2004.
 
-==GnuLinEx enos Estitutus d'Eucáncia Secundária==
+== GnuLinEx enos Estitutus d'Eucáncia Secundária ==
 Ogañu gnuLinEx s'alcuentra prencipalmenti enos estitutus púbricus d'eucáncia secundária la comuniá estremeña, cuentandu con un ordinaol (con gnuLinEx istalau) pol ca dos alunus u pol ca mesa, pa sel mas desatus.
 
 == Atihus ==
@@ -92,6 +92,6 @@ Ogañu gnuLinEx s'alcuentra prencipalmenti enos estitutus púbricus d'eucáncia 
 [[gl:Linex]]
 [[ja:GnuLinEx]]
 [[pl:GnuLinEx]]
-[[pt:LinEx]]
+[[pt:GnuLinEx]]
 [[ro:GnuLinEx]]
 [[simple:GnuLinEx]]
