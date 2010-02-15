@@ -1,18 +1,18 @@
-[[Image:Escrucaol Mozilla Firefox.png|thumb|right|250px|Escrucaol web Mozilla Firefox]]
-Un  '''escrucaol''' es una apricación software que premiti al usuáriu arrecuperal i visoreal decumentus d'ipertestu, polo heneral descritus en HTML, dendi sirvioris web de tol mundu a través d'[[Internet]]. Esta redi e decumentus se llamá World Wide Web (WWW). Cualisquiel escrucaol atual premiti muestral u ehecutal gráficus, secuéncias de vídiu, son, animacionis i pogramas diversus, amás del testu i los atihus.
+[[File:Escrucaol Mozilla Firefox.png|thumbnail|right|250px|Escrucaol web Mozilla Firefox]]
+Un '''escrucaol''' es una apricación software que premiti al usuáriu arrecuperal i visoreal decumentus d'ipertestu, polo heneral descritus en HTML, dendi sirvioris web de tol mundu a través d'[[Internet]]. Esta redi e decumentus se llamá World Wide Web (WWW). Cualisquiel escrucaol atual premiti muestral u ehecutal gráficus, secuéncias de vídiu, son, animacionis i pogramas diversus, amás del testu i los atihus.
 
 La huncionaliá básica dun escrucaol web es premitil la visorealiçación de decumentus de testu, posibrienti con recursus murtimeya encrustaus. Los decumentus puein estal asiahaus ena computaora ondi está el usuáriu, peru tamién puein estal en cualisquiel otru dispositivu qu'esté conetau a la computaora el usuáriu u a través d'[[Internet]], i que tenga los recursus nesezárius pala trasmisión de los decumentus (un [[software]] sirviol web).
 Estus decumentus, normalmenti conocius cumu ''[[Páhina web|páhinas web]]'', posein ''[[Atihu|atihus]]'' que atihan una parti testu u una imahin a otru decumentu, normalmenti relacionau con el testu u la imahin.
 
 El seguimientu d'atihus duna páhina a otra, assitiá en cualisquiel computaora conetá a la Internet, se llama escrucaeru.
 
-==Estória==
+== Estória ==
 
 El primel escrucaol, esarrollau nel CERN a finalis de 1990 i prencipius de 1991 pol Tim Berners-Lee, era bastanti sofisticau i gráficu, peru solu furrulaba en estacionis NeXT. 
 
 El escrucaol Mosaic, qu'al prencipiu furrulaba en entornus [[UNIX]] sobri X11, hue el primeru que s'estendió ebiu a que prontu el NCSA preparó velsionis pa [[Windows]] i [[Macintosh]]. Sin embargu, pocu aluspués entró nel mercau [[Netscape Navigator]] que nel intri superó en capaciais i velociá a Mosaic. Esti escrucaol tini la ventaha e huncional en abati tolos [[UNIX]], asín cumu en entornus [[Windows]]. 
 
-[[Image:Browser Wars.svg|thumb|right|200px|Estimación del usu nel periu 1996-2006]]
+[[File:Browser Wars.svg|thumbnail|right|200px|Estimación del usu nel periu 1996-2006]]
 [[Internet Explorer]] (Ex Spyglass Mosaic) hue l'apuesta tardia e [[Microsoft]] pa entral nel mercau i ogañu á conseguiu vencel al Netscape Navigator entri los usuárius de [[Windows]]. Enos úrtimus añus s'á viviu un auténticu estrumpiu el númiru d'escrucaoris, qu'ofrecin ca vezi una mayol entegración con el entornu e ventanas nel que s'ehecutan. Netscape Communications Corporation liberó el cóigu huenti el su escrucaol, naciendu d'esta horma el proyeutu [[Mozilla]]. 
 
 Finalmenti Mozilla hue reescritu endi ceru tras eciilsi a esarrollal i gastal cumu basi un nuevu conhuntu e widgets murtipratahorma basau en XML llamau XUL i estu hizu que tardara albondu mas en apaicel de lo previstu nun prencipiu, apaiciendu una velsión 1.0 de gran caliá i pa una tupa pratahormas a la vezi el 5 e Húniu el 2002.
@@ -23,7 +23,7 @@ A finalis de 2004 apaici nel mercau Firefox, una rama d'esarrollu e Mozilla que 
 
 Uguañoti el escrucaol mas gastau nel mundu es [[Internet Explorer]] en tolas sus velsionis, angunas impresas endican qu'esta ventaha s'ebi a que vini entegrau con Windows. Detrás d'esti está el escrucaol de Mozilla Firefox... el cual s'está populariçandu ca vezi más, esti es un competiol sériu al proutu e [[Microsoft]]. Desistin tamién los escrucaoris Safari, [[Netscape Navigator]] i [[Opera (escrucaol)|Opera]] los cualis tinin un usu e menus del 2% nel mercau.
 
-==Sabulugaris d'escrucaoris web==
+== Sabulugaris d'escrucaoris web ==
 
 {| class="wikitable" align="right" style="font-size: 85%; text-align: center; margin-left: 1em"
 |-
@@ -44,52 +44,52 @@ Uguañoti el escrucaol mas gastau nel mundu es [[Internet Explorer]] en tolas su
 | style="background-color:#FFE4C4;" | Algotrus - 0.17%
 |}
 
-*Amaya, el W3C
-*[[Internet Explorer]] i derivaus:
-**Avant Browser
-**Maxthon
-**G-Browser
-*Mozilla (SeaMonkey) i derivaus:
-**Mozilla Firefox
-**Beonex 
-**Escrucaol web [[IBM]] pa [[OS/2]]
-**Aphrodite
-**Flock
-**Galeon pa GNOME
-**Epiphany pa GNOME
-**Skipstone
-**K-Meleon pa [[Windows]]
-**Camino pa Mac OS X
-*[[Netscape Navigator]] (hata la velsión 4.xx) 
-*Opera
-*Konqueror (KHTML)
-**Abrowse
-*Safari
-*iCab
-*OmniWeb
-*Dillo
-*IBrowse
-*AWeb
-*Voyager
-*Espial Escape
-*HotJava
-*IEs4Linux 
+* Amaya, el W3C
+* [[Internet Explorer]] i derivaus:
+** Avant Browser
+** Maxthon
+** G-Browser
+* Mozilla (SeaMonkey) i derivaus:
+** Mozilla Firefox
+** Beonex 
+** Escrucaol web [[IBM]] pa [[OS/2]]
+** Aphrodite
+** Flock
+** Galeon pa GNOME
+** Epiphany pa GNOME
+** Skipstone
+** K-Meleon pa [[Windows]]
+** Camino pa Mac OS X
+* [[Netscape Navigator]] (hata la velsión 4.xx) 
+* Opera
+* Konqueror (KHTML)
+** Abrowse
+* Safari
+* iCab
+* OmniWeb
+* Dillo
+* IBrowse
+* AWeb
+* Voyager
+* Espial Escape
+* HotJava
+* IEs4Linux 
 Escrucaoris web basaus en testu:
-*Links
-*Lynx
-*Netrik
-*w3m
+* Links
+* Lynx
+* Netrik
+* w3m
 
 Primerus escrucaoris (que ya nu s'están esarrollandu):
-*Cello
-*CyberDog
-*MidasWWW
-*Mosaic
-**Spyglass Mosaic
-*ViolaWWW
+* Cello
+* CyberDog
+* MidasWWW
+* Mosaic
+** Spyglass Mosaic
+* ViolaWWW
 
-==Atihus==
-*[http://www.network-press.org/?navegador_concepto Huncionis del escrucaol] (en castillanu)
+== Atihus ==
+* [http://www.network-press.org/?navegador_concepto Huncionis del escrucaol] (en castillanu)
 * [http://www.w3.org/People/Berners-Lee/WorldWideWeb.html Primel escrucaol web]. Descrición i imahin (en ingrés).
 * [http://www.blooberry.com/indexdot/history/browsers.htm Estorial d'escrucaoris] Línia e tiempu entri 1993-2003 (en ingrés).
 * [http://navegadores.org/fechas-de-publicacion/ Fechas de publicación de las velsionis d'escrucaoris] Fechas de publicación de los prencipalis escrucaoris web a lo largu la estória..
@@ -103,7 +103,7 @@ Primerus escrucaoris (que ya nu s'están esarrollandu):
 [[bar:Browser]]
 [[be:Web-браўзер]]
 [[be-x-old:Браўзэр]]
-[[bg:Уеббраузър]]
+[[bg:Уеб браузър]]
 [[bn:ওয়েব ব্রাউজার]]
 [[br:Merdeer]]
 [[bs:Internetski preglednik]]
@@ -154,6 +154,7 @@ Primerus escrucaoris (que ya nu s'están esarrollandu):
 [[mr:न्याहाळक]]
 [[ms:Pelayar web]]
 [[nds:Nettkieker]]
+[[ne:वेब ब्राउजर]]
 [[nl:Webbrowser]]
 [[nn:Nettlesar]]
 [[no:Nettleser]]
