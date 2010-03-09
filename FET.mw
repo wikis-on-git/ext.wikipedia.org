@@ -2,19 +2,17 @@ El '''transistol d'efeutu campu''' (''Field-Effect Transistor'' o ''FET'', en in
 
 
 
-==Tipus de transistoris d'efectu campu==
+== Tipus de transistoris d'efectu campu ==
 
 * El [[MOSFET]] (''Metal-Oxide-Semiconductor Field-Effect Transistor'') gasta una uñon (normalment SiO<sub>2</sub>).
 * El [[JFET]] (''Junction Field-Effect Transistor'') gasta una uñón p-n.
 * El [[MESFET]] (''Metal-Semiconductor Field Effect Transistor'') gasta una [[barrera Schottky]]
 * En el [[HEMT]] (''High Electron Mobility Transistor''), tamién llamau HFET (''heterostructura FET''), la banda de material dopá con "vacius" holma el aislanti.
-
-
-[[Category:enhenieria]]
-
 == Atihus ==
 
-*[http://www.freescale.com/files/rf_if/doc/app_note/AN211A.pdf FET]
+* [http://www.freescale.com/files/rf_if/doc/app_note/AN211A.pdf FET]
+
+[[Category:Enhenieria]]
 
 [[ar:مقحل حقلي]]
 [[be:Палявы транзістар]]
@@ -48,4 +46,5 @@ El '''transistol d'efeutu campu''' (''Field-Effect Transistor'' o ''FET'', en in
 [[sv:Fälteffekttransistor]]
 [[ta:மின்புல விளைவுத் திரிதடையம்]]
 [[uk:Польовий транзистор]]
+[[vi:Field-effect transistor]]
 [[zh:场效应管]]
