@@ -4,9 +4,9 @@ El '''transistol''' es un dispositivu semicondutol d'estau sóliu que se gasta p
 [[File:Bipolar Junction Transistor PNP Structure.png|thumb]]
 El transistol bipolal se huchea asina polquè el canal de condución prencipal gasta tantu electronis cumu vacius pa transpoltal la corrienti eletrica prencipal. Un transistol de uñón bipolal está hormau pol dos Uniones PN nun solu cristal semicondutol, separaus pol una rehión mu estrecha. De esta maera quean hormadas tres rehionis:
 
-*Emisol, que se diferencia de las otras dos pol estal huertimenti dopada, comportándosi cumu un metal. 
-*Basi, la intermeya, mu estrecha, que separa el emisol del coletol. 
-*Coletol, de estensión muchu mayol. 
+* Emisol, que se diferencia de las otras dos pol estal huertimenti dopada, comportándosi cumu un metal. 
+* Basi, la intermeya, mu estrecha, que separa el emisol del coletol. 
+* Coletol, de estensión muchu mayol. 
  
 
 '''Zona de rutura''' : El hechu de sel nula la correnti de base, es equivalenti a mantenel el circuitu basi emisol abieltu, en estas circustancias la correnti e coletol es praticamenti nula i pol esu se puei consideral el transistol nel su circuitu cumu un '''enterrutol''' abieltu. Un transistol esta en corti cuandu:
@@ -29,8 +29,8 @@ El transistol bipolal se huchea asina polquè el canal de condución prencipal g
 :Cuandu un transistol no está ni en su rehión de saturación ni en la región de rutura astoncis está en una rehión intermeya, la región aitiva. Nesta rehión la corrienti e coletol (Ic) ependi prencipalmenti de la corrienti de basi (Ib), de β (ganancia de corrienti, es un datu del fabricanti) i de las resistencias que se encuentrin conetadas nel coletol i emisol. Esta rehión es la más emportanti si lu que se anhea es utilizal el transistol cumu un amplificadol de señal.
 
 == Atihus esternus ==
-*[http://otro-geek-mas.blogspot.com/2008/08/como-funcionan-realmente-los.html Lo cumu huncionan los transistoris]
-*[http://commons.wikimedia.org/wiki/Category:Transistors?uselang=ca commons]
+* [http://otro-geek-mas.blogspot.com/2008/08/como-funcionan-realmente-los.html Lo cumu huncionan los transistoris]
+* [http://commons.wikimedia.org/wiki/Category:Transistors?uselang=ca commons]
 
 [[Category:Enhenieria]]
 
@@ -57,6 +57,7 @@ El transistol bipolal se huchea asina polquè el canal de condución prencipal g
 [[fi:Transistori]]
 [[fr:Transistor]]
 [[fur:Transistôr]]
+[[gan:晶體管]]
 [[gl:Transistor]]
 [[he:טרנזיסטור]]
 [[hi:ट्रांज़िस्टर]]
