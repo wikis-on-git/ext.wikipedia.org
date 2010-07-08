@@ -1,17 +1,23 @@
-{{Polgüiquifical}}{{Polcorrihil}}{{Polmehoral}}En [[electrónica]] un '''trigger Schmitt''' o '''disparaol de Schmitt''' es un tipu especial de [[cercuitu eléctricu|cercuitu]] comparador. Fue cavilau pol estaduniensi Otto Herbert Schmitt.
-[[Image:Ni schmitt.png|center]]
+{{Polmehoral}}
+
+En [[eletrónica]] un '''trigger Schmitt''' o '''disparaol de Schmitt''' es un tipu especial de [[cercuitu elétricu|cercuitu]] conparaol. Fue desarrollau pol [[Estaus Unius|estauniensi]] [[Otto Herbert Schmitt]].
+
+[[Image:Ni schmitt.png|right|150px]]
+
+
 == Huncionamientu ==
-Un trigger Schmitt chamba el su estau de saliá cuandu la [[tensión]] ena su entrá sobrepasa un detelminau livel; la salida no güelvi a cámbeal quandu la entrá baha d'esi voltahi, sinu qu'el livel de tensión pal cámbeu es otru destintu, más baju qu'el primeru. A esti efeutu se conoz cumu ciclu de [[histéresis]]. 
-El símbolu pa un trigger Schmitt es un triángulu que tien nel su enteriol el símbolu de la histéresis:
-<center>
-[[Image:Schmitttrigger symbol.png]]
-</center>
+Un trigger Schmitt cambea el su estau de salia quandu la [[tension]] ena su entrá cola un determinau nivel; la salia no güelvi a cambeal quandu la entrá baja d'essi voltagi, sino qu'el nivel de tension pal cámbeu es otru destintu, mas baju qu'el primeru. A esti efeutu se conoci comu ciclu de [[istéresi]].
+ 
+El símbolu pa un trigger Schmitt es un triángulu que tien nel su enteriol el símbolu de la istéresi:
 
-== Atihus ==
-*[http://hyperphysics.phy-astr.gsu.edu/hbase/electronic/schmitt.html Páhina que esplica el trigger Schmitt] 
-*[http://www.thebakken.org/research/Schmitt/Otto-intro.htm Biugrafía e Otto Schmitt]
+[[Image:Schmitttrigger symbol.png|center|thumb|200px]]
 
-[[Category:enhenieria]]
+
+== Atijus ==
+*[http://hyperphysics.phy-astr.gsu.edu/hbase/electronic/schmitt.html Página qu'esprica el trigger Schmitt]
+*[http://www.thebakken.org/research/Schmitt/Otto-intro.htm Biografía de Otto Schmitt]
+
+[[Category:engenieria]]
 
 [[de:Schmitt-Trigger]]
 [[en:Schmitt trigger]]
