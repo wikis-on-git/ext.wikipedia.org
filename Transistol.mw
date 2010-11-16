@@ -2,22 +2,22 @@
 El '''transistol''' es un dispositivu semicondutol d'estau sóliu que se gasta pa l'amplificacion i la conmutacion, i tien tres telminalis: una corrienti o vortagi apricá a unu los bichus controla la corrienti los otrus dos. El transistol es el componenti prencipal de tola eletrónica muelna. Enos circuitus dehitalis, el transistol se gasta comu un enterrutol elétricu mu ligeru, i la olganizacion sistemática los transistoris premiti qu'enhuncionin comu una [[puerta logica]], memórias tipu [[RAM]] i [[micruprohessaol|microprohessaoris]]. Enos cercuitus analógicus los transistoris se gastan cumu amplificaoris. Los amplificaoris d'audiu, las huentis d'alimentacion estabiliçás i los amplificaoris de frecuéncia son cercuitus analogicus que llevan transistoris. Áin dos tipus basicus de transistoris, los bipolaris (BJT) i los d'efeutu campu ([[FET]]), i ca unu hunciona de holma deferenti. 
 == Huncionamientu ==
 [[File:Bipolar Junction Transistor PNP Structure.png|thumb]]
-El transistol bipolal se huchea asina polquè el canal de condución prencipal gasta tantu electronis cumu vacius pa transpoltal la corrienti eletrica prencipal. Un transistol de uñón bipolal está hormau pol dos Uniones PN nun solu cristal semicondutol, separaus pol una rehión mu estrecha. De esta maera quean hormadas tres rehionis:
+El transistol bipolal se huchea assina porque el canal de conducion prencipal gasta tantu electronis cumu vacius pa transpoltal la corrienti eletrica prencipal. Un transistol de union bipolal está hormau por dos Uniones PN nun solu cristal semicondutol, separaus por una region mu estrecha. De esta maera quean holmadas tres regionis:
 
-* Emisol, que se diferencia de las otras dos pol estal huertimenti dopada, comportándosi cumu un metal. 
-* Basi, la intermeya, mu estrecha, que separa el emisol del coletol. 
-* Coletol, de estensión muchu mayol. 
+* Emisol, que se deferencia de las otras dos por estal huertimenti dopada, comportándo-se comu un metal. 
+* Basi, la entermeya, mu estrecha, que separa el emisol del coletol. 
+* Coletol, d'estension muchu mayol. 
  
 
-'''Zona de rutura''' : El hechu de sel nula la correnti de base, es equivalenti a mantenel el circuitu basi emisol abieltu, en estas circustancias la correnti e coletol es praticamenti nula i pol esu se puei consideral el transistol nel su circuitu cumu un '''enterrutol''' abieltu. Un transistol esta en corti cuandu:
+'''Zona de rutura''' : El hechu de sel nula la correnti de basi, es equivalenti a mantenel el circuitu basi emisol abieltu, nestas circustancias la correnti de coletol es praticamenti nula i por essu se puei consideral el transistol nel su circuitu cumu un '''enterrutol''' abieltu. Un transistol esta en corti quandu:
 
 :<math>corrienti de coletol  = corrienti de emisol = 0, (Ic = Ie = 0)</math>
 
 
 
-'''Zona de saturacion''' : El '''díodu''' colectol està polariçau directamenti i el transistol se porta cumu una pequeña resistencia.
+'''Zona de saturacion''' : El '''díodu''' colectol está polariçau directamenti i el transistol se porta cumu una pequeña resistencia.
 
-[[File:npn BJT cross section.PNG|thumb|250px|left|Corti trasvelsal simplificau dun transistol bipolal de huntaera NPN. Dondi se puei aprecial cumu la huntaera basi-coletol es muchu más amplia que la basi-emisol.]]
+[[File:npn BJT cross section.PNG|thumb|250px|left|Corti trasvelsal simplificau dun transistol bipolal de huntaera NPN. Ondi se puei aprecial comu la hjntaera basi-coletol es muchu mas amplia que la basi-emisol.]]
 
 
 
@@ -25,8 +25,8 @@ El transistol bipolal se huchea asina polquè el canal de condución prencipal g
 [[File:BJT symbol NPN.svg|thumb|El símbolu de un transistol NPN.]]
 
 
-* '''Rehión aitiva''': 
-:Cuandu un transistol no está ni en su rehión de saturación ni en la región de rutura astoncis está en una rehión intermeya, la región aitiva. Nesta rehión la corrienti e coletol (Ic) ependi prencipalmenti de la corrienti de basi (Ib), de β (ganancia de corrienti, es un datu del fabricanti) i de las resistencias que se encuentrin conetadas nel coletol i emisol. Esta rehión es la más emportanti si lu que se anhea es utilizal el transistol cumu un amplificadol de señal.
+* '''Region aitiva''': 
+:Quandu un transistol no está ni en su region de saturación ni ena region de rutura altoncis está en una region entermeya, la region aitiva. Nesta region la corrienti de coletol (Ic) ependi prencipalmenti de la corrienti de basi (Ib), de β (ganancia de corrienti, es un datu del fabricanti) i de las resistencias que s'alcuentrin conetás nel coletol i emisol. Esta region es la más emportanti si lu que se anhea es gastal el transistol cumu un amplificadol de señal.
 
 == Atihus esternus ==
 * [http://otro-geek-mas.blogspot.com/2008/08/como-funcionan-realmente-los.html Lo cumu huncionan los transistoris]
