@@ -1,16 +1,16 @@
 {| border="1" cellpadding="4" style="float: right; margin: 0 0 1em 1em; width: 300px; background:#FFF5EE; border: 1px #A0522D solid; border-collapse: collapse; font-size: 95%;"
-|+ style="margin-left: inherit; font-size: larger; font-weight: bold;" | <font size="-1"> <big>'''Navarra'''</big><br><big>'''Nafarroa'''</big>
+|+ style="margin-left: inherit; font-size: larger; font-weight: bold;" | <font size="-1"> <big>'''Navarra'''</big><br /><big>'''Nafarroa'''</big>
 | style="background:#FFFFFF;" align="center" colspan="2" |
 {| border="0" cellpadding="2" cellspacing="0" style="text-align: center;"
 |-----
-| width="140" | [[Image:Bandera de  Navarra.svg|150px]]
-| width="140" | [[Image:Escudo de Navarra (oficial).svg|100px]]
+| width="140" | [[File:Bandera de  Navarra.svg|150px]]
+| width="140" | [[File:Escudo de Navarra (oficial).svg|100px]]
 |-----
 |}
 |- bgcolor="#FFEFD5"
 ! colspan="2" align=center | Situacion
 |-
-| style="background:#c6c6c6;" align="center" colspan="2" | [[Image:Localización de Navarra.svg|300px]]
+| style="background:#c6c6c6;" align="center" colspan="2" | [[File:Localización de Navarra.svg|300px]]
 |- bgcolor="#FFEFD5"
 ! colspan="2" align=center | Datus estaísticus
 |-
@@ -19,11 +19,11 @@
 | [[Luenga oficial|Luengas oficialis]]
 | [[Castellanu]] i [[euskera]]
 |-
-| [[Superfici]]<br/>&nbsp;- total<br/>&nbsp;- % d'España
-| [[Comuniais Autúnomas d'España pol superfici|Puestu núm. 11]]<br/> 10.391[[Qm²]]<br/>                
+| [[Superfici]]<br />&nbsp;- total<br />&nbsp;- % d'España
+| [[Comuniais Autúnomas d'España pol superfici|Puestu núm. 11]]<br /> 10.391[[Qm²]]<br /> 
 |-
-| [[Puebración]]<br/>&nbsp;- Total (2007)<br/>&nbsp;- <br/>&nbsp;- [[Densiá e puebración|Densiá]]
-| [[Comuniais Autúnomas d'España pol puebración|Puestu núm 15]]<br/> 629.569  <br/>  %<br/>60,22 ab./qm² 
+| [[Puebración]]<br />&nbsp;- Total (2007)<br />&nbsp;- <br />&nbsp;- [[Densiá e puebración|Densiá]]
+| [[Comuniais Autúnomas d'España pol puebración|Puestu núm 15]]<br /> 629.569 <br /> %<br />60,22 ab./qm² 
 |-
 | [[Hentilíciu]] ||navarro
 |-
@@ -31,8 +31,8 @@
 |-
 | [[ISO 3166-2]] ||NA
 |-
-| [[Cortis españolas|Arrepresentación<br/>palramentária]]<br/>&nbsp;- [[Congresu los Deputaus|Congresu]]<br/>&nbsp;- [[Senau español|Senau]]
-| &nbsp;<br/>&nbsp;<br/>5 escañus<br/>5 escañus
+| [[Cortis españolas|Arrepresentación<br />palramentária]]<br />&nbsp;- [[Congresu los Deputaus|Congresu]]<br />&nbsp;- [[Senau español|Senau]]
+| &nbsp;<br />&nbsp;<br />5 escañus<br />5 escañus
 |-
 | [[Presientis de Navarra|Presienti]]
 | [[Miguel Sanz Sesma]] ([[UPN]])
@@ -112,6 +112,7 @@ La ''' Comuniá Foral de Navarra''' (''Comunidad foral de Navarra'', en [[castel
 [[ro:Navarra]]
 [[roa-tara:Navarra]]
 [[ru:Наварра (автономное сообщество)]]
+[[sc:Navarra]]
 [[scn:Navarra]]
 [[sh:Navarra]]
 [[simple:Navarre]]
