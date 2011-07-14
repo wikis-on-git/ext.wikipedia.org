@@ -1,6 +1,6 @@
 {| style="border-spacing:8px;margin:0px -8px"
-|class="MainPageBG" style="width: 50%; border: 1px solid #006600; background-color: #ffffff; vertical-align: top; -moz-border-radius:10px " | 
-{| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background-color:#F5FBEF; "
+|class="MainPageBG" style="width: 50%; border: 1px solid #006600; background-color: #fffff0; vertical-align: top; -moz-border-radius:10px " | 
+{| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background-color:#fffff0; "
 |style="width:280px;text-align:left;white-space:nowrap;color:#000" |
 <center><div style="font-size:162%;border:none;margin: 0;padding:.1em;color:#000">Bienveniu a la [[Güiquipeya|Güiquipeya]],</div>
 <div style="top:+0.2em;font-size: 95%">la ciclopédia que [[Ayua|qualisquiera puei edital]].</div>
@@ -29,8 +29,8 @@
 
 <!-------------------------------------------------------------------->
 {| style="border-spacing:8px;margin:0px -8px"
-|class="MainPageBG" style="width: 50%; border: 1px solid #006600; background-color: #ffffff; vertical-align: top; -moz-border-radius:10px " | 
-{| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background-color:#ffffff; "
+|class="MainPageBG" style="width: 50%; border: 1px solid #006600; background-color: #fffff0; vertical-align: top; -moz-border-radius:10px " | 
+{| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background-color:#fffff0; "
 <!-------------------------------------------------------------------->
 ! style="background-color: #DCF4CC; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #006600; text-align: left; padding-left: 7px; -moz-border-radius:10px " | <div style="float:right;">[[File:Wbar_green2.jpg]]</div><div style="float:left;">[[File:Exquisite-kmenu.png|23px]] '''Endilgui destacau'''
 |-
@@ -45,8 +45,8 @@
 ''[[Güiquipeya:La trohi las notícias|'''La troji las notícias''']]''
 |}
 <!----------------------------------------------------------------------------->
-|class="MainPageBG" style="border:1px solid #006600; background-color:#ffffff; vertical-align:top; -moz-border-radius:10px "| <div style="margin: 4px 4px 2px 4px; text-align: left;">
-{| width="100%" cellpadding="2" cellspacing="3" style="vertical-align: top; background-color:#ffffff; "
+|class="MainPageBG" style="border:1px solid #006600; background-color:#fffff0; vertical-align:top; -moz-border-radius:10px "| <div style="margin: 4px 4px 2px 4px; text-align: left;">
+{| width="100%" cellpadding="2" cellspacing="3" style="vertical-align: top; background-color:#fffff0; "
 |-
 <!-------------------------------------------------------------------->
 ! style="background-color: #DCF4CC; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #006600; text-align: left; padding-left: 7px;-moz-border-radius:10px " | <div style="float:right;">[[File:Wbar_green2.jpg]]</div><div style="float:left;">[[File:Compfile.png|23px]] Últimus endilguis</div>
@@ -55,7 +55,7 @@
 <div style="float:left; width:100%;"><div style="float:left; width:32px;"></div><div style="float:center; width:350px;"><inputbox>
 type=create
 width=15
-bgcolor=#ffffff
+bgcolor=#fffff0
 break=no
 </inputbox></div></div>
 {{Úrtimus endilguis}}
@@ -81,8 +81,8 @@ break=no
 |}
 <!-------------------------------------------------------------------->
 {| style="border-spacing:8px;margin:0px -8px"
-|class="MainPageBG" style="width: 50%; border: 1px solid #006600; background-color: #ffffff; vertical-align: top; -moz-border-radius:10px " | 
-{| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background-color:#ffffff; "
+|class="MainPageBG" style="width: 50%; border: 1px solid #fffff0; background-color: #fffff0; vertical-align: top; -moz-border-radius:10px " | 
+{| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background-color:#fffff0; "
 <!-------------------------------------------------------------------->
 ! style="background-color: #DCF4CC; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #006600; text-align: left; padding-left: 7px; -moz-border-radius:10px " | <div style="float:right;">[[File:Wbar green2.jpg]]</div><div style="float:left;">[[File:Exquisite-packagesettings.png|23px]] '''Categorias'''
 |-
