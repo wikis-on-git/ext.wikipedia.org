@@ -1,0 +1,64 @@
+'''Ríu-Lobus''' (''Riolobos'' en [[luenga española|castellanu]] i oficialmenti) es un monicipiu d'[[Estremaúra]], ena [[província de Caçris]]. S'assitía a 26'4 km de [[Praséncia]]. Tien un área de 49,49 km² con una puebración de 1225 abitantis i una densidá de 24,75 hab/km².
+== Demografia ==
+
+<timeline>
+Colors=
+  id:lightgrey value:gray(0.8)
+  id:darkgrey  value:gray(0.6)
+  id:bar       value:rgb(1,0.75,0.4)
+
+ImageSize = width:500 height:300
+PlotArea = left:50 bottom:20 top:20 right:30
+DateFormat = x.y
+Period = from:0 till:2000
+TimeAxis = orientation:vertical
+AlignBars = justify
+ScaleMajor = gridcolor:darkgrey increment:200 start:0
+ScaleMinor = gridcolor:lightgrey increment:40 start:0
+BackgroundColors = canvas:white
+
+BarData=
+  bar:1900 text:1900
+  bar:1910 text:1910
+  bar:1920 text:1920
+  bar:1930 text:1930
+  bar:1940 text:1940
+  bar:1950 text:1950
+  bar:1960 text:1960
+  bar:1970 text:1970
+  bar:1981 text:1981
+  bar:1991 text:1991
+  bar:2001 text:2001
+  bar:2010 text:2010
+
+PlotData=
+  color:bar width:20 align:left
+  bar:1900 from:0 till:1321
+  bar:1910 from:0 till:1287
+  bar:1920 from:0 till:1340
+  bar:1930 from:0 till:1276
+  bar:1940 from:0 till:1646
+  bar:1950 from:0 till:1714
+  bar:1960 from:0 till:1894
+  bar:1970 from:0 till:1996
+  bar:1981 from:0 till:1783
+  bar:1991 from:0 till:1640
+  bar:2001 from:0 till:1490
+  bar:2010 from:0 till:1386
+
+PlotData=
+  bar:1900 at: 1321 fontsize:S text:1.321 shift:(-10,5)
+  bar:1910 at: 1287 fontsize:S text:1.287 shift:(-10,5)
+  bar:1920 at: 1340 fontsize:S text:1.340 shift:(-10,5)
+  bar:1930 at: 1276 fontsize:S text:1.276 shift:(-10,5)
+  bar:1940 at: 1646 fontsize:S text:1.646 shift:(-10,5)
+  bar:1950 at: 1714 fontsize:S text:1.714 shift:(-10,5)
+  bar:1960 at: 1894 fontsize:S text:1.894 shift:(-10,5)
+  bar:1970 at: 1996 fontsize:S text:1.996 shift:(-10,5)
+  bar:1981 at: 1783 fontsize:S text:1.783 shift:(-10,5)
+  bar:1991 at: 1640 fontsize:S text:1.640 shift:(-10,5)
+  bar:2001 at: 1490 fontsize:S text:1.490 shift:(-10,5)
+  bar:2010 at: 1386 fontsize:S text:1.386 shift:(-10,5)
+</timeline>
+
+[[Category:Monicípius de Caçris]]
