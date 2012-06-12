@@ -1,1 +1,49 @@
-#redirect[[Wikipedia]]
+<div id="mainpage"></div>
+<!-- Beginning of header section -->{|style="width:100%;margin-top:+.7em;background-color:#FFFAF0;border:1px solid #666600"
+|style="width:56%;color:#000"|
+{|style="width:280px;border:solid 0px;background:#FFFAF0"
+|-
+|style="width:280px;text-align:center;white-space:nowrap;color:#000" |
+<div style="font-size:162%;border:none;margin: 0;padding:.1em;color:#000">Bem-vindos à [[Güiquipeya|Wikipédia em português oliventino]],</div>
+<div style="top:+0.2em;font-size: 95%">a enciclopêdia que qualquer um pode editári.</div>
+<div id="articlecount" style="width:100%;text-align:center;font-size:85%;">[[Special:Statistics|{{NUMBEROFARTICLES}}]] artigos em línguas da Estremadura interiôri</div>
+|}<!-- Portals Follow -->
+|style="width:20%;font-size:95%;color:#000"|
+:[[File:Broccoli-tree.svg|15px|]][[:Category:Céncias naturalis|Ciências naturais]]
+:[[File:Nuvola apps kdmconfig.png|15px]][[:Category:Céncias socialis|Ciências sociais]]
+:[[File:User with smile.svg|15px]][[:Category:Biugrafias|Biografias]]
+|style="width:20%;font-size:95%"|
+:[[File:Nuvola apps input devices settings.png|15px]][[:Category:Tenulohia|Tecnologia]]
+:[[File:Nuvola apps bookcase.png|15px]][[:Category:Curtura|Cultura]]
+:[[File:Gamepad.svg|15px]][[:Category:Socieá|Sociedade]]
+|}<!-- End Portals -->
+{|style="width:100%;background:none;margin:-.8em 0 -.7em 0"
+|style="font-size:95%;text-align:left;white-space:nowrap;color:#000"|[[Bienviniu|Bem-vindos]] '''·''' [[Güiquipeya|Sobre a Wikipédia]] '''·''' [[Ayua|Ajuda]] '''·''' [[Zona e prebas|P'ncípia a exp'rimentári]]
+|style="font-size:95%;padding:10px 0;margin:0px;text-align:right;white-space:nowrap;color:#000"| [[Estrepeya:Éndici liheru|Índice A–Z]] '''·''' [[La Comuniá|A Comunidade]] '''·''' [[La caraba|A conversa]] '''·''' [[Güiquipeya:Embahá|Embassy]]
+|}
+<!-- End of header section / beginning of left-column -->
+
+{| style="border: 0; background-color: #ffffff" cellpadding="0" cellspacing="10"
+| style="width: 50%; vertical-align: top; border:1px solid #FFFAF0; background-color: #FFFAF0" |
+<div style="background-color:#DAA520; font-size:1px; height:8px; border-bottom:1px solid #000000;"></div>
+<div style="float:right; margin:8px; margin-top:5px">[[File:Nuvola apps kcoloredit.svg|35px]]</div>
+<div style="font: 13pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;">Foto destacada</div>
+<div style="font-size:9pt; padding:5px">
+{{Foto destacada}}
+</div>
+| style="width: 50%; vertical-align: top; border:1px solid #FFFAF0; background-color: #FFFAF0" |
+<div style="background-color:#DAA520; font-size:1px; height:8px; border-bottom:1px solid #000000;"></div>
+<div style="float:right; margin:5px; margin-top:5px">[[File:Exquisite-opera.png|35px]]</div>
+<div style="font: 13pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #aaa;">Artículo destacado</div>
+<div style="font-size:9pt; padding:5px">
+{{Artículo destacado (por)}}
+</div>
+|}
+
+== Artículos da Wikipédia ==
+* [[Olivença (português oliventino)|Olivença]]
+* [[Táliga (português oliventino)|Táliga]]
+
+[[Category:Wikipédia]]
+
+.
