@@ -1,14 +1,13 @@
 {| class="infobox_v2" style="width:23em; font-size:90%; text-align:left; background-color:#EBEBEB"
 |-
-! colspan="2" style="background-color:#66023C; color:#FFFFFF" class="cabecera xeografía" | {{PAGENAME}}
+! colspan="2" style="background-color:#66023C; color:#FFFFFF" class="cabecera geografía" | 
 |-
 |- style="background: #EBEBEB; text-align: center;"
-}}
 |-
 {{!}} align="center" colspan="2" {{!}} [[File:Pueblu vista.jpg|thumb|Pueblu dende una ruta]]
 {{!}}-
-{{#if: {{{pie|<noinclude>Una vista del pueblu</noinclude>}}} |
-{{!}} align="center" colspan="2" {{!}} <small>Una vista del pueblu</small>}}
+{{#if: {{{pie|<noinclude>Una vista'l pueblu</noinclude>}}} |
+{{!}} align="center" colspan="2" {{!}} <small>Una vista'l pueblu</small>}}
 |- style="background: #ffffff; text-align: center;"
 |-
 |-
@@ -16,13 +15,11 @@
 |-
 |'''[[Gentilíciu]]''':<ref>Ver nel [[wikt:|Uiccionariu]].</ref> || montemayorinu
 |-
-!colspan=2 bgcolor="#B2BEB5"|<font color="white">Xeografía</font>
+!colspan=2 bgcolor="#B2BEB5"|<font color="white">Geografía</font>
 |-
-|'''[[Comuniá Autónoma|Comuniá]]''':||[[Imaxe:{{{bandera_castiellaylleón|Flag_of_Castile_and_León.svg}}}|20px|Bandera de Castiella y Lleón]]&nbsp; [[Castilla i Lión]]
+|'''[[Comuniá Autónoma|Comuniá]]''':||[[Castilla i Lión]]
 |-
-|'''[[Provincia]]''':||[[Salamanca]]
-|-
-| {{#if:{{{mancomuniá|}}}|<tr><td>'''[[Mancomuniá]]'''</td><td>{{{mancomuniá}}}</td></tr>|}} Ruta la prata
+|'''[[Província]]''':||[[Salamanca]]
 |-
 |'''[[Comarcas de Salamanca|Comarca]]''':|| Serra de Béjal
 |-
