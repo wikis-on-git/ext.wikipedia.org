@@ -1,4 +1,62 @@
-{{pol revissal}}
+{| class="infobox_v2" style="width:23em; font-size:90%; text-align:left; background-color:#EBEBEB"
+|-
+! colspan="2" style="background-color:#66023C; color:#FFFFFF" class="cabecera xeografía" | {{PAGENAME}}
+|-
+|- style="background: #EBEBEB; text-align: center;"
+}}
+|-
+{{!}} align="center" colspan="2" {{!}} [[File:Pueblu vista.jpg|thumb|Pueblu dende una ruta]]
+{{!}}-
+{{#if: {{{pie|<noinclude>Una vista del pueblu</noinclude>}}} |
+{{!}} align="center" colspan="2" {{!}} <small>Una vista del pueblu</small>}}
+|- style="background: #ffffff; text-align: center;"
+|-
+|-
+| align="center" colspan=2 | {{#if:{{{mapa detalle|}}} | Mapes:<br />[[Archivu:|270px]]<br/ >}}[[File:Terminu Montemayor.png|thumb|Terminu municipal Montemayor]]
+|-
+|'''[[Xentiliciu]]''':<ref>Ver nel [[wikt:|Uiccionariu]].</ref> || montemayorino
+|-
+!colspan=2 bgcolor="#B2BEB5"|<font color="white">Xeografía</font>
+|-
+|'''[[Comunidá Autónoma|Comunidá]]''':||[[Imaxe:{{{bandera_castiellaylleón|Flag_of_Castile_and_León.svg}}}|20px|Bandera de Castiella y Lleón]]&nbsp; [[Castiella y Lleón]]
+|-
+|'''[[Provincia]]''':||[[Salamanca]]
+|-
+| {{#if:{{{mancomunidá|}}}|<tr><td>'''[[Mancomunidá]]'''</td><td>{{{mancomunidá}}}</td></tr>|}} Ruta la plata
+|-
+|'''[[Comarques de Salamanca|Comarca]]''':|| Xerra de Béjar
+|-
+|'''[[Partíu xudicial]]''':|| Partíu xudicial de Béjar
+|-
+!colspan=2 bgcolor="#B2BEB5"|
+|-
+|'''[[Altitú|Mayor altitú]]''':|| 682msnm
+|-
+|'''[[Población]]''':|| 331 hab. 
+|-
+|'''[[Área]]''':|| 15.30 km&sup2;
+|-
+|'''[[Densidá de población|Densidá]]''':|| 21.63 hab./km&sup2;
+|-
+|'''[[Población|Entidaes de población]]''':|| La Viñuela, la Cañada, Montemayor del Río
+|-
+|'''[[Capital (política)|Cabeza del conceyu]]''':||Montemayor del Río
+|-
+!colspan=3 bgcolor="#B2BEB5"|
+|-
+|'''[[Códigu postal]]''':|| 37727
+|-
+|'''[[Pref. telefónicu]]:|| 923
+|-
+!colspan=2 bgcolor="#B2BEB5"|<font color="white">Política </font>
+|-
+|'''[[Altitú|Alcalde]]''':||[[Jacinto Gómez Arroyo]] <small>(pp)</small>
+|-
+|-
+!colspan=2 bgcolor="#B2BEB5"|<font color="white">Sitiu web oficial</font>
+|-
+|colspan=2 align="center"|* [http://montemayordelrio.es/]
+|}<noinclude><br clear="all">
 '''Montimayor del Riu''' é una pruebación assitiá ena [[Serra-de-Bejal]], [[Província de Salamanca]], [[Castilla i Lión]], [[España]].
 
 [[Category:Monicípius e Salamanca]]
