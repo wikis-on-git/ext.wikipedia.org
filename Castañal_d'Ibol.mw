@@ -1,19 +1,1 @@
 '''Castañal d'Ibol''' (''Castañar de Ibor'' en [[Luenga castellana|castellanu]] i oficialmenti) es un puebru i conceju d'[[Estremaúra]], assitiau drentu delas sierras delas Villuercas. Preteneci ala comarca deos Iboris. Tien 	1 175 abitantis ([[2012]]) i una densidá de 7,89 ab/km².
-== Demografía ==
-Castañar de Ibor ha tenido la siguiente evolución demográfica desde [[1900]]:<ref>{{cita web|url=http://www.ine.es/jaxiBD/tabla.do?per=12&type=db&divi=DPOH&idtab=12|título=Poblaciones de hecho desde 1900 hasta 1991. Cifras oficiales de los Censos respectivos.|editorial=[[Національний інститут статистики Іспанії]] (INE)|idioma=іспанською|fechaacceso=21-06-2011}}</ref><ref>{{cita web|url=http://www.ine.es/jaxiBD/tabla.do?per=12&type=db&divi=DPOP&idtab=12|título=Series de población desde 1996. Cifras oficiales de la Revisión anual del Padrón municipal a 1 de enero de cada año.|editorial=[[Національний інститут статистики Іспанії]] (INE)|idioma=іспанською|fechaacceso=21-06-2011}}</ref>
-
-<timeline>
-Colors=
-  id:lightgrey value:gray(0.8)
-  id:darkgrey  value:gray(0.6)
-  id:bar       value:rgb(1,0.75,0.4)
-
-ImageSize  = width:500 height:300
-PlotArea   = left:50 bottom:20 top:20 right:30
-DateFormat = x.y
-Period     = from:0 till:2500
-TimeAxis   = orientation:vertical
-AlignBars  = justify
-ScaleMajor = gridcolor:darkgrey increment:500 start:0
-ScaleMinor = gridcolor:lightgrey increment:100 start:0
-BackgroundColors = canvas:white
