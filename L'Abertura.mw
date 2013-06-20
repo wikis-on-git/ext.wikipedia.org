@@ -1,0 +1,69 @@
+'''L'Abertura''' es un puebru d'[[Estremaúra]], ena provincia de Caçris (Tierra de Trugillu). Tien 432 abitantis (2012).
+
+== Demografía ==
+
+<timeline>
+Colors=
+  id:lightgrey value:gray(0.8)
+  id:darkgrey  value:gray(0.6)
+  id:bar       value:rgb(1,0.75,0.4)
+
+ImageSize  = width:500 height:300
+PlotArea   = left:50 bottom:20 top:20 right:30
+DateFormat = x.y
+Period     = from:0 till:1600
+TimeAxis   = orientation:vertical
+AlignBars  = justify
+ScaleMajor = gridcolor:darkgrey increment:200 start:0
+ScaleMinor = gridcolor:lightgrey increment:40 start:0
+BackgroundColors = canvas:white
+
+BarData=
+  bar:1900 text:1900
+  bar:1910 text:1910
+  bar:1920 text:1920
+  bar:1930 text:1930
+  bar:1940 text:1940
+  bar:1950 text:1950
+  bar:1960 text:1960
+  bar:1970 text:1970
+  bar:1981 text:1981
+  bar:1991 text:1991
+  bar:2001 text:2001
+  bar:2010 text:2010
+  bar:2011 text:2011
+  bar:2012 text:2012
+
+PlotData=
+  color:bar width:20 align:left
+  bar:1900 from:0 till:1124
+  bar:1910 from:0 till:1026
+  bar:1920 from:0 till:1245
+  bar:1930 from:0 till:1308
+  bar:1940 from:0 till:1304
+  bar:1950 from:0 till:1436
+  bar:1960 from:0 till:1393
+  bar:1970 from:0 till:871
+  bar:1981 from:0 till:608
+  bar:1991 from:0 till:532
+  bar:2001 from:0 till:512
+  bar:2010 from:0 till:459
+  bar:2011 from:0 till:447
+  bar:2012 from:0 till:432
+
+PlotData=
+  bar:1900 at: 1124 fontsize:S text:1.124 shift:(-10,5)
+  bar:1910 at: 1026 fontsize:S text:1.026 shift:(-10,5)
+  bar:1920 at: 1245 fontsize:S text:1.245 shift:(-10,5)
+  bar:1930 at: 1308 fontsize:S text:1.308 shift:(-10,5)
+  bar:1940 at: 1304 fontsize:S text:1.304 shift:(-10,5)
+  bar:1950 at: 1436 fontsize:S text:1.436 shift:(-10,5)
+  bar:1960 at: 1393 fontsize:S text:1.393 shift:(-10,5)
+  bar:1970 at: 871 fontsize:S text:871 shift:(-10,5)
+  bar:1981 at: 608 fontsize:S text:608 shift:(-10,5)
+  bar:1991 at: 532 fontsize:S text:532 shift:(-10,5)
+  bar:2001 at: 512 fontsize:S text:512 shift:(-10,5)
+  bar:2010 at: 459 fontsize:S text:459 shift:(-10,5)
+  bar:2011 at: 447 fontsize:S text:447 shift:(-10,5)
+  bar:2012 at: 432 fontsize:S text:432 shift:(-10,5)
+</timeline>
