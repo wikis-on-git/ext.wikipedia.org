@@ -21,3 +21,66 @@
 }}
 
 '''Gargüera''' es un [[Monicípiu|monicípiu]] la [[Província e Caçris|província e Caçris]], assitiau ena [[Vera]], enas estribacionis la Sierra e Greus, concretamenti ena Sierra e San Bernabé.
+
+== Demografía ==
+Gargüera a teniu los siguientis dadus de puebración dendi [[1900]]:<ref>{{cita web|url=http://www.ine.es/jaxiBD/tabla.do?per=12&type=db&divi=DPOH&idtab=12|título=Poblaciones de hecho desde 1900 hasta 1991. Cifras oficiales de los Censos respectivos.|editorial=[[Instituto Nacional de Estadística (España)|INE]]|fechaacceso=21 de junio de 2011}}</ref><ref>{{cita web|url=http://www.ine.es/jaxiBD/tabla.do?per=12&type=db&divi=DPOP&idtab=12|título=Series de población desde 1996. Cifras oficialis dela Revisión anual del Padrón municipal a 1 de Heneru de cá añu.|editorial=[[Instituto Nacional de Estadística (España)|INE]]|fechaacceso=21 de junio de 2011}}</ref>
+
+<timeline>
+Colors=
+  id:lightgrey value:gray(0.8)
+  id:darkgrey  value:gray(0.6)
+  id:bar       value:rgb(1,0.75,0.4)
+
+ImageSize = width:500 height:300
+PlotArea = left:50 bottom:20 top:20 right:30
+DateFormat = x.y
+Period = from:0 till:900
+TimeAxis = orientation:vertical
+AlignBars = justify
+ScaleMajor = gridcolor:darkgrey increment:100 start:0
+ScaleMinor = gridcolor:lightgrey increment:20 start:0
+BackgroundColors = canvas:white
+
+BarData=
+  bar:1900 text:1900
+  bar:1910 text:1910
+  bar:1920 text:1920
+  bar:1930 text:1930
+  bar:1940 text:1940
+  bar:1950 text:1950
+  bar:1960 text:1960
+  bar:1970 text:1970
+  bar:1981 text:1981
+  bar:1991 text:1991
+  bar:2001 text:2001
+  bar:2010 text:2010
+
+PlotData=
+  color:bar width:20 align:left
+  bar:1900 from:0 till:441
+  bar:1910 from:0 till:580
+  bar:1920 from:0 till:578
+  bar:1930 from:0 till:606
+  bar:1940 from:0 till:742
+  bar:1950 from:0 till:840
+  bar:1960 from:0 till:680
+  bar:1970 from:0 till:441
+  bar:1981 from:0 till:279
+  bar:1991 from:0 till:271
+  bar:2001 from:0 till:188
+  bar:2010 from:0 till:127
+
+PlotData=
+  bar:1900 at: 441 fontsize:S text:441 shift:(-10,5)
+  bar:1910 at: 580 fontsize:S text:580 shift:(-10,5)
+  bar:1920 at: 578 fontsize:S text:578 shift:(-10,5)
+  bar:1930 at: 606 fontsize:S text:606 shift:(-10,5)
+  bar:1940 at: 742 fontsize:S text:742 shift:(-10,5)
+  bar:1950 at: 840 fontsize:S text:840 shift:(-10,5)
+  bar:1960 at: 680 fontsize:S text:680 shift:(-10,5)
+  bar:1970 at: 441 fontsize:S text:441 shift:(-10,5)
+  bar:1981 at: 279 fontsize:S text:279 shift:(-10,5)
+  bar:1991 at: 271 fontsize:S text:271 shift:(-10,5)
+  bar:2001 at: 188 fontsize:S text:188 shift:(-10,5)
+  bar:2010 at: 127 fontsize:S text:127 shift:(-10,5)
+</timeline>
