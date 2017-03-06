@@ -20,4 +20,78 @@
 |asiahamientu = Sierra de Tormantus
 }}
 
-'''Arroyomolinos de la Vera''' Se encuentra al noresti dela provincía i al oesti dela mancomunidá de [[La Vera]]. Linda colos monicípios de [[Barrau]], [[Gargüera]], [[Piornal]], [[Pasarón de la Vera]] i [[Texea del Tiétar]]. Las sus águas viertin al ríu [[Tiétar]]
+'''Arroyomolinus de la Vera''' es un [[monicipiu]] [[España|español]] dela [[província de Caçris]], en la región d'[[Extremaura]].
+
+== Asitiamientu ==
+
+'''Arroyomolinos de la Vera''' Se encuentra al noresti dela provincía i al oesti dela mancomunidá de [[La Vera]]. Linda colos monicípios de [[Barrau]], [[Gargüera]], [[Piornal]], [[Pasarón de la Vera]] i [[Texea del Tiétar]]. Las sus águas viertin al [[ríu Tiétal]].
+
+
+== História ==
+A la caía del [[Antiguo Régimen]] la localidá se constituyi en [[monicipio|monicipio constitucional]] ena región de [[Extremaura]], conocio dendi entoncis comu '''Arroyomolinos de Vera'''. Dendi [[1834]]  quedó asimilay nel [[Partiu Judicial de Praséncia]].<ref>[[Instituto Cervantes|Cervantes Virtual]] [http://www.cervantesvirtual.com/servlet/SirveObras/hist/12937287558181532976846/022503_006.pdf]</ref> Nel censu de 1842 contaba con 100 hogaris i 550 vezinus<ref> Municipio Código [[Instituto Nacional de Estadística (España)|INE]] -10.022 [http://www.ine.es/intercensal/intercensal.do?search=1&cmbTipoBusq=0&textoMunicipio=arroyomolinos+de+la+vera&btnBuscarDenom=Consultar+selecci%F3n]</ref>
+
+== Demugrafia ==
+Arroyomolinus ha teniu los siguientis datus de puebración dendi [[1900]]:<ref>{{cita web|url=http://www.ine.es/jaxiBD/tabla.do?per=12&type=db&divi=DPOH&idtab=12|título=Poblacionis de hecho dendi 1900 ata 1991. Cifras oficialis delos Census respectivus.|editorial=[[Instituto Nacional de Estadística (España)|INE]]|fechaacceso=21 de junio de 2011}}</ref><ref>{{cita web|url=http://www.ine.es/jaxiBD/tabla.do?per=12&type=db&divi=DPOP&idtab=12|título=Series de población desde 1996. Cifras oficiales de la Revisión anual del Padrón municipal a 1 de enero de cada año.|editorial=[[Instituto Nacional de Estadística (España)|INE]]|fechaacceso=21 de junio de 2011}}</ref>
+
+<timeline>
+Colors=
+  id:lightgrey value:gray(0.8)
+  id:darkgrey  value:gray(0.6)
+  id:bar       value:rgb(1,0.75,0.4)
+
+ImageSize  = width:500 height:300
+PlotArea   = left:50 bottom:20 top:20 right:30
+DateFormat = x.y
+Period     = from:0 till:1400
+TimeAxis   = orientation:vertical
+AlignBars  = justify
+ScaleMajor = gridcolor:darkgrey increment:200 start:0
+ScaleMinor = gridcolor:lightgrey increment:40 start:0
+BackgroundColors = canvas:white
+
+BarData=
+  bar:1900 text:1900
+  bar:1910 text:1910
+  bar:1920 text:1920
+  bar:1930 text:1930
+  bar:1940 text:1940
+  bar:1950 text:1950
+  bar:1960 text:1960
+  bar:1970 text:1970
+  bar:1981 text:1981
+  bar:1991 text:1991
+  bar:2001 text:2001
+  bar:2010 text:2010
+
+PlotData=
+  color:bar width:20 align:left
+  bar:1900 from:0 till:734
+  bar:1910 from:0 till:937
+  bar:1920 from:0 till:855
+  bar:1930 from:0 till:1071
+  bar:1940 from:0 till:1143
+  bar:1950 from:0 till:1244
+  bar:1960 from:0 till:1272
+  bar:1970 from:0 till:944
+  bar:1981 from:0 till:727
+  bar:1991 from:0 till:603
+  bar:2001 from:0 till:576
+  bar:2010 from:0 till:493
+
+PlotData=
+  bar:1900 at: 734 fontsize:S text:734 shift:(-10,5)
+  bar:1910 at: 937 fontsize:S text:937 shift:(-10,5)
+  bar:1920 at: 855 fontsize:S text:855 shift:(-10,5)
+  bar:1930 at: 1071 fontsize:S text:1071 shift:(-10,5)
+  bar:1940 at: 1143 fontsize:S text:1143 shift:(-10,5)
+  bar:1950 at: 1244 fontsize:S text:1244 shift:(-10,5)
+  bar:1960 at: 1272 fontsize:S text:1272 shift:(-10,5)
+  bar:1970 at: 944 fontsize:S text:944 shift:(-10,5)
+  bar:1981 at: 727 fontsize:S text:727 shift:(-10,5)
+  bar:1991 at: 603 fontsize:S text:603 shift:(-10,5)
+  bar:2001 at: 576 fontsize:S text:576 shift:(-10,5)
+  bar:2010 at: 493 fontsize:S text:493 shift:(-10,5)
+</timeline>
+
+
+== Referencias ==
