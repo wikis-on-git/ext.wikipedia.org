@@ -7,9 +7,9 @@
   Entrenaol             = [[File:Flag of Spain.svg|20px]] Vicente del Bosque|
 
   Web                   = |
-| pattern_la1 = _esp16h
-| pattern_b1 = _esp16h
-| pattern_ra1 = _esp16h
+| pattern_la1 = _esp15h
+| pattern_b1 = _esp15h
+| pattern_ra1 = _esp15h
 | pattern_sh1 = _bate1011h
 | pattern_so1  = _esp16h
 | leftarm1 = FF0120
@@ -17,9 +17,9 @@
 | rightarm1 = FF0120
 | shorts1 = 0000FF
 | socks1 = 000000
-| pattern_la2 =
-| pattern_b2 = _esp16a
-| pattern_ra2 = _esp16a
+| pattern_la2 = _espanha1617a
+| pattern_b2 = _espanha1617a
+| pattern_ra2 = _espanha1617a
 | pattern_sh2= 
 | pattern_so2 =_esp16a
 | leftarm2 = FFFFFF
