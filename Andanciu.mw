@@ -6,7 +6,7 @@ En la actualidá el conceptu es una relación entri una línea de basu d'una mal
 En casu de que'l andanciu se extendiera por varias regionis geográficas extensas de varius [[continenti]]s o inclusu de tol [[mundu]] se trataría de [[pandemia]]. En casu de malotias qu'afectan en una zona mantenía en el tiempu se trataría d'[[endemia]].
 
 El [[ritmu reproductivu básicu]] en el [[modelu SIR]] simpli es
-{{ecuación|
+{{ecuation|
 <math> R_{0}=\beta N/\gamma</math>
 ||left}}
 ondi <math>\beta\,</math> es la tasa d'infeción (en tantu por unu) y <math>1/\gamma\,</math> coincidi con l'extensión del períodu infeciosu), y la condición pal desencadenamientu d'un andanciu es:
