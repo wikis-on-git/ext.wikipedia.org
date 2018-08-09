@@ -7,11 +7,11 @@ En casu de que'l andanciu se extendiera por varias regionis geográficas extensa
 
 El [[ritmu reproductivu básicu]] en el [[modelu SIR]] simpli es
 
-<math> R_{0}=\beta N/\gamma</math>
+::<math> R_{0}=\beta N/\gamma</math>
 
 ondi <math>\beta\,</math> es la tasa d'infeción (en tantu por unu) y <math>1/\gamma\,</math> coincidi con l'extensión del períodu infeciosu), y la condición pal desencadenamientu d'un andanciu es:
 
-<math> R_{0}>1 </math>
+::<math> R_{0}>1 </math>
 
 
 == Guípesi tamién ==
