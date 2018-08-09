@@ -1,0 +1,34 @@
+[[File:Snow-cholera-map.jpg|thumb|300px|El Andanciu de [[cólera]] en [[Londres]] en 1854 hue estudiá por Dr. [[John Snow]] que realizó esti mapa y que supusu el primer estudiu epidemiológicu. Los puntus muestran los casus de muerti. Las crucis representan los pozus d'áugua de los que bebierun los enfermus.]]
+'''Andanciu''' es una descripción en la [[salud]] [[comunidá|comunitaria]] qu'ocurri cuandu una [[malotia]] afecta a un númeru d'individus superior al esperau en una población duranti un tiempu determinau. Pa evital el sensacionalismu que conlleva esta palabra en ocasionis s'estila el [[sinónimu]] de [[broti epidémicu]] o broti.<ref>[http://weblogs.madrimasd.org/salud_publica/archive/2007/02/28/60163.aspx Consuel0 Ibáñez Martí. Salud Pública y algo más. 28 de febrero de 2007.]</ref>
+
+En la actualidá el conceptu es una relación entri una línea de basu d'una malotia, que puei sel la [[prevalencia]] o [[incidencia]] normalis, y el númeru de casus que se detectan en un momentu dau. En esti sentíu si una comunidá s'encuentra libri de determiná malotia, un solu casu constituyi un andanciu. En otras palabras, es un incrementu significativamenti elevau en el númeru de casus d'una malotia con respectu al númeru de casus esperaus.
+
+En casu de que'l andanciu se extendiera por varias regionis geográficas extensas de varius [[continenti]]s o inclusu de tol [[mundu]] se trataría de [[pandemia]]. En casu de malotias qu'afectan en una zona mantenía en el tiempu se trataría d'[[endemia]].
+
+El [[ritmu reproductivu básicu]] en el [[modelu SIR]] simpli es
+{{ecuación|
+<math> R_{0}=\beta N/\gamma</math>
+||left}}
+ondi <math>\beta\,</math> es la tasa d'infeción (en tantu por unu) y <math>1/\gamma\,</math> coincidi con l'extensión del períodu infeciosu), y la condición pal desencadenamientu d'un andanciu es:
+{{ecuación|
+<math> R_{0}>1 </math>
+||left}}
+
+== Guípesi tamién ==
+* [[Epidemiología]]
+* [[Endemia]]
+* [[Pandemia]]
+* [[Pesti]]
+
+== Huentis ==
+
+=== Referéncias ===
+{{listaref|2}}
+
+== Atijus ==
+* [http://www.ecdc.europa.eu European Centre for Disease Prevention and Control]
+* [http://www.dundee.ac.uk/iea/ International Epidemiological Association] (IEA)
+* [https://web.archive.org/web/20121019021432/http://www.oup.com/us/catalog/general/subject/Medicine/EpidemiologyBiostatistics/~~/dmlldz11c2EmY2k9OTc4MDE5NTMxNDUwMg%3D%3D A Dictionary of Epidemiology] (IEA)
+* [https://web.archive.org/web/20120323082628/http://www.epidemiology.ch/history/betaversion.htm People's Epidemiology Library]
+
+[[Category:Epidemiología]]
