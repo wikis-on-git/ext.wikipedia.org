@@ -24,6 +24,173 @@
 
 '''Valladolís''' [[IPA|[βaʎað̪oˈli]]] (''Valladolid'' en [[castellanu]]), tamién denominá de holma populal ''Pucela'', es la capital la [[comuniá autónoma]] [[española]] de [[Castilla i Lión]] i de la província omónima. Está assitiá nel centru la [[Submeseta norti|sumeseta norti]], en vera el [[Ríu Pisuerga|ríu Pisuerga]]. Es la 13º mayol ciá d'[[España]], con 298.866 abitantis <ref>[http://www.ine.es/jaxiT3/Datos.htm?t=2911]</ref>. La puebración la su área urbana arciendi a 407.148 abitantis.
 
+== Demografia ==
+
+=== Puebración ===
+<graph>{
+	"version": 2,
+	"width": 700,
+	"height": 140,
+	"data": [
+		{
+			"name": "table",
+			"values": [
+				{
+					"x": 1996,
+					"y": 319805
+				},
+				{
+					"x": 1998,
+					"y": 319946
+				},
+				{
+					"x": 1999,
+					"y": 319998
+				},
+				{
+					"x": 2000,
+					"y": 319129
+				},
+				{
+					"x": 2001,
+					"y": 318293
+				},
+				{
+					"x": 2002,
+					"y": 318576
+				},
+				{
+					"x": 2003,
+					"y": 321143
+				},
+				{
+					"x": 2004,
+					"y": 321713
+				},
+				{
+					"x": 2005,
+					"y": 321001
+				},
+				{
+					"x": 2006,
+					"y": 319943
+				},
+				{
+					"x": 2007,
+					"y": 316564
+				},
+				{
+					"x": 2008,
+					"y": 318461
+				},
+				{
+					"x": 2009,
+					"y": 317864
+				},
+				{
+					"x": 2010,
+					"y": 315522
+				},
+				{
+					"x": 2011,
+					"y": 313437
+				},
+				{
+					"x": 2012,
+					"y": 311501
+				},
+				{
+					"x": 2013,
+					"y": 309714
+				},
+				{
+					"x": 2014,
+					"y": 306830
+				},
+				{
+					"x": 2015,
+					"y": 303905
+				},
+				{
+					"x": 2016,
+					"y": 301876
+				},
+				{
+					"x": 2017,
+					"y": 299715
+				},
+				{
+					"x": 2018,
+					"y": 298866
+				}
+			]
+		}
+	],
+	"scales": [
+		{
+			"name": "x",
+			"type": "ordinal",
+			"range": "width",
+			"zero": false,
+			"domain": {
+				"data": "table",
+				"field": "x"
+			}
+		},
+		{
+			"name": "y",
+			"type": "linear",
+			"range": "height",
+			"nice": true,
+			"domain": {
+				"data": "table",
+				"field": "y"
+			}
+		}
+	],
+	"axes": [
+		{
+			"type": "x",
+			"scale": "x"
+		},
+		{
+			"type": "y",
+			"scale": "y"
+		}
+	],
+	"marks": [
+		{
+			"type": "rect",
+			"from": {
+				"data": "table"
+			},
+			"properties": {
+				"enter": {
+					"x": {
+						"scale": "x",
+						"field": "x"
+					},
+					"y": {
+						"scale": "y",
+						"field": "y"
+					},
+					"y2": {
+						"scale": "y",
+						"value": 0
+					},
+					"fill": {
+						"value": "steelblue"
+					},
+					"width": {
+						"scale": "x",
+						"band": "true",
+						"offset": -1
+					}
+				}
+			}
+		}
+	]
+}</graph><ref>[http://www.ine.es/consul/serie.do?s=DPOP22387&c=2&nult=0]</ref><br />
 == Atijus ==
 {{Commonscat|Valladolid}}
 
