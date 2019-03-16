@@ -29,170 +29,88 @@
 == Demografia ==
 
 === Puebración ===
-<graph>{
-	"version": 2,
-	"width": 700,
-	"height": 140,
-	"data": [
-		{
-			"name": "table",
-			"values": [
-				{
-					"x": 1996,
-					"y": 319805
-				},
-				{
-					"x": 1998,
-					"y": 319946
-				},
-				{
-					"x": 1999,
-					"y": 319998
-				},
-				{
-					"x": 2000,
-					"y": 319129
-				},
-				{
-					"x": 2001,
-					"y": 318293
-				},
-				{
-					"x": 2002,
-					"y": 318576
-				},
-				{
-					"x": 2003,
-					"y": 321143
-				},
-				{
-					"x": 2004,
-					"y": 321713
-				},
-				{
-					"x": 2005,
-					"y": 321001
-				},
-				{
-					"x": 2006,
-					"y": 319943
-				},
-				{
-					"x": 2007,
-					"y": 316564
-				},
-				{
-					"x": 2008,
-					"y": 318461
-				},
-				{
-					"x": 2009,
-					"y": 317864
-				},
-				{
-					"x": 2010,
-					"y": 315522
-				},
-				{
-					"x": 2011,
-					"y": 313437
-				},
-				{
-					"x": 2012,
-					"y": 311501
-				},
-				{
-					"x": 2013,
-					"y": 309714
-				},
-				{
-					"x": 2014,
-					"y": 306830
-				},
-				{
-					"x": 2015,
-					"y": 303905
-				},
-				{
-					"x": 2016,
-					"y": 301876
-				},
-				{
-					"x": 2017,
-					"y": 299715
-				},
-				{
-					"x": 2018,
-					"y": 298866
-				}
-			]
-		}
-	],
-	"scales": [
-		{
-			"name": "x",
-			"type": "ordinal",
-			"range": "width",
-			"zero": false,
-			"domain": {
-				"data": "table",
-				"field": "x"
-			}
-		},
-		{
-			"name": "y",
-			"type": "linear",
-			"range": "height",
-			"nice": true,
-			"domain": {
-				"data": "table",
-				"field": "y"
-			}
-		}
-	],
-	"axes": [
-		{
-			"type": "x",
-			"scale": "x"
-		},
-		{
-			"type": "y",
-			"scale": "y"
-		}
-	],
-	"marks": [
-		{
-			"type": "rect",
-			"from": {
-				"data": "table"
-			},
-			"properties": {
-				"enter": {
-					"x": {
-						"scale": "x",
-						"field": "x"
-					},
-					"y": {
-						"scale": "y",
-						"field": "y"
-					},
-					"y2": {
-						"scale": "y",
-						"value": 0
-					},
-					"fill": {
-						"value": "steelblue"
-					},
-					"width": {
-						"scale": "x",
-						"band": "true",
-						"offset": -1
-					}
-				}
-			}
-		}
-	]
-}</graph><ref>[http://www.ine.es/consul/serie.do?s=DPOP22387&c=2&nult=0]</ref><br />
+<timeline>
+Colors=
+  id:a value:gray(0.9)
+  id:b value:gray(0.7)
+  id:c value:rgb(1,1,1)
+  id:d value:rgb(0.6,0.7,0.8)
+
+ImageSize = width:750 height:350
+PlotArea = left:50 bottom:30 top:30 right:30
+DateFormat = x.y
+Period = from:0 till:400000
+TimeAxis = orientation:vertical
+AlignBars = justify
+ScaleMajor = gridcolor:b increment:50000 start:0
+ScaleMinor = gridcolor:a increment:10000 start:0
+BackgroundColors = canvas:c
+
+BarData=
+
+  bar:1842 text:1842
+  bar:1857 text:1857
+  bar:1877 text:1877
+  bar:1887 text:1887
+  bar:1900 text:1900
+  bar:1910 text:1910
+  bar:1920 text:1920
+  bar:1930 text:1930
+  bar:1940 text:1940
+  bar:1950 text:1950
+  bar:1960 text:1960
+  bar:1970 text:1970
+  bar:1981 text:1981
+  bar:1991 text:1991
+  bar:2001 text:2001
+  bar:2011 text:2011
+  bar:2017 text:2017
+  bar:2018 text:2018
+
+PlotData=
+  color:d width:20 align:left
+
+  bar:1842 from:0 till: 19191
+  bar:1857 from:0 till: 41943
+  bar:1877 from:0 till: 54789
+  bar:1887 from:0 till: 64813
+  bar:1900 from:0 till: 70951
+  bar:1910 from:0 till: 72114
+  bar:1920 from:0 till: 76791
+  bar:1930 from:0 till: 91089
+  bar:1940 from:0 till: 116024
+  bar:1950 from:0 till: 124212
+  bar:1960 from:0 till: 151807
+  bar:1970 from:0 till: 236341
+  bar:1981 from:0 till: 330242
+  bar:1991 from:0 till: 345891
+  bar:2001 from:0 till: 316580
+  bar:2011 from:0 till: 313437
+  bar:2017 from:0 till: 299715
+  bar:2018 from:0 till: 298866
+
+PlotData=
+
+  bar:1842 at: 19191 fontsize:s text: 19&nbsp;191 shift:(-10,5)
+  bar:1857 at: 41943 fontsize:s text: 41&nbsp;943 shift:(-10,5)
+  bar:1877 at: 54789 fontsize:s text: 54&nbsp;789 shift:(-10,5)
+  bar:1887 at: 64813 fontsize:s text: 64&nbsp;813 shift:(-10,5)
+  bar:1900 at: 70951 fontsize:s text: 70&nbsp;951 shift:(-15,5)
+  bar:1910 at: 72114 fontsize:s text: 72&nbsp;114 shift:(-15,5)
+  bar:1920 at: 76791 fontsize:s text: 76&nbsp;791 shift:(-15,5)
+  bar:1930 at: 91089 fontsize:s text: 91&nbsp;089 shift:(-15,5)
+  bar:1940 at: 116024 fontsize:s text: 116&nbsp;024 shift:(-15,5)
+  bar:1950 at: 124212 fontsize:s text: 124&nbsp;212 shift:(-15,5)
+  bar:1960 at: 151807 fontsize:s text: 151&nbsp;807 shift:(-15,5)
+  bar:1970 at: 236341 fontsize:s text: 236&nbsp;341 shift:(-15,5)
+  bar:1981 at: 330242 fontsize:s text: 330&nbsp;242 shift:(-15,5)
+  bar:1991 at: 345891 fontsize:s text: 330&nbsp;700 shift:(-15,5)
+  bar:2001 at: 316580 fontsize:s text: 316&nbsp;580 shift:(-15,5)
+  bar:2011 at: 313437 fontsize:S text: 313&nbsp;437 shift:(-15,5)
+  bar:2017 at: 299715 fontsize:S text: 299&nbsp;715 shift:(-15,5)
+  bar:2018 at: 29866 fontsize:S text: 298&nbsp;866 shift:(-15,5)
+
+</timeline><ref>[http://www.ine.es/consul/serie.do?s=DPOP22387&c=2&nult=0]</ref>
 
 == Economia ==
 
