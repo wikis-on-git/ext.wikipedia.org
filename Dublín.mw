@@ -52,6 +52,49 @@
 === Almenistración local ===
 === Goviernu nacional ===
 == Demografia ==
+<timeline>
+Colors=
+  id:a value:gray(0.9)
+  id:b value:gray(0.7)
+  id:c value:rgb(1,1,1)
+  id:d value:rgb(0.6,0.7,0.8)
+
+ImageSize = width:750 height:350
+PlotArea = left:50 bottom:30 top:30 right:30
+DateFormat = x.y
+Period = from:0 till:600000
+TimeAxis = orientation:vertical
+AlignBars = justify
+ScaleMajor = gridcolor:b increment:50000 start:0
+ScaleMinor = gridcolor:a increment:10000 start:0
+BackgroundColors = canvas:c
+
+BarData=
+  bar:1991 text:1991
+  bar:1996 text:1996
+  bar:2002 text:2002
+  bar:2006 text:2006
+  bar:2011 text:2011
+  bar:2016 text:2016
+
+PlotData=
+  color:d width:20 align:left
+  bar:1991 from:0 till: 478389
+  bar:1996 from:0 till: 481854
+  bar:2002 from:0 till: 495781
+  bar:2006 from:0 till: 506211
+  bar:2011 from:0 till: 527612
+  bar:2016 from:0 till: 554554
+
+PlotData=
+  bar:1991 at: 478389 fontsize:s text: 478&nbsp;389 shift:(-15,5)
+  bar:1996 at: 481854 fontsize:s text: 481&nbsp;854 shift:(-15,5)
+  bar:2002 at: 495781 fontsize:s text: 495&nbsp;781 shift:(-15,5)
+  bar:2006 at: 506211 fontsize:S text: 506&nbsp;211 shift:(-15,5)
+  bar:2011 at: 527612 fontsize:S text: 527&nbsp;612 shift:(-15,5)
+  bar:2016 at: 554554 fontsize:S text: 554&nbsp;554 shift:(-15,5)
+
+</timeline>
 == Urbanismu ==
 [[Archivu:O'Connell Street, Dublin.jpg|alt=O'Connell Street, Dublín|miniaturadeimagen|[[O'Connell Street (Dublín)|O'Connell Street]], Dublín]]
 === Arquitetura ===
