@@ -70,6 +70,10 @@ ScaleMinor = gridcolor:a increment:10000 start:0
 BackgroundColors = canvas:c
 
 BarData=
+  bar:1861 text:1861
+  bar:1881 text:1881
+  bar:1901 text:1901
+  bar:1926 text:1926
   bar:1991 text:1991
   bar:1996 text:1996
   bar:2002 text:2002
@@ -79,6 +83,10 @@ BarData=
 
 PlotData=
   color:d width:20 align:left
+  bar:1861 from:0 till: 579900
+  bar:1881 from:0 till: 517500
+  bar:1901 from:0 till: 445900
+  bar:1926 from:0 till: 422900
   bar:1991 from:0 till: 478389
   bar:1996 from:0 till: 481854
   bar:2002 from:0 till: 495781
@@ -87,14 +95,18 @@ PlotData=
   bar:2016 from:0 till: 554554
 
 PlotData=
+  bar:1861 at: 579900 fontsize:s text: 579&nbsp;900 shift:(-15,5)
+  bar:1881 at: 517500 fontsize:s text: 517&nbsp;500 shift:(-15,5)
+  bar:1901 at: 445900 fontsize:s text: 445&nbsp;900 shift:(-15,5)
+  bar:1926 at: 422900 fontsize:s text: 422&nbsp;900 shift:(-15,5)
   bar:1991 at: 478389 fontsize:s text: 478&nbsp;389 shift:(-15,5)
   bar:1996 at: 481854 fontsize:s text: 481&nbsp;854 shift:(-15,5)
   bar:2002 at: 495781 fontsize:s text: 495&nbsp;781 shift:(-15,5)
   bar:2006 at: 506211 fontsize:S text: 506&nbsp;211 shift:(-15,5)
   bar:2011 at: 527612 fontsize:S text: 527&nbsp;612 shift:(-15,5)
   bar:2016 at: 554554 fontsize:S text: 554&nbsp;554 shift:(-15,5)
-
 </timeline>
+<ref>[https://www.persee.fr/doc/adh_0066-2062_1979_num_1979_1_1425 The population of Ireland 1700-1900 : a survey]</ref>
 == Urbanismu ==
 [[Archivu:O'Connell Street, Dublin.jpg|alt=O'Connell Street, Dublín|miniaturadeimagen|[[O'Connell Street (Dublín)|O'Connell Street]], Dublín]]
 === Arquitetura ===
@@ -117,7 +129,7 @@ PlotData=
 ===== Busaras =====
 ==== Becicleta ====
 === Luas ===
-[[Archivu:The_LUAS_-_Dublin_City_Centre_(180mm)_(1507653387).jpg|alt=Luas, Dublín|miniaturadeimagen|Luas nel cascu antigu de Dublin]]
+[[Archivu:The_LUAS_-_Dublin_City_Centre_(180mm)_(1507653387).jpg|alt=Luas, Dublín|miniaturadeimagen|[[Luas]] nel cascu antigu de Dublin]]
 === Tren ===
 === Ferry ===
 === Airi ===
