@@ -78,6 +78,9 @@ ScaleMinor = gridcolor:a increment:10000 start:0
 BackgroundColors = canvas:c
 
 BarData=
+  bar:1600 text:1600
+  bar:1718 text:1718
+  bar:1754 text:1754
   bar:1861 text:1861
   bar:1881 text:1881
   bar:1901 text:1901
@@ -91,6 +94,9 @@ BarData=
 
 PlotData=
   color:d width:20 align:left
+  bar:1600 from:0 till: 140000
+  bar:1718 from:0 till: 289400
+  bar:1754 from:0 till: 319100
   bar:1861 from:0 till: 579900
   bar:1881 from:0 till: 517500
   bar:1901 from:0 till: 445900
@@ -103,6 +109,9 @@ PlotData=
   bar:2016 from:0 till: 554554
 
 PlotData=
+  bar:1600 at: 140000 fontsize:s text: 140&nbsp;000 shift:(-15,5)
+  bar:1718 at: 289400 fontsize:s text: 289&nbsp;400 shift:(-15,5)
+  bar:1754 at: 319100 fontsize:s text: 319&nbsp;100 shift:(-15,5)
   bar:1861 at: 579900 fontsize:s text: 579&nbsp;900 shift:(-15,5)
   bar:1881 at: 517500 fontsize:s text: 517&nbsp;500 shift:(-15,5)
   bar:1901 at: 445900 fontsize:s text: 445&nbsp;900 shift:(-15,5)
