@@ -67,7 +67,7 @@ Colors=
   id:c value:rgb(1,1,1)
   id:d value:rgb(0.6,0.7,0.8)
 
-ImageSize = width:800 height:350
+ImageSize = width:1000 height:350
 PlotArea = left:50 bottom:30 top:30 right:30
 DateFormat = x.y
 Period = from:0 till:950000
@@ -85,6 +85,8 @@ BarData=
   bar:1791 text:1791
   bar:1821 text:1821
   bar:1831 text:1831
+  bar:1841 text:1841
+  bar:1851 text:1851
   bar:1861 text:1861
   bar:1881 text:1881
   bar:1901 text:1901
@@ -105,6 +107,8 @@ PlotData=
   bar:1791 from:0 till: 475300
   bar:1821 from:0 till: 682000
   bar:1831 from:0 till: 776700
+  bar:1841 from:0 till: 817500
+  bar:1851 from:0 till: 655200
   bar:1861 from:0 till: 579900
   bar:1881 from:0 till: 517500
   bar:1901 from:0 till: 445900
@@ -124,6 +128,8 @@ PlotData=
   bar:1791 at: 475300 fontsize:s text: 475&nbsp;300 shift:(-15,5)
   bar:1821 at: 682000 fontsize:s text: 682&nbsp;000 shift:(-15,5)
   bar:1831 at: 776700 fontsize:s text: 776&nbsp;700 shift:(-15,5)
+  bar:1841 at: 817500 fontsize:s text: 817&nbsp;500 shift:(-15,5)
+  bar:1851 at: 655200 fontsize:s text: 655&nbsp;200 shift:(-15,5)
   bar:1861 at: 579900 fontsize:s text: 579&nbsp;900 shift:(-15,5)
   bar:1881 at: 517500 fontsize:s text: 517&nbsp;500 shift:(-15,5)
   bar:1901 at: 445900 fontsize:s text: 445&nbsp;900 shift:(-15,5)
