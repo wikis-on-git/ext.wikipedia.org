@@ -9,7 +9,7 @@
 |---- bgcolor="#FFFFFF"
 ! colspan="2" bgcolor="#e3e3e3"| Bandera 
 |---- bgcolor="#FFFFFF"
-| colspan="2" align="center" bgcolor="#EFEFEF" | [[File:IRL_Dublin_flag.svg|130px|Bandera]]
+| colspan="2" align="center" bgcolor="#EFEFEF" | [[File:IRL_Dublin_flag.svg|300px|Bandera]]
 |---- bgcolor="#FFFFFF"
 ! colspan="2" bgcolor="#e3e3e3" | Escú
 |---- bgcolor="#FFFFFF"
@@ -17,7 +17,7 @@
 |---- bgcolor="#FFFFFF"
 ! colspan="2" bgcolor="#e3e3e3" | Datus
 |---- bgcolor="#FFFFFF"
-| País: || {{bandera|Reino Unido}}{{bandera|ENG}} [[Irlanda]]
+| País: || [[Irlanda]]
 |---- bgcolor="#FFFFFF"
 | Condalgu: || [[Condalgu de Dublín|Dublín]]
 |---- bgcolor="#FFFFFF"
@@ -67,10 +67,10 @@ Colors=
   id:c value:rgb(1,1,1)
   id:d value:rgb(0.6,0.7,0.8)
 
-ImageSize = width:750 height:350
+ImageSize = width:800 height:350
 PlotArea = left:50 bottom:30 top:30 right:30
 DateFormat = x.y
-Period = from:0 till:600000
+Period = from:0 till:950000
 TimeAxis = orientation:vertical
 AlignBars = justify
 ScaleMajor = gridcolor:b increment:50000 start:0
@@ -81,6 +81,10 @@ BarData=
   bar:1600 text:1600
   bar:1718 text:1718
   bar:1754 text:1754
+  bar:1781 text:1781
+  bar:1791 text:1791
+  bar:1821 text:1821
+  bar:1831 text:1831
   bar:1861 text:1861
   bar:1881 text:1881
   bar:1901 text:1901
@@ -97,6 +101,10 @@ PlotData=
   bar:1600 from:0 till: 140000
   bar:1718 from:0 till: 289400
   bar:1754 from:0 till: 319100
+  bar:1781 from:0 till: 404800
+  bar:1791 from:0 till: 475300
+  bar:1821 from:0 till: 682000
+  bar:1831 from:0 till: 776700
   bar:1861 from:0 till: 579900
   bar:1881 from:0 till: 517500
   bar:1901 from:0 till: 445900
@@ -112,6 +120,10 @@ PlotData=
   bar:1600 at: 140000 fontsize:s text: 140&nbsp;000 shift:(-15,5)
   bar:1718 at: 289400 fontsize:s text: 289&nbsp;400 shift:(-15,5)
   bar:1754 at: 319100 fontsize:s text: 319&nbsp;100 shift:(-15,5)
+  bar:1781 at: 404800 fontsize:s text: 404&nbsp;800 shift:(-15,5)
+  bar:1791 at: 475300 fontsize:s text: 475&nbsp;300 shift:(-15,5)
+  bar:1821 at: 682000 fontsize:s text: 682&nbsp;000 shift:(-15,5)
+  bar:1831 at: 776700 fontsize:s text: 776&nbsp;700 shift:(-15,5)
   bar:1861 at: 579900 fontsize:s text: 579&nbsp;900 shift:(-15,5)
   bar:1881 at: 517500 fontsize:s text: 517&nbsp;500 shift:(-15,5)
   bar:1901 at: 445900 fontsize:s text: 445&nbsp;900 shift:(-15,5)
