@@ -24,6 +24,84 @@ El su términu monicipal arraya colos monicipius de [[Fuentes de Valdespero]], [
 == Demografia ==
 === Puebración ===
 
+<center>
+<timeline>
+Colors=
+ id:a value:gray(0.9)
+ id:b value:gray(0.7)
+ id:c value:rgb(1,1,1)
+ id:d value:rgb(0.6,0.7,0.8)
+
+ImageSize = width:700 height:300
+PlotArea = left:50 bottom:30 top:30 right:30
+DateFormat = x.y
+Period = from:0 till:100000
+TimeAxis = orientation:vertical
+AlignBars = justify
+ScaleMajor = gridcolor:b increment:20000 start:0
+ScaleMinor = gridcolor:a increment:2000 start:0
+BackgroundColors = canvas:c
+
+BarData=
+
+ bar:1842 text:1842
+ bar:1857 text:1857
+ bar:1877 text:1877
+ bar:1887 text:1887
+ bar:1900 text:1900
+ bar:1910 text:1910
+ bar:1920 text:1920
+ bar:1930 text:1930
+ bar:1940 text:1940
+ bar:1950 text:1950
+ bar:1960 text:1960
+ bar:1970 text:1970
+ bar:1981 text:1981
+ bar:1991 text:1991
+ bar:2001 text:2001
+ bar:2012 text:2012
+
+PlotData=
+ color:d width:20 align:left
+
+ bar:1842 from:0 till: 11480
+ bar:1857 from:0 till: 12811
+ bar:1877 from:0 till: 14526
+ bar:1887 from:0 till: 15277
+ bar:1900 from:0 till: 15940
+ bar:1910 from:0 till: 18055
+ bar:1920 from:0 till: 20016
+ bar:1930 from:0 till: 24332
+ bar:1940 from:0 till: 34283
+ bar:1950 from:0 till: 41769
+ bar:1960 from:0 till: 48216
+ bar:1970 from:0 till: 58370
+ bar:1981 from:0 till: 74080
+ bar:1991 from:0 till: 81988
+ bar:2001 from:0 till: 79797
+ bar:2012 from:0 till: 81198
+
+PlotData=
+
+ bar:1842 at: 11480 fontsize:s text: 11.480 shift:(-10,5)
+ bar:1857 at: 12811 fontsize:s text: 12.811 shift:(-10,5)
+ bar:1877 at: 14526 fontsize:s text: 14.526 shift:(-10,5)
+ bar:1887 at: 15277 fontsize:s text: 15.277 shift:(-10,5)
+ bar:1900 at: 15940 fontsize:s text: 15.940 shift:(-15,5)
+ bar:1910 at: 18055 fontsize:s text: 18.055 shift:(-15,5)
+ bar:1920 at: 20016 fontsize:s text: 20.016 shift:(-15,5)
+ bar:1930 at: 24332 fontsize:s text: 24.332 shift:(-15,5)
+ bar:1940 at: 34283 fontsize:s text: 34.283 shift:(-15,5)
+ bar:1950 at: 41769 fontsize:s text: 41.769 shift:(-15,5)
+ bar:1960 at: 48216 fontsize:s text: 48.216 shift:(-15,5)
+ bar:1970 at: 58370 fontsize:s text: 58.370 shift:(-15,5)
+ bar:1981 at: 74080 fontsize:s text: 74.080 shift:(-15,5)
+ bar:1991 at: 81988 fontsize:s text: 81.988 shift:(-15,5)
+ bar:2001 at: 79797 fontsize:S text: 79.797 shift:(-15,5)
+ bar:2012 at: 81198 fontsize:S text: 81.198 shift:(-15,5)
+
+</timeline>
+
 == Economía ==
 
 == Urbanismo ==
