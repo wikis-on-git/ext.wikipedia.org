@@ -68,63 +68,67 @@ La fauna es comparanti a la d'[[Estaus Unius]]: Osus, lobus, coyotis, lionis ame
 == Devisión política ==
 Méjicu está deviiu en 31 estaus i un distritu federal, ca estau está deviia en várias municipius i el distritu federal en 16 delegacionih
 
-{|{{tablabonita}}
+{|class="wikitable"
 |-
-!Códigu
+!Códigu<br/>ISO 3166-2
 !Estado
 !Capital
 |-
-|AGS||[[Aguascalientes]]||[[Aguascalientes]]
+|AGU||[[Aguascalientes]]||[[Aguascalientes]]
 |-
-|BC||[[Baja California]]||[[Mexicali]]
+|BCN||[[Baja California]]||[[Mexicali]]
 |-
 |BCS||[[Baja California Sur]]||[[La Pas]]
 |-
 |CAM||[[Campeche]]||[[San Francisco de Campeche]]
 |-
-|CHIS||[[Chiapas]]||[[Tuxtla Gutiérrez]]
+|CHP||[[Chiapas]]||[[Tuxtla Gutiérrez]]
 |-
-|CHIH||[[Chihuahua]]||[[Chihuahua]]
+|CHH||[[Chihuahua]]||[[Chihuahua]]
 |-
 |COA||[[Coahuila]]||[[Saltillo]]
 |-
 |COL||[[Colima]]||[[Colima]]
 |-
-|DGO||[[Durango]]||[[Victoria de Durango]]
+|DUR||[[Durango]]||[[Victoria de Durango]]
 |-
-|GTO||[[Guanajuato]]||[[Ciá de Guanajuato|Guanajuato]]
+|GUA||[[Guanajuato]]||[[Ciá de Guanajuato|Guanajuato]]
 |-
 |GRO||[[Guerrero]]||[[Chilpancingo]]
 |-
-|HGO||[[Hidalgo]]||[[Pachuca]]
+|HID||[[Hidalgo]]||[[Pachuca]]
 |-
 |JAL||[[Jalisco]]||[[Guadalajara]]
 |-
 |MEX||[[Estau de Méjicu|Méjicu]]||[[Toluca]]
 |-
-|MICH||[[Michoacán]]||[[Morelia]]
+|MIC||[[Michoacán]]||[[Morelia]]
 |-
 |MOR||[[Morelos]]||[[Cuernavaca]]
 |-
 |NAY||[[Nayarit]]||[[Tepic]]
 |-
-|NL||[[Nuevu León]]||[[Monterrey]]
+|NLE||[[Nuevu León]]||[[Monterrey]]
 |-
 |OAX||[[Oaxaca]]||[[Ciá d'Oaxaca|Oaxaca]]
 |-
 |PUE||[[Puebla]]||[[Puebla de Zaragoza]]
 |-
-|QRO||[[Querétaro]]||[[Santiago de Querétaro]]
+|QUE||[[Querétaro]]||[[Santiago de Querétaro]]
+|-
+|ROO||[[Quintana Roo]]||[[Chetumal]]
 |-
 |SLP||[[San Luis Potosí]]||[[San Luis Potosí]]
 |-
 |SIN||[[Sinaloa]]||[[Culiacán]]
 |-
+|SON||[[Sonora]]||[[Hermosillo]]
+|-
 |TAB||[[Tabascu]]||[[Villahermosa]]
 |-
-|TAMS||[[Tamaulipas]]||[[Ciá Victoria]]
+|TAM||[[Tamaulipas]]||[[Ciá Victoria]]
 |-
-|TLAX||[[Tlaxcala]]||[[Tlaxcala de Xicoténcatl]]
+|TLA||[[Tlaxcala]]||[[Tlaxcala de Xicoténcatl]]
 |-
 |VER||[[Veracruz]]||[[Xalapa]]
 |-
@@ -132,7 +136,7 @@ Méjicu está deviiu en 31 estaus i un distritu federal, ca estau está deviia e
 |-
 |ZAC||[[Zacatecas]]||[[Ciá de Zacatecas|Zacatecas]]
 |-
-|DF||[[Distritu Federal]]||----
+|CMX||[[Ciá de Méjicu]]||----
 |}
 
 == Luengas ==
