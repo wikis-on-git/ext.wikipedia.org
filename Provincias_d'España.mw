@@ -40,7 +40,7 @@ Dendi 2003 i pa finis estaísticus, basás enas normativas uropeas i fihás pola
 == Tabra e províncias ==
 Ena siguienti tabra se listan alfabéticamenti tolas províncias, la su capital, la comuniá autúnoma a la que preteneci i la lista los sus [[Monicípiu|monicípius]].
 <center>
-<table {{tablabonita}}>
+<table class="sortable" {{tablabonita}} cellpadding="4" cellspacing="0" style="margin: 0.5em 0.5em 0.5em 1em; padding: 0.5em; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;">
 <tr bgcolor=silver>
 <th align=center>'''Província'''</td>
 <th align=center>'''Capital'''</td>
