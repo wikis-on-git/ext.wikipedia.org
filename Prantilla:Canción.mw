@@ -1,0 +1,129 @@
+<includeonly>{| style="background-color:#F8F8F8; border:2px solid #E0E0E0; padding:3px;" cellpadding="2" cellspacing="0" align="right" width=250
+|-
+!align="center" style="background:lightsteelblue;" colspan=3|«{{{nombri}}}»
+|- class="hiddenStructure{{{portá|}}}"
+!align="center" | {{{portá|}}}
+|-
+!align="center" style="background:lightsteelblue;" colspan=3|<small>{{{elementu}}} de {{{artista}}}</small>
+|-
+{{#if:{{{tipu|}}}{{{nombri tipu|}}} |
+!style="background:#abc8e5;" align=center colspan=3 {{!}} <small>do {{{tipu}}} ''{{{nombri tipu}}}''</small>
+{{!}}-}}
+|- class="hiddenStructure{{{pubricación|}}}"
+!align="left" valign="top"|<small>Pubricación</small>
+|colspan="2" valign="top"|<small>{{{pubricación}}}</small>
+|- class="hiddenStructure{{{formatu|}}}"
+!align="left" valign="top"|<small>Formatu</small>
+|colspan="2" valign="top"|<small>{{{formatu}}}</small>
+|- class="hiddenStructure{{{gravación|}}}"
+!align="left" valign="top"|<small>Gravada</small>
+|colspan="2" valign="top"|<small>{{{gravación}}}</small>
+|- class="hiddenStructure{{{héniru|}}}"
+!align="left" valign="top"|<small>Héniru musical</small>
+|colspan="2" valign="top"|<small>{{{héniru}}}</small>
+|- class="hiddenStructure{{{luenga|}}}"
+!align="left" valign="top"|<small>Luenga(s)</small>
+|colspan="2" valign="top"|<small>{{{luenga}}}</small>
+|- class="hiddenStructure{{{duración|}}}"
+!align="left" valign="top"|<small>Duración</small>
+|colspan="2" valign="top"|<small>{{{duración}}}</small>
+|- class="hiddenStructure{{{sellu|}}}"
+!align="left" valign="top"|<small>Sellu</small>
+|colspan="2" valign="top"|<small>{{{sellu}}}</small>
+|- class="hiddenStructure{{{produtor|}}}"
+!align="left" valign="top"|<small>Produtor(is)</small>
+|colspan="2" valign="top"|<small>{{{produtor}}}</small>
+|- class="hiddenStructure{{{componeor|}}}"
+!align="left" valign="top"|<small>Componeor(is)</small>
+|colspan="2" valign="top"|<small>{{{componeor}}}</small>
+
+|-
+{{#if:{{{anterior|}}}{{{posterior|}}} |
+! colspan=3 bgcolor="#abc8e5" {{!}} Cronoloxía
+{{!}}-
+{{!}} colspan="3" {{!}}
+{{{!}} cellspacing="0" cellpadding="0" width="100%" style="background: transparent;"
+{{!}}- style="text-align: center; font-size: 0.8em;"
+{{!}} style="width: 33%; vertical-align: top;" {{!}}«{{{anterior|}}}»
+{{!}} valign="top" style="background:#abc8e5" align="center" width="34%"{{!}}«{{{nombri}}}»
+{{!}} style="width: 33%; vertical-align: top;" {{!}}«{{{posterior|}}}»
+{{!}}-
+{{!}}}
+{{!}}-
+}}
+|}</includeonly><noinclude>
+
+== Uso ==
+<pre>{{Canción
+|elementu         = 
+|nombri           = 
+|portá            = 
+|artista          = 
+|tipu             = 
+|nombri tipu      = 
+|pubricación      = 
+|formatu          = 
+|gravación        = 
+|héniru           = 
+|luenga           = 
+|duración         = 
+|sellu            = 
+|produtor         = 
+|componeor        = 
+|anterior         = 
+|posterior        = 
+|númiru anterior  = 
+|númiru actual    = 
+|númiru posterior = 
+}}
+</pre>
+
+== Exemplo ==
+{{Canción
+|elementu         = Cenzillu
+|nombri           = Breed
+|portá            = 
+|artista          = Nirvana
+|tipu             = Albu
+|nombri tipu      = Nevermind
+|pubricación      = Setiembri de 1991
+|formatu          = Mayu a juñu de 1991
+|gravación        = 
+|héniru           = Grunge
+|luenga           = [[Luenga ingresa|Ingrés]]
+|duración         = 3:03
+|sellu            = DGC
+|produtor         = Butch Vig
+|componeor        = Kurt Cobain
+|anterior         = Come as You Are
+|posterior        = Lithium
+|númiru anterior  = 3
+|númiru actual    = 4
+|númiru posterior = 5
+}}
+<pre>{{Canción
+|elementu         = Cenzillu
+|nombri           = Breed
+|portá            = 
+|artista          = Nirvana
+|tipu             = Albu
+|nombri tipu      = Nevermind
+|pubricación      = Setiembri de 1991
+|formatu          = Mayu a juñu de 1991
+|gravación        = 
+|héniru           = Grunge
+|luenga           = [[Luenga ingresa|Ingrés]]
+|duración         = 3:03
+|sellu            = DGC
+|produtor         = Butch Vig
+|componeor        = Kurt Cobain
+|anterior         = Come as You Are
+|posterior        = Lithium
+|númiru anterior  = 3
+|númiru actual    = 4
+|númiru posterior = 5
+}}
+</pre>
+
+[[Categoría:Música]]
+</noinclude>
