@@ -1,154 +1,39 @@
-{{{!}} class="wikitable" border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse; margin:0 auto;"
-{{!}}- style="text-align: center;"
-{{!}} width="30%" {{!}}Predecesol{{#if:{{{predecesora|}}}|a}}:<br />''' {{{predecesor|}}}{{{predecesora|}}} '''
-{{!}} width="40%" {{!}}'''{{{títulu}}}'''<br />{{{períodu}}}
-{{!}} width="30%" {{!}}Sucesol{{#if:{{{sucesora|}}}|a}}:<br />''' {{{sucesor|}}}{{{sucesora|}}} '''
-{{#if:{{{título2<includeonly>|</includeonly>}}}{{{predecesor2|}}}{{{predecesora2|}}}{{{sucesor2|}}}{{{sucesora2|}}}|
-{{!}}- style="text-align: center;"
-{{!}} width="30%" {{!}}Predecesol{{#if:{{{predecesora2|}}}|a}}:<br />''' {{{predecesora2|{{{predecesor2}}}}}} '''
-{{!}} width="40%" {{!}}'''{{{títulu2}}}'''<br />{{{períodu2}}}
-{{!}} width="30%" {{!}}Sucesol{{#if:{{{sucesora2|}}}|a}}:<br />''' {{{sucesora2|{{{sucesol2}}}}}} '''
-
-{{#if:{{{título3<includeonly>|</includeonly>}}}{{{predecesol3|}}}{{{predecesora3|}}}{{{sucesol3|}}}{{{sucesora3|}}}|
-{{!}}- style="text-align: center;"
-{{!}} width="30%" {{!}}Predecesol{{#if:{{{predecesora3|}}}|a}}:<br />''' {{{predecesora3|{{{predecesol3}}}}}} '''
-{{!}} width="40%" {{!}}'''{{{títulu3}}}'''<br />{{{períodu3}}}
-{{!}} width="30%" {{!}}Sucesol{{#if:{{{sucesora3|}}}|a}}:<br />''' {{{sucesora3|{{{sucesol3}}}}}} '''
-
-{{#if:{{{títulu4|}}}{{{predecesol4|}}}{{{predecesora4|}}}{{{sucesol4|}}}{{{sucesora4|}}}|
-{{!}}- style="text-align: center;"
-{{!}} width="30%" {{!}}Predecesol{{#if:{{{predecesora4|}}}|a}}:<br />''' {{{predecesora4|{{{predecesol4}}}}}} '''
-{{!}} width="40%" {{!}}'''{{{títulu4}}}'''<br />{{{períodu4}}}
-{{!}} width="30%" {{!}}Sucesol{{#if:{{{sucesora4|}}}|a}}:<br />''' {{{sucesora4|{{{sucesol4}}}}}} '''
-
-{{#if:{{{títulu5|}}}{{{predecesol5|}}}{{{predecesora5|}}}{{{sucesol5|}}}{{{sucesora5|}}}|
-{{!}}- style="text-align: center;"
-{{!}} width="30%" {{!}}Predecesol{{#if:{{{predecesora5|}}}|a}}:<br />''' {{{predecesora5|{{{predecesol5}}}}}} '''
-{{!}} width="40%" {{!}}'''{{{títulu5}}}'''<br />{{{períodu5}}}
-{{!}} width="30%" {{!}}Sucesol{{#if:{{{sucesora5|}}}|a}}:<br />''' {{{sucesora5|{{{sucesol5}}}}}} '''
-
-{{#if:{{{títulu6|}}}{{{predecesol6|}}}{{{predecesora6|}}}{{{sucesol6|}}}{{{sucesora6|}}}|
-{{!}}- style="text-align: center;"
-{{!}} width="30%" {{!}}Predecesol{{#if:{{{predecesora6|}}}|a}}:<br />''' {{{predecesora6|{{{predecesol6}}}}}} '''
-{{!}} width="40%" {{!}}'''{{{títulu6}}}'''<br />{{{períodu6}}}
-{{!}} width="30%" {{!}}Sucesol{{#if:{{{sucesora6|}}}|a}}:<br />''' {{{sucesora6|{{{sucesol6}}}}}} '''
-
-{{#if:{{{título7|}}}{{{predecesol7|}}}{{{predecesora7|}}}{{{sucesol7|}}}{{{sucesora7|}}}|
-{{!}}- style="text-align: center;"
-{{!}} width="30%" {{!}}Predecesol{{#if:{{{predecesora7|}}}|a}}:<br />''' {{{predecesora7|{{{predecesol7}}}}}} '''
-{{!}} width="40%" {{!}}'''{{{títulu7}}}'''<br />{{{períodu7}}}
-{{!}} width="30%" {{!}}Sucesol{{#if:{{{sucesora7|}}}|a}}:<br />''' {{{sucesora7|{{{sucesol7}}}}}} '''
-
-{{#if:{{{títulu8|}}}{{{predecesol8|}}}{{{predecesora8|}}}{{{sucesol8|}}}{{{sucesora8|}}}|
-{{!}}- style="text-align: center;"
-{{!}} width="30%" {{!}}Predecesol{{#if:{{{predecesora8|}}}|a}}:<br />''' {{{predecesora8|{{{predecesol8}}}}}} '''
-{{!}} width="40%" {{!}}'''{{{títulu8}}}'''<br />{{{períodu8}}}
-{{!}} width="30%" {{!}}Sucesol{{#if:{{{sucesora8|}}}|a}}:<br />''' {{{sucesora8|{{{sucesol8}}}}}} '''
-
-{{#if:{{{título9|}}}{{{predecesol9|}}}{{{predecesora9|}}}{{{sucesol9|}}}{{{sucesora9|}}}|
-{{!}}- style="text-align: center;"
-{{!}} width="30%" {{!}}Predecesol{{#if:{{{predecesora9|}}}|a}}:<br />''' {{{predecesora9|{{{predecesol9}}}}}} '''
-{{!}} width="40%" {{!}}'''{{{títulu9}}}'''<br />{{{períodu9}}}
-{{!}} width="30%" {{!}}Sucesol{{#if:{{{sucesora9|}}}|a}}:<br />''' {{{sucesora9|{{{sucesor9}}}}}} '''
-
-{{#if:{{{títulu10|}}}{{{predecesol10|}}}{{{predecesora10|}}}{{{sucesol10|}}}{{{sucesora10|}}}|
-{{!}}- style="text-align: center;"
-{{!}} width="30%" {{!}}Predecesol{{#if:{{{predecesora10|}}}|a}}:<br />''' {{{predecesora10|{{{predecesol10}}}}}} '''
-{{!}} width="40%" {{!}}'''{{{títulu10}}}'''<br />{{{períodu10}}}
-{{!}} width="30%" {{!}}Sucesol{{#if:{{{sucesora10|}}}|a}}:<br />''' {{{sucesora10|{{{sucesol10}}}}}} '''
-
-{{#if:{{{título11|}}}{{{predecesol11|}}}{{{predecesora11|}}}{{{sucesol11|}}}{{{sucesora11|}}}|
-{{!}}- style="text-align: center;"
-{{!}} width="30%" {{!}}Predecesol{{#if:{{{predecesora11|}}}|a}}:<br />''' {{{predecesora11|{{{predecesol11}}}}}} '''
-{{!}} width="40%" {{!}}'''{{{título11}}}'''<br />{{{período11}}}
-{{!}} width="30%" {{!}}Sucesor{{#if:{{{sucesora11|}}}|a}}:<br />''' {{{sucesora11|{{{sucesor11}}}}}} '''
-
-{{#if:{{{título12|}}}{{{predecesor12|}}}{{{predecesora12|}}}{{{sucesor12|}}}{{{sucesora12|}}}|
-{{!}}- style="text-align: center;"
-{{!}} width="30%" {{!}}Predecesor{{#if:{{{predecesora12|}}}|a}}:<br />''' {{{predecesora12|{{{predecesor12}}}}}} '''
-{{!}} width="40%" {{!}}'''{{{título12}}}'''<br />{{{período12}}}
-{{!}} width="30%" {{!}}Sucesor{{#if:{{{sucesora12|}}}|a}}:<br />''' {{{sucesora12|{{{sucesor12}}}}}} '''
-
-{{#if:{{{título13|}}}{{{predecesor13|}}}{{{predecesora13|}}}{{{sucesor13|}}}{{{sucesora13|}}}|
-{{!}}- style="text-align: center;"
-{{!}} width="30%" {{!}}Predecesor{{#if:{{{predecesora13|}}}|a}}:<br />''' {{{predecesora13|{{{predecesor13}}}}}} '''
-{{!}} width="40%" {{!}}'''{{{título13}}}'''<br />{{{período13}}}
-{{!}} width="30%" {{!}}Sucesor{{#if:{{{sucesora13|}}}|a}}:<br />''' {{{sucesora13|{{{sucesor13}}}}}} '''
-
-{{#if:{{{título14|}}}{{{predecesor14|}}}{{{predecesora14|}}}{{{sucesor14|}}}{{{sucesora14|}}}|
-{{!}}- style="text-align: center;"
-{{!}} width="30%" {{!}}Predecesor{{#if:{{{predecesora14|}}}|a}}:<br />''' {{{predecesora14|{{{predecesor14}}}}}} '''
-{{!}} width="40%" {{!}}'''{{{título14}}}'''<br />{{{período14}}}
-{{!}} width="30%" {{!}}Sucesor{{#if:{{{sucesora14|}}}|a}}:<br />''' {{{sucesora14|{{{sucesor14}}}}}} '''
-
-{{#if:{{{título15|}}}{{{predecesor15|}}}{{{predecesora15|}}}{{{sucesor15|}}}{{{sucesora15|}}}|
-{{!}}- style="text-align: center;"
-{{!}} width="30%" {{!}}Predecesor{{#if:{{{predecesora15|}}}|a}}:<br />''' {{{predecesora15|{{{predecesor15}}}}}} '''
-{{!}} width="40%" {{!}}'''{{{título15}}}'''<br />{{{período15}}}
-{{!}} width="30%" {{!}}Sucesor{{#if:{{{sucesora15|}}}|a}}:<br />''' {{{sucesora15|{{{sucesor15}}}}}} '''
-
-{{#if:{{{título16|}}}{{{predecesor16|}}}{{{predecesora16|}}}{{{sucesor16|}}}{{{sucesora16|}}}|
-{{!}}- style="text-align: center;"
-{{!}} width="30%" {{!}}Predecesor{{#if:{{{predecesora16|}}}|a}}:<br />''' {{{predecesora16|{{{predecesor16}}}}}} '''
-{{!}} width="40%" {{!}}'''{{{título16}}}'''<br />{{{período16}}}
-{{!}} width="30%" {{!}}Sucesor{{#if:{{{sucesora16|}}}|a}}:<br />''' {{{sucesora16|{{{sucesor16}}}}}} '''
-
-{{#if:{{{título17|}}}{{{predecesor17|}}}{{{predecesora17|}}}{{{sucesor17|}}}{{{sucesora17|}}}|
-{{!}}- style="text-align: center;"
-{{!}} width="30%" {{!}}Predecesor{{#if:{{{predecesora17|}}}|a}}:<br />''' {{{predecesora17|{{{predecesor17}}}}}} '''
-{{!}} width="40%" {{!}}'''{{{título17}}}'''<br />{{{período17}}}
-{{!}} width="30%" {{!}}Sucesor{{#if:{{{sucesora17|}}}|a}}:<br />''' {{{sucesora17|{{{sucesor17}}}}}} '''
-
-{{#if:{{{título18|}}}{{{predecesor18|}}}{{{predecesora18|}}}{{{sucesor18|}}}{{{sucesora18|}}}|
-{{!}}- style="text-align: center;"
-{{!}} width="30%" {{!}}Predecesor{{#if:{{{predecesora18|}}}|a}}:<br />''' {{{predecesora18|{{{predecesor18}}}}}} '''
-{{!}} width="40%" {{!}}'''{{{título18}}}'''<br />{{{período18}}}
-{{!}} width="30%" {{!}}Sucesor{{#if:{{{sucesora18|}}}|a}}:<br />''' {{{sucesora18|{{{sucesor18}}}}}} '''
-
-{{#if:{{{título19|}}}{{{predecesor19|}}}{{{predecesora19|}}}{{{sucesor19|}}}{{{sucesora19|}}}|
-{{!}}- style="text-align: center;"
-{{!}} width="30%" {{!}}Predecesor{{#if:{{{predecesora19|}}}|a}}:<br />''' {{{predecesora19|{{{predecesor19}}}}}} '''
-{{!}} width="40%" {{!}}'''{{{título19}}}'''<br />{{{período19}}}
-{{!}} width="30%" {{!}}Sucesor{{#if:{{{sucesora19|}}}|a}}:<br />''' {{{sucesora19|{{{sucesor19}}}}}} '''
-
-}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
-{{!}}}
-
-
-|<!-- nueva versión -->{{#switch:{{{1}}}
-    |fila intermedia|fila|fila 2|fila 3|fila 4|fila 5|fila 6|fila 7|fila 8|fila 9|fila 10|fila 11|fila 12|fila 13|fila 14|fila 15|fila 16|fila 17|fila 18|fila 19|fila 20|fila n|fila x|última fila|fila última|fila z|fin|cierre =
+{{#switch:{{{1}}}
+|fila intermedia|fila|fila 2|fila 3|fila 4|fila 5|fila 6|fila 7|fila 8|fila 9|fila 10|fila 11|fila 12|fila 13|fila 14|fila 15|fila 16|fila 17|fila 18|fila 19|fila 20
+|fila n|fila x|última fila|fila última|fila z|fin
+|cierre =
     |#default = <br clear="all" /><nowiki/>
-{{{!}} class="wikitable" border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse; margin:0 auto;"}}<nowiki/>
-{{!}}- style="text-align: center;"
-{{!}} width="30%" {{!}}{{#switch:solo esto<!-- evita mostrar parámetros duplicados -->
-    |{{#if:{{{predecesor|}}}|solo esto}} = Predecesor:<br />'''{{{predecesor}}}'''
-    |{{#if:{{{predecesora|}}}|solo esto}} = Predecesora:<br />'''{{{predecesora}}}'''
-    |{{#if:{{{predecesores|}}}|solo esto}} = Predecesores:<br />'''{{{predecesores}}}'''
-    |{{#if:{{{predecesoras|}}}|solo esto}} = Predecesoras:<br />'''{{{predecesoras}}}'''
-    |{{#if:{{{antecesor|}}}|solo esto}} = Antecesor:<br />'''{{{antecesor}}}'''
-    |{{#if:{{{antecesora|}}}|solo esto}} = Antecesora:<br />'''{{{antecesora}}}'''
-    |{{#if:{{{antecesores|}}}|solo esto}} = Antecesores:<br />'''{{{antecesores}}}'''
-    |{{#if:{{{antecesoras|}}}|solo esto}} = Antecesoras:<br />'''{{{antecesoras}}}'''
-    |{{#if:{{{precedido_por|}}}|solo esto}} = Precedido por:<br />'''{{{precedido_por}}}'''
-    |{{#if:{{{precedida_por|}}}|solo esto}} = Precedida por:<br />'''{{{precedida_por}}}'''
-    |{{#if:{{{anterior|}}}|solo esto}} = Anterior:<br />'''{{{anterior}}}'''
-    |{{#if:{{{anteriores|}}}|solo esto}} = Anteriores:<br />'''{{{anteriores}}}'''
-    |#default = Predecesor:<br />-}}
-{{!}} width="40%" {{!}}'''{{{cargo|{{{título}}}}}}'''<br />{{{detalle|{{{período}}}}}}
-{{!}} width="30%" {{!}}{{#if:{{{anterior|}}}{{{anteriores|}}}<!-- esta condición evita mezclar las formas incompatibles «anterior» y «sucesor» en una misma línea -->
+    {{{!}} class="wikitable" border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse; margin:0 auto;"}}<nowiki/>
+    {{!}}- style="text-align: center;"
+    {{!}} width="30%" {{!}}{{#switch:solo esto<!-- evita mostrar parámetros duplicados -->
+    |{{#if:{{{predecesol|}}}|solo esto}} = Predecesol:<br/>'''{{{predecesol}}}'''
+    |{{#if:{{{predecesola|}}}|solo esto}} = Predecesola:<br/>'''{{{predecesola}}}'''
+    |{{#if:{{{predecesolis|}}}|solo esto}} = Predecesolis:<br >'''{{{predecesolis}}}'''
+    |{{#if:{{{predecesolas|}}}|solo esto}} = Predecesolas:<br/>'''{{{predecesolas}}}'''
+    |{{#if:{{{antecesol|}}}|solo esto}} = Antecesol:<br/>'''{{{antecesol}}}'''
+    |{{#if:{{{antecesola|}}}|solo esto}} = Antecesola:<br/>'''{{{antecesola}}}'''
+    |{{#if:{{{antecesolis|}}}|solo esto}} = Antecesolis:<br/>'''{{{antecesolis}}}'''
+    |{{#if:{{{antecesolas|}}}|solo esto}} = Antecesolas:<br/>'''{{{antecesolas}}}'''
+    |{{#if:{{{precedío_por|}}}|solo esto}} = Precedío por:<br/>'''{{{precedío_por}}}'''
+    |{{#if:{{{precedía_por|}}}|solo esto}} = Precedía por:<br/>'''{{{precedía_por}}}'''
+    |{{#if:{{{anteriol|}}}|solo esto}} = Anteriol:<br/>'''{{{anteriol}}}'''
+    |{{#if:{{{anteriolis|}}}|solo esto}} = Anteriolis:<br/>'''{{{anteriolis}}}'''
+    |#default = Predecesol:<br/>-}}
+{{!}} width="40%" {{!}}'''{{{cargo|{{{títulu}}}}}}'''<br />{{{detalle|{{{períodu}}}}}}
+{{!}} width="30%" {{!}}{{#if:{{{anteriol|}}}{{{anteriolis|}}}<!-- esta condición evita mezclar las formas incompatibles «anterior» y «sucesor» en una misma línea -->
     |{{#switch:solo esto
         |{{#if:{{{siguiente|}}}|solo esto}} = Siguiente:<br />'''{{{siguiente}}} '''
         |{{#if:{{{siguientes|}}}|solo esto}} = Siguientes:<br />'''{{{siguientes}}}'''
         |#default = Siguiente:<br />?}}
     |{{#switch:esto otro
-        |{{#if:{{{precedido_por|}}}|esto otro}} = Sucedido por:<br />'''{{{sucedido_por| '''?''' }}}'''
-        |{{#if:{{{precedida_por|}}}|esto otro}} = Sucedida por:<br />'''{{{sucedida_por| '''?''' }}}'''
+        |{{#if:{{{precedío_por|}}}|esto otro}} = Sucedío por:<br />'''{{{sucedío_por| '''?''' }}}'''
+        |{{#if:{{{precedía_por|}}}|esto otro}} = Sucedía por:<br />'''{{{sucedía_por| '''?''' }}}'''
 <!--
 las dos líneas de arriba evitan mostrar las formas incompatibles «Precedido por» y «Sucesor» en una misma línea
- -->    |{{#if:{{{sucesor|}}}|esto otro}} = Sucesor:<br />'''{{{sucesor}}}'''
-        |{{#if:{{{sucesora|}}}|esto otro}} = Sucesora:<br />'''{{{sucesora}}}'''
-        |{{#if:{{{sucesores|}}}|esto otro}} = Sucesores:<br />'''{{{sucesores}}}'''
-        |{{#if:{{{sucesoras|}}}|esto otro}} = Sucesoras:<br />'''{{{sucesoras}}}'''
+ -->    |{{#if:{{{sucesol|}}}|esto otro}} = Sucesor:<br />'''{{{sucesol}}}'''
+        |{{#if:{{{sucesola|}}}|esto otro}} = Sucesora:<br />'''{{{sucesola}}}'''
+        |{{#if:{{{sucesolis|}}}|esto otro}} = Sucesores:<br />'''{{{sucesolis}}}'''
+        |{{#if:{{{sucesolas|}}}|esto otro}} = Sucesoras:<br />'''{{{sucesolas}}}'''
         |#default = Sucesor:<br />-}}}}{{#switch:{{{1}}}
     |fila 1|primera fila|inicio|apertura|fila intermedia|fila|fila 2|fila 3|fila 4|fila 5|fila 6|fila 7|fila 8|fila 9|fila 10|fila 11|fila 12|fila 13|fila 14|fila 15|fila 16|fila 17|fila 18|fila 19|fila 20|fila n|fila x =
     |#default = <nowiki/>
@@ -162,4 +47,5 @@ para limpieza de ocurrencias preexistentes no esperadas (es temporal) -->{{#swit
     |[[Categoría:Wikipedia:Plantilla sucesión con parámetro 1 en blanco]]
     }}
 |#default = [[Categoría:Wikipedia:Plantilla sucesión con parámetro 1 no vacío]]
-}}<noinclude>{{documentación}}</noinclude>
+}}
+<noinclude>{{documentación}}</noinclude>
