@@ -30,11 +30,11 @@
         |{{#if:{{{precedía_por|}}}|esto otro}} = Sucedía por:<br />'''{{{sucedía_por| '''?''' }}}'''
 <!--
 las dos líneas de arriba evitan mostrar las formas incompatibles «Precedido por» y «Sucesor» en una misma línea
- -->    |{{#if:{{{sucesol|}}}|esto otro}} = Sucesor:<br />'''{{{sucesol}}}'''
-        |{{#if:{{{sucesola|}}}|esto otro}} = Sucesora:<br />'''{{{sucesola}}}'''
-        |{{#if:{{{sucesolis|}}}|esto otro}} = Sucesores:<br />'''{{{sucesolis}}}'''
-        |{{#if:{{{sucesolas|}}}|esto otro}} = Sucesoras:<br />'''{{{sucesolas}}}'''
-        |#default = Sucesor:<br />-}}}}{{#switch:{{{1}}}
+ -->    |{{#if:{{{sucesol|}}}|esto otro}} = Sucesol:<br />'''{{{sucesol}}}'''
+        |{{#if:{{{sucesola|}}}|esto otro}} = Sucesola:<br />'''{{{sucesola}}}'''
+        |{{#if:{{{sucesolis|}}}|esto otro}} = Sucesolis:<br />'''{{{sucesolis}}}'''
+        |{{#if:{{{sucesolas|}}}|esto otro}} = Sucesolas:<br />'''{{{sucesolas}}}'''
+        |#default = Sucesol:<br />-}}}}{{#switch:{{{1}}}
     |fila 1|primera fila|inicio|apertura|fila intermedia|fila|fila 2|fila 3|fila 4|fila 5|fila 6|fila 7|fila 8|fila 9|fila 10|fila 11|fila 12|fila 13|fila 14|fila 15|fila 16|fila 17|fila 18|fila 19|fila 20|fila n|fila x =
     |#default = <nowiki/>
 {{!}}}<!-- <includeonly>{{#ifeq:{{NAMESPACE}}|Categoría||[[Categoría:Wikipedia:Páginas que usan nueva versión de plantilla sucesión]]}}</includeonly> -->}}
