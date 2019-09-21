@@ -1,8 +1,7 @@
-{| border="1" align="right" cellpadding="4" cellspacing="0" width="300" style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+ <big>'''Estaus Uníus'''</big>
+{| class="wikitable" border="1" align="right" cellpadding="4" cellspacing="0" width="300" style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |-
 | style="background: #f7f8ff;" align="center" colspan="2" |
-{| border="0" cellpadding="2" cellspacing="0" style="background: #f9f9f9; text-align: center;"
+{| class="wikitable" border="0" cellpadding="2" cellspacing="0" style="background: #f9f9f9; text-align: center;"
 | width="140px" | [[File:Flag of the United States.svg|150px]]
 | width="140px" | [[File:US-GreatSeal-Obverse.svg|100px]]
 |-
