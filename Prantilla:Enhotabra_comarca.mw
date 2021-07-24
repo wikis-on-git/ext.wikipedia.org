@@ -1,0 +1,25 @@
+{| border=1 align="right" cellpadding="4" cellspacing="0"  width={{{largeur_infobox|}}} style="margin: 0 0 1em 1em; margin: 2px; margin-left: 2em; border: 1px solid #999; border-right-width: 2px; border-bottom-width: 2px; background-color: #A0D0F0; font-size: 90%; border-collapse: collapse;"
+| colspan="2" style="background-color: #80B0E0" align="center" | <span style="color:white; font-size:large;">'''{{{nombri|{{PAGENAME}}}}}'''</span>
+|- {{#if:{{{escú|}}}||class="hiddenStructure"}}
+|align=center colspan=2 style="background: #f7f8ff"|{{{escudo}}}
+|- {{#if:{{{mapa|}}}||class="hiddenStructure"}}
+|align=center colspan=2 style="background: #f7f8ff"|{{{mapa}}}
+|- {{#if:{{{pais|}}}||class="hiddenStructure"}} valign="top"
+| '''[[Pais]]''' || align=center style="background: #f7f8ff"| {{{pais}}}
+|- {{#if:{{{ccaa|}}}||class="hiddenStructure"}} valign="top"
+| '''[[Comuniá Autúnoma]]''' || align=center style="background: #f7f8ff"| {{{ccaa}}}
+|- {{#if:{{{província|}}}||class="hiddenStructure"}} valign="top"
+| '''Província''' || align=center style="background: #f7f8ff"| {{{província}}}
+|- {{#if:{{{capital|}}}||class="hiddenStructure"}} valign="top"
+| '''Capital''' || align=center style="background: #f7f8ff"| {{{capital}}}
+|- {{#if:{{{mayol_puebración|}}}||class="hiddenStructure"}} valign="top"
+| '''Mayol puebración''' || align=center style="background: #f7f8ff"| {{{mayol_puebración}}}
+|- {{#if:{{{monicípius|}}}||class="hiddenStructure"}} valign="top"
+| '''Monicípius''' || align=center style="background: #f7f8ff"| {{{monicípius}}}
+|- {{#if:{{{superfici|}}}||class="hiddenStructure"}} valign="top"
+| '''[[Superfici]]''' || align=center style="background: #f7f8ff"| {{{superfici}}} qm²
+|- {{#if:{{{puebración|}}}||class="hiddenStructure"}} valign="top"
+| '''[[Puebración]]'''<br />[[Densiá e puebración|Densiá]] || align=center style="background: #f7f8ff"| {{{puebración}}} ab. {{#if:{{{añu|}}}|<small>&nbsp;([[{{{añu}}}]])</small>}}<br />{{{densiá|{{{densiá}}}}}} ab./qm²
+|- {{#if:{{{web|}}}||class="hiddenStructure"}} valign="top"
+| '''Páhina web''' || align=center style="background: #f7f8ff"| {{{web}}}
+|}
