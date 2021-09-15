@@ -1,261 +1,260 @@
-<center>
-{| border="0" cellpadding="0" cellspacing="3" bordercolor="#FFFFFF" width="80%"
+{| border="0" cellpadding="0" cellspacing="3" bordercolor="#FFFFFF" width="80%" style="margin:auto;"
 |+ '''Tabra periúdica e los elementus'''
 |-
-| align="center" bgcolor="#FFFFFF" width="8%"|'''<font color="#FF0000">Grupu</font>'''
-| width="5%" align="center" bgcolor="#FFFFFF"|'''<font color="#FF0000">1</font>'''
-| width="5%" align="center" bgcolor="#FFFFFF"|'''<font color="#FF0000">2</font>'''
-| width="2%" align="center" bgcolor="#FFFFFF"|
-| width="5%" align="center" bgcolor="#FFFFFF"|'''<font color="#FF0000">3</font>'''
-| width="5%" align="center" bgcolor="#FFFFFF"|'''<font color="#FF0000">4</font>'''
-| width="5%" align="center" bgcolor="#FFFFFF"|'''<font color="#FF0000">5</font>'''
-| width="5%" align="center" bgcolor="#FFFFFF"|'''<font color="#FF0000">6</font>'''
-| width="5%" align="center" bgcolor="#FFFFFF"|'''<font color="#FF0000">7</font>'''
-| width="5%" align="center" bgcolor="#FFFFFF"|'''<font color="#FF0000">8</font>'''
-| width="5%" align="center" bgcolor="#FFFFFF"|'''<font color="#FF0000">9</font>'''
-| width="5%" align="center" bgcolor="#FFFFFF"|'''<font color="#FF0000">10</font>'''
-| width="5%" align="center" bgcolor="#FFFFFF"|'''<font color="#FF0000">11</font>'''
-| width="5%" align="center" bgcolor="#FFFFFF"|'''<font color="#FF0000">12</font>'''
-| width="5%" align="center" bgcolor="#FFFFFF"|'''<font color="#FF0000">13</font>'''
-| width="5%" align="center" bgcolor="#FFFFFF"|'''<font color="#FF0000">14</font>'''
-| width="5%" align="center" bgcolor="#FFFFFF"|'''<font color="#FF0000">15</font>'''
-| width="5%" align="center" bgcolor="#FFFFFF"|'''<font color="#FF0000">16</font>'''
-| width="5%" align="center" bgcolor="#FFFFFF"|'''<font color="#FF0000">17</font>'''
-| width="5%" align="center" bgcolor="#FFFFFF"|'''<font color="#FF0000">18</font>'''
+| bgcolor="#FFFFFF" width="8%"|'''<span style="color:#FF0000;">Grupu</span>'''
+| width="5%" bgcolor="#FFFFFF"|'''<span style="color:#FF0000;">1</span>'''
+| width="5%" bgcolor="#FFFFFF"|'''<span style="color:#FF0000;">2</span>'''
+| width="2%" bgcolor="#FFFFFF"|
+| width="5%" bgcolor="#FFFFFF"|'''<span style="color:#FF0000;">3</span>'''
+| width="5%" bgcolor="#FFFFFF"|'''<span style="color:#FF0000;">4</span>'''
+| width="5%" bgcolor="#FFFFFF"|'''<span style="color:#FF0000;">5</span>'''
+| width="5%" bgcolor="#FFFFFF"|'''<span style="color:#FF0000;">6</span>'''
+| width="5%" bgcolor="#FFFFFF"|'''<span style="color:#FF0000;">7</span>'''
+| width="5%" bgcolor="#FFFFFF"|'''<span style="color:#FF0000;">8</span>'''
+| width="5%" bgcolor="#FFFFFF"|'''<span style="color:#FF0000;">9</span>'''
+| width="5%" bgcolor="#FFFFFF"|'''<span style="color:#FF0000;">10</span>'''
+| width="5%" bgcolor="#FFFFFF"|'''<span style="color:#FF0000;">11</span>'''
+| width="5%" bgcolor="#FFFFFF"|'''<span style="color:#FF0000;">12</span>'''
+| width="5%" bgcolor="#FFFFFF"|'''<span style="color:#FF0000;">13</span>'''
+| width="5%" bgcolor="#FFFFFF"|'''<span style="color:#FF0000;">14</span>'''
+| width="5%" bgcolor="#FFFFFF"|'''<span style="color:#FF0000;">15</span>'''
+| width="5%" bgcolor="#FFFFFF"|'''<span style="color:#FF0000;">16</span>'''
+| width="5%" bgcolor="#FFFFFF"|'''<span style="color:#FF0000;">17</span>'''
+| width="5%" bgcolor="#FFFFFF"|'''<span style="color:#FF0000;">18</span>'''
 |-
-| align="center" bgcolor="#FFFFFF" width="8%"| 
-| width="5%" align="center" bgcolor="#FFFFFF"|'''<font color="#FF0000">I</font>'''
-| width="5%" align="center" bgcolor="#FFFFFF"|'''<font color="#FF0000">II</font>'''
-| width="2%" align="center" bgcolor="#FFFFFF"| 
-| width="5%" align="center" bgcolor="#FFFFFF"| 
-| width="5%" align="center" bgcolor="#FFFFFF"| 
-| width="5%" align="center" bgcolor="#FFFFFF"| 
-| width="5%" align="center" bgcolor="#FFFFFF"| 
-| width="5%" align="center" bgcolor="#FFFFFF"| 
-| width="5%" align="center" bgcolor="#FFFFFF"| 
-| width="5%" align="center" bgcolor="#FFFFFF"| 
-| width="5%" align="center" bgcolor="#FFFFFF"| 
-| width="5%" align="center" bgcolor="#FFFFFF"| 
-| width="5%" align="center" bgcolor="#FFFFFF"| 
-| width="5%" align="center" bgcolor="#FFFFFF"|'''<font color="#FF0000">III</font>'''
-| width="5%" align="center" bgcolor="#FFFFFF"|'''<font color="#FF0000">IV</font>'''
-| width="5%" align="center" bgcolor="#FFFFFF"|'''<font color="#FF0000">V</font>'''
-| width="5%" align="center" bgcolor="#FFFFFF"|'''<font color="#FF0000">VI</font>'''
-| width="5%" align="center" bgcolor="#FFFFFF"|'''<font color="#FF0000">VII</font>'''
-| width="5%" align="center" bgcolor="#FFFFFF"|'''<font color="#FF0000">VIII</font>'''
+| bgcolor="#FFFFFF" width="8%"|
+| width="5%" bgcolor="#FFFFFF"|'''<span style="color:#FF0000;">I</span>'''
+| width="5%" bgcolor="#FFFFFF"|'''<span style="color:#FF0000;">II</span>'''
+| width="2%" bgcolor="#FFFFFF"|
+| width="5%" bgcolor="#FFFFFF"|
+| width="5%" bgcolor="#FFFFFF"|
+| width="5%" bgcolor="#FFFFFF"|
+| width="5%" bgcolor="#FFFFFF"|
+| width="5%" bgcolor="#FFFFFF"|
+| width="5%" bgcolor="#FFFFFF"|
+| width="5%" bgcolor="#FFFFFF"|
+| width="5%" bgcolor="#FFFFFF"|
+| width="5%" bgcolor="#FFFFFF"|
+| width="5%" bgcolor="#FFFFFF"|
+| width="5%" bgcolor="#FFFFFF"|'''<span style="color:#FF0000;">III</span>'''
+| width="5%" bgcolor="#FFFFFF"|'''<span style="color:#FF0000;">IV</span>'''
+| width="5%" bgcolor="#FFFFFF"|'''<span style="color:#FF0000;">V</span>'''
+| width="5%" bgcolor="#FFFFFF"|'''<span style="color:#FF0000;">VI</span>'''
+| width="5%" bgcolor="#FFFFFF"|'''<span style="color:#FF0000;">VII</span>'''
+| width="5%" bgcolor="#FFFFFF"|'''<span style="color:#FF0000;">VIII</span>'''
 |-
-| align="center" bgcolor="#FFFFFF" width="8%"|'''<font color="#FF0000">Períu</font>'''
-| width="5%" align="center"| 
-| width="5%" align="center"| 
-| width="2%" align="center"| 
-| width="5%" align="center"| 
-| width="5%" align="center"| 
-| width="5%" align="center"| 
-| width="5%" align="center"| 
-| width="5%" align="center"| 
-| width="5%" align="center"| 
-| width="5%" align="center"| 
-| width="5%" align="center"| 
-| width="5%" align="center"| 
-| width="5%" align="center"| 
-| width="5%" align="center"| 
-| width="5%" align="center"| 
-| width="5%" align="center"| 
-| width="5%" align="center"| 
-| width="5%" align="center"| 
-| width="5%" align="center"| 
+| bgcolor="#FFFFFF" width="8%"|'''<span style="color:#FF0000;">Períu</span>'''
+| width="5%" |
+| width="5%" |
+| width="2%" |
+| width="5%" |
+| width="5%" |
+| width="5%" |
+| width="5%" |
+| width="5%" |
+| width="5%" |
+| width="5%" |
+| width="5%" |
+| width="5%" |
+| width="5%" |
+| width="5%" |
+| width="5%" |
+| width="5%" |
+| width="5%" |
+| width="5%" |
+| width="5%" |
 |-
-| align="center" bgcolor="#FFFFFF" width="8%"|'''1'''
-| width="5%" align="center" bgcolor="#a0ffa0"|1<br />[[Idrógenu|H]]
-|| width="5%" align="center"| 
-| width="2%" align="center"| 
-| width="5%" align="center"| 
-| width="5%" align="center"| 
-| width="5%" align="center"| 
-| width="5%" align="center"| 
-| width="5%" align="center"| 
-| width="5%" align="center"| 
-| width="5%" align="center"| 
-| width="5%" align="center"| 
-| width="5%" align="center"| 
-| width="5%" align="center"| 
-| width="5%" align="center"| 
-| width="5%" align="center"| 
-| width="5%" align="center"| 
-| width="5%" align="center"| 
-| width="5%" align="center"| 
-| width="5%" align="center" bgcolor="#c0ffff"|2<br />[[Heliu|He]]
+| bgcolor="#FFFFFF" width="8%"|'''1'''
+| width="5%" bgcolor="#a0ffa0"|1<br />[[Idrógenu|H]]
+| width="5%" |
+| width="2%" |
+| width="5%" |
+| width="5%" |
+| width="5%" |
+| width="5%" |
+| width="5%" |
+| width="5%" |
+| width="5%" |
+| width="5%" |
+| width="5%" |
+| width="5%" |
+| width="5%" |
+| width="5%" |
+| width="5%" |
+| width="5%" |
+| width="5%" |
+| width="5%" bgcolor="#c0ffff"|2<br />[[Heliu|He]]
 |-
-| align="center" bgcolor="#FFFFFF" width="8%"|'''2'''
-| width="5%" align="center" bgcolor="#FF6666"|3<br />Li
-| width="5%" align="center" bgcolor="#FFDEAD"|4<br />Be
-| width="2%" align="center"| 
-| width="5%" align="center"| 
-| width="5%" align="center"| 
-| width="5%" align="center"| 
-| width="5%" align="center"| 
-| width="5%" align="center"| 
-| width="5%" align="center"| 
-| width="5%" align="center"| 
-| width="5%" align="center"| 
-| width="5%" align="center"| 
-| width="5%" align="center"| 
-| width="5%" align="center" bgcolor="#cccc99"|5<br />B
-| width="5%" align="center" bgcolor="#a0ffa0"|6<br />C
-| width="5%" align="center" bgcolor="#a0ffa0"|7<br />N
-| width="5%" align="center" bgcolor="#a0ffa0"|8<br />O
-| width="5%" align="center" bgcolor="#ffff99"|9<br />F
-| width="5%" align="center" bgcolor="#c0ffff"|10<br />Ne
+| bgcolor="#FFFFFF" width="8%"|'''2'''
+| width="5%" bgcolor="#FF6666"|3<br />Li
+| width="5%" bgcolor="#FFDEAD"|4<br />Be
+| width="2%" |
+| width="5%" |
+| width="5%" |
+| width="5%" |
+| width="5%" |
+| width="5%" |
+| width="5%" |
+| width="5%" |
+| width="5%" |
+| width="5%" |
+| width="5%" |
+| width="5%" bgcolor="#cccc99"|5<br />B
+| width="5%" bgcolor="#a0ffa0"|6<br />C
+| width="5%" bgcolor="#a0ffa0"|7<br />N
+| width="5%" bgcolor="#a0ffa0"|8<br />O
+| width="5%" bgcolor="#ffff99"|9<br />F
+| width="5%" bgcolor="#c0ffff"|10<br />Ne
 |-
-| align="center" bgcolor="#FFFFFF" width="8%"|'''3'''
-| width="5%" align="center" bgcolor="#ff6666"|11<br />Na
-| width="5%" align="center" bgcolor="#FFDEAD"|12<br />Mg
-| width="2%" align="center"| 
-| width="5%" align="center"| 
-| width="5%" align="center"| 
-| width="5%" align="center"| 
-| width="5%" align="center"| 
-| width="5%" align="center"| 
-| width="5%" align="center"| 
-| width="5%" align="center"| 
-| width="5%" align="center"| 
-| width="5%" align="center"| 
-| width="5%" align="center"| 
-| width="5%" align="center" bgcolor="#cccccc"|13<br />Al
-| width="5%" align="center" bgcolor="#cccc99"|14<br />Si
-| width="5%" align="center" bgcolor="#a0ffa0"|15<br />P
-| width="5%" align="center" bgcolor="#a0ffa0"|16<br />S
-| width="5%" align="center" bgcolor="#ffff99"|17<br />Cl
-| width="5%" align="center" bgcolor="#c0ffff"|18<br />Ar
+| bgcolor="#FFFFFF" width="8%"|'''3'''
+| width="5%" bgcolor="#ff6666"|11<br />Na
+| width="5%" bgcolor="#FFDEAD"|12<br />Mg
+| width="2%" |
+| width="5%" |
+| width="5%" |
+| width="5%" |
+| width="5%" |
+| width="5%" |
+| width="5%" |
+| width="5%" |
+| width="5%" |
+| width="5%" |
+| width="5%" |
+| width="5%" bgcolor="#cccccc"|13<br />Al
+| width="5%" bgcolor="#cccc99"|14<br />Si
+| width="5%" bgcolor="#a0ffa0"|15<br />P
+| width="5%" bgcolor="#a0ffa0"|16<br />S
+| width="5%" bgcolor="#ffff99"|17<br />Cl
+| width="5%" bgcolor="#c0ffff"|18<br />Ar
 |-
-| align="center" bgcolor="#FFFFFF" width="8%"|'''4'''
-| width="5%" align="center" bgcolor="#FF6666"|19<br />K
-| width="5%" align="center" bgcolor="#FFDEAD"|20<br />Ca
-| width="2%" align="center"| 
-| width="5%" align="center" bgcolor="#ffc0c0"|21<br />Sc
-| width="5%" align="center" bgcolor="#ffc0c0"|22<br />Ti
-| width="5%" align="center" bgcolor="#ffc0c0"|23<br />V
-| width="5%" align="center" bgcolor="#ffc0c0"|24<br />Cr
-| width="5%" align="center" bgcolor="#ffc0c0"|25<br />Mn
-| width="5%" align="center" bgcolor="#ffc0c0"|26<br />[[Hierru|Fe]]
-| width="5%" align="center" bgcolor="#ffc0c0"|27<br />Co
-| width="5%" align="center" bgcolor="#ffc0c0"|28<br />Ni
-| width="5%" align="center" bgcolor="#ffc0c0"|29<br />Cu
-| width="5%" align="center" bgcolor="#ffc0c0"|30<br />Zn
-| width="5%" align="center" bgcolor="#cccccc"|31<br />Ga
-| width="5%" align="center" bgcolor="#cccc99"|32<br />Ge
-| width="5%" align="center" bgcolor="#cccc99"|33<br />As
-| width="5%" align="center" bgcolor="#a0ffa0"|34<br />Se
-| width="5%" align="center" bgcolor="#ffff99"|35<br />Br
-| width="5%" align="center" bgcolor="#c0ffff"|36<br />Kr
+| bgcolor="#FFFFFF" width="8%"|'''4'''
+| width="5%" bgcolor="#FF6666"|19<br />K
+| width="5%" bgcolor="#FFDEAD"|20<br />Ca
+| width="2%" |
+| width="5%" bgcolor="#ffc0c0"|21<br />Sc
+| width="5%" bgcolor="#ffc0c0"|22<br />Ti
+| width="5%" bgcolor="#ffc0c0"|23<br />V
+| width="5%" bgcolor="#ffc0c0"|24<br />Cr
+| width="5%" bgcolor="#ffc0c0"|25<br />Mn
+| width="5%" bgcolor="#ffc0c0"|26<br />[[Hierru|Fe]]
+| width="5%" bgcolor="#ffc0c0"|27<br />Co
+| width="5%" bgcolor="#ffc0c0"|28<br />Ni
+| width="5%" bgcolor="#ffc0c0"|29<br />Cu
+| width="5%" bgcolor="#ffc0c0"|30<br />Zn
+| width="5%" bgcolor="#cccccc"|31<br />Ga
+| width="5%" bgcolor="#cccc99"|32<br />Ge
+| width="5%" bgcolor="#cccc99"|33<br />As
+| width="5%" bgcolor="#a0ffa0"|34<br />Se
+| width="5%" bgcolor="#ffff99"|35<br />Br
+| width="5%" bgcolor="#c0ffff"|36<br />Kr
 |-
-| align="center" bgcolor="#FFFFFF" width="8%"|'''5'''
-| width="5%" align="center" bgcolor="#FF6666"|37<br />Rb
-| width="5%" align="center" bgcolor="#FFDEAD"|38<br />Sr
-| width="2%" align="center"|                  
-| width="5%" align="center" bgcolor="#ffc0c0"|39<br />Y
-| width="5%" align="center" bgcolor="#ffc0c0"|40<br />Zr
-| width="5%" align="center" bgcolor="#ffc0c0"|41<br />Nb
-| width="5%" align="center" bgcolor="#ffc0c0"|42<br />Mo
-| width="5%" align="center" bgcolor="#ffc0c0"|43<br />Tc
-| width="5%" align="center" bgcolor="#ffc0c0"|44<br />Ru
-| width="5%" align="center" bgcolor="#ffc0c0"|45<br />Rh
-| width="5%" align="center" bgcolor="#ffc0c0"|46<br />Pd
-| width="5%" align="center" bgcolor="#ffc0c0"|47<br />Ag
-| width="5%" align="center" bgcolor="#ffc0c0"|48<br />Cd
-| width="5%" align="center" bgcolor="#cccccc"|49<br />In
-| width="5%" align="center" bgcolor="#cccccc"|50<br />Sn
-| width="5%" align="center" bgcolor="#cccc99"|51<br />Sb
-| width="5%" align="center" bgcolor="#cccc99"|52<br />Te
-| width="5%" align="center" bgcolor="#ffff99"|53<br />I
-| width="5%" align="center" bgcolor="#c0ffff"|54<br />Xe
+| bgcolor="#FFFFFF" width="8%"|'''5'''
+| width="5%" bgcolor="#FF6666"|37<br />Rb
+| width="5%" bgcolor="#FFDEAD"|38<br />Sr
+| width="2%" |
+| width="5%" bgcolor="#ffc0c0"|39<br />Y
+| width="5%" bgcolor="#ffc0c0"|40<br />Zr
+| width="5%" bgcolor="#ffc0c0"|41<br />Nb
+| width="5%" bgcolor="#ffc0c0"|42<br />Mo
+| width="5%" bgcolor="#ffc0c0"|43<br />Tc
+| width="5%" bgcolor="#ffc0c0"|44<br />Ru
+| width="5%" bgcolor="#ffc0c0"|45<br />Rh
+| width="5%" bgcolor="#ffc0c0"|46<br />Pd
+| width="5%" bgcolor="#ffc0c0"|47<br />Ag
+| width="5%" bgcolor="#ffc0c0"|48<br />Cd
+| width="5%" bgcolor="#cccccc"|49<br />In
+| width="5%" bgcolor="#cccccc"|50<br />Sn
+| width="5%" bgcolor="#cccc99"|51<br />Sb
+| width="5%" bgcolor="#cccc99"|52<br />Te
+| width="5%" bgcolor="#ffff99"|53<br />I
+| width="5%" bgcolor="#c0ffff"|54<br />Xe
 |-
-| align="center" bgcolor="#FFFFFF" width="8%"|'''6'''
-| width="5%" align="center" bgcolor="#FF6666"|55<br />Cs
-| width="5%" align="center" bgcolor="#FFDEAD"|56<br />Ba
-| width="2%" align="center" bgcolor="#ffbfff"|*
-| width="5%" align="center" bgcolor="#ffc0c0"|71<br />Lu
-| width="5%" align="center" bgcolor="#ffc0c0"|72<br />Hf
-| width="5%" align="center" bgcolor="#ffc0c0"|73<br />Ta
-| width="5%" align="center" bgcolor="#ffc0c0"|74<br />W
-| width="5%" align="center" bgcolor="#ffc0c0"|75<br />Re
-| width="5%" align="center" bgcolor="#ffc0c0"|76<br />Os
-| width="5%" align="center" bgcolor="#ffc0c0"|77<br />Ir
-| width="5%" align="center" bgcolor="#ffc0c0"|78<br />Pt
-| width="5%" align="center" bgcolor="#ffc0c0"|79<br />[[Oru|Au]]
-| width="5%" align="center" bgcolor="#ffc0c0"|80<br />Hg
-| width="5%" align="center" bgcolor="#cccccc"|81<br />Tl
-| width="5%" align="center" bgcolor="#cccccc"|82<br />Pb
-| width="5%" align="center" bgcolor="#cccccc"|83<br />Bi
-| width="5%" align="center" bgcolor="#cccc99"|84<br />Po
-| width="5%" align="center" bgcolor="#ffff99"|85<br />At
-| width="5%" align="center" bgcolor="#c0ffff"|86<br />Rn
+| bgcolor="#FFFFFF" width="8%"|'''6'''
+| width="5%" bgcolor="#FF6666"|55<br />Cs
+| width="5%" bgcolor="#FFDEAD"|56<br />Ba
+| width="2%" bgcolor="#ffbfff"|*
+| width="5%" bgcolor="#ffc0c0"|71<br />Lu
+| width="5%" bgcolor="#ffc0c0"|72<br />Hf
+| width="5%" bgcolor="#ffc0c0"|73<br />Ta
+| width="5%" bgcolor="#ffc0c0"|74<br />W
+| width="5%" bgcolor="#ffc0c0"|75<br />Re
+| width="5%" bgcolor="#ffc0c0"|76<br />Os
+| width="5%" bgcolor="#ffc0c0"|77<br />Ir
+| width="5%" bgcolor="#ffc0c0"|78<br />Pt
+| width="5%" bgcolor="#ffc0c0"|79<br />[[Oru|Au]]
+| width="5%" bgcolor="#ffc0c0"|80<br />Hg
+| width="5%" bgcolor="#cccccc"|81<br />Tl
+| width="5%" bgcolor="#cccccc"|82<br />Pb
+| width="5%" bgcolor="#cccccc"|83<br />Bi
+| width="5%" bgcolor="#cccc99"|84<br />Po
+| width="5%" bgcolor="#ffff99"|85<br />At
+| width="5%" bgcolor="#c0ffff"|86<br />Rn
 |-
-| align="center" bgcolor="#FFFFFF" width="8%"|'''7'''
-| width="5%" align="center" bgcolor="#FF6666"|87<br />Fr
-| width="5%" align="center" bgcolor="#FFDEAD"|88<br />Ra
-| width="2%" align="center" bgcolor="#ff99cc"|**
-| width="5%" align="center" bgcolor="#ffc0c0"|103<br />Lr
-| width="5%" align="center" bgcolor="#ffc0c0"|104<br />Rf
-| width="5%" align="center" bgcolor="#ffc0c0"|105<br />Db
-| width="5%" align="center" bgcolor="#ffc0c0"|106<br />Sg
-| width="5%" align="center" bgcolor="#ffc0c0"|107<br />Bh
-| width="5%" align="center" bgcolor="#ffc0c0"|108<br />Hs
-| width="5%" align="center" bgcolor="#ffc0c0"|109<br />Mt
-| width="5%" align="center" bgcolor="#ffc0c0"|110<br />Ds
-| width="5%" align="center" bgcolor="#ffc0c0"|111<br />Rg
-| width="5%" align="center" bgcolor="#ffc0c0"|112<br />Uub
-| width="5%" align="center" bgcolor="#cccccc"|113<br />Uut
-| width="5%" align="center" bgcolor="#cccccc"|114<br />Uuq
-| width="5%" align="center" bgcolor="#cccccc"|115<br />Uup
-| width="5%" align="center" bgcolor="#cccccc"|116<br />Uuh
-| width="5%" align="center" bgcolor="#fcfecc"|<font color="#808080">117<br />Uus</font>
-| width="5%" align="center" bgcolor="#ecfefc"|118<br />Uuo
+| bgcolor="#FFFFFF" width="8%"|'''7'''
+| width="5%" bgcolor="#FF6666"|87<br />Fr
+| width="5%" bgcolor="#FFDEAD"|88<br />Ra
+| width="2%" bgcolor="#ff99cc"|**
+| width="5%" bgcolor="#ffc0c0"|103<br />Lr
+| width="5%" bgcolor="#ffc0c0"|104<br />Rf
+| width="5%" bgcolor="#ffc0c0"|105<br />Db
+| width="5%" bgcolor="#ffc0c0"|106<br />Sg
+| width="5%" bgcolor="#ffc0c0"|107<br />Bh
+| width="5%" bgcolor="#ffc0c0"|108<br />Hs
+| width="5%" bgcolor="#ffc0c0"|109<br />Mt
+| width="5%" bgcolor="#ffc0c0"|110<br />Ds
+| width="5%" bgcolor="#ffc0c0"|111<br />Rg
+| width="5%" bgcolor="#ffc0c0"|112<br />Uub
+| width="5%" bgcolor="#cccccc"|113<br />Uut
+| width="5%" bgcolor="#cccccc"|114<br />Uuq
+| width="5%" bgcolor="#cccccc"|115<br />Uup
+| width="5%" bgcolor="#cccccc"|116<br />Uuh
+| width="5%" bgcolor="#fcfecc"|<span style="color:#808080;">117<br />Uus</span>
+| width="5%" bgcolor="#ecfefc"|118<br />Uuo
 |}
 
-{| border="0" cellpadding="0" cellspacing="3" width="80%" bordercolor="#FFFFFF"
+{| border="0" cellpadding="0" cellspacing="3" width="80%" bordercolor="#FFFFFF" style="margin:auto;"
 |-
-| width="18%" bgcolor="#FFFFFF" align="center"|'''<font color="#FF0000">Lantánius</font>'''
-| width="2%" align="center"|*
-| width="5%" align="center" bgcolor="#FFBFFF"|57<br />La
-| width="5%" align="center" bgcolor="#FFBFFF"|58<br />Ce
-| width="5%" align="center" bgcolor="#FFBFFF"|59<br />Pr
-| width="5%" align="center" bgcolor="#FFBFFF"|60<br />Nd
-| width="5%" align="center" bgcolor="#FFBFFF"|61<br />Pm
-| width="5%" align="center" bgcolor="#FFBFFF"|62<br />Sm
-| width="5%" align="center" bgcolor="#FFBFFF"|63<br />Eu
-| width="5%" align="center" bgcolor="#FFBFFF"|64<br />[[Gadoliniu|Gd]]
-| width="5%" align="center" bgcolor="#FFBFFF"|65<br />Tb
-| width="5%" align="center" bgcolor="#FFBFFF"|66<br />Dy
-| width="5%" align="center" bgcolor="#FFBFFF"|67<br />Ho
-| width="5%" align="center" bgcolor="#FFBFFF"|68<br />Er
-| width="5%" align="center" bgcolor="#FFBFFF"|69<br />Tm
-| width="5%" align="center" bgcolor="#FFBFFF"|70<br />Yb
-| width="5%" align="center"| 
-| width="5%" align="center"| 
+| width="18%" bgcolor="#FFFFFF" |'''<span style="color:#FF0000;">Lantánius</span>'''
+| width="2%" |*
+| width="5%" bgcolor="#FFBFFF"|57<br />La
+| width="5%" bgcolor="#FFBFFF"|58<br />Ce
+| width="5%" bgcolor="#FFBFFF"|59<br />Pr
+| width="5%" bgcolor="#FFBFFF"|60<br />Nd
+| width="5%" bgcolor="#FFBFFF"|61<br />Pm
+| width="5%" bgcolor="#FFBFFF"|62<br />Sm
+| width="5%" bgcolor="#FFBFFF"|63<br />Eu
+| width="5%" bgcolor="#FFBFFF"|64<br />[[Gadoliniu|Gd]]
+| width="5%" bgcolor="#FFBFFF"|65<br />Tb
+| width="5%" bgcolor="#FFBFFF"|66<br />Dy
+| width="5%" bgcolor="#FFBFFF"|67<br />Ho
+| width="5%" bgcolor="#FFBFFF"|68<br />Er
+| width="5%" bgcolor="#FFBFFF"|69<br />Tm
+| width="5%" bgcolor="#FFBFFF"|70<br />Yb
+| width="5%" |
+| width="5%" |
 |-
-| width="18%" bgcolor="#FFFFFF" align="center"|'''<font color="#FF0000">Atínius</font>'''
-| width="2%" align="center"|**
-| width="5%" align="center" bgcolor="#ff99cc"|89<br />Ac
-| width="5%" align="center" bgcolor="#ff99cc"|90<br />Th
-| width="5%" align="center" bgcolor="#ff99cc"|91<br />Pa
-| width="5%" align="center" bgcolor="#ff99cc"|92<br />U
-| width="5%" align="center" bgcolor="#ff99cc"|93<br />Np
-| width="5%" align="center" bgcolor="#ff99cc"|94<br />Pu
-| width="5%" align="center" bgcolor="#ff99cc"|95<br />Am
-| width="5%" align="center" bgcolor="#ff99cc"|96<br />Cm
-| width="5%" align="center" bgcolor="#ff99cc"|97<br />Bk
-| width="5%" align="center" bgcolor="#ff99cc"|98<br />Cf
-| width="5%" align="center" bgcolor="#ff99cc"|99<br />Es
-| width="5%" align="center" bgcolor="#ff99cc"|100<br />Fm
-| width="5%" align="center" bgcolor="#ff99cc"|101<br />Md
-| width="5%" align="center" bgcolor="#ff99cc"|102<br />No
-| width="5%" align="center"| 
-| width="5%" align="center"| 
+| width="18%" bgcolor="#FFFFFF" |'''<span style="color:#FF0000;">Atínius</span>'''
+| width="2%" |**
+| width="5%" bgcolor="#ff99cc"|89<br />Ac
+| width="5%" bgcolor="#ff99cc"|90<br />Th
+| width="5%" bgcolor="#ff99cc"|91<br />Pa
+| width="5%" bgcolor="#ff99cc"|92<br />U
+| width="5%" bgcolor="#ff99cc"|93<br />Np
+| width="5%" bgcolor="#ff99cc"|94<br />Pu
+| width="5%" bgcolor="#ff99cc"|95<br />Am
+| width="5%" bgcolor="#ff99cc"|96<br />Cm
+| width="5%" bgcolor="#ff99cc"|97<br />Bk
+| width="5%" bgcolor="#ff99cc"|98<br />Cf
+| width="5%" bgcolor="#ff99cc"|99<br />Es
+| width="5%" bgcolor="#ff99cc"|100<br />Fm
+| width="5%" bgcolor="#ff99cc"|101<br />Md
+| width="5%" bgcolor="#ff99cc"|102<br />No
+| width="5%" |
+| width="5%" |
 |}
 
 
-{| {{tablabonita}}
+{| class="wikitable" style="margin:auto;"
 |+
 |-
 | bgcolor="#FF6666"|'''Alcalinus'''
@@ -270,8 +269,6 @@
 | bgcolor="#ffff99"|'''Alóhenus'''
 | bgcolor="#c0ffff"|'''Gasis nobris'''
 |}
-
-</center>
 
 [[Category:Química]]
 
