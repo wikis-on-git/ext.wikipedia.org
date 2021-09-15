@@ -322,27 +322,27 @@ El servíciu e trasporti púbricu que presta el Ayuntamientu e Praséncia encet�
 {| {{tablabonita}} align="center"
 |- bgcolor="#EEEEEE"
 | &nbsp;'''Línia'''
-| <center>'''Recorriu'''</center>
+| <div class="center">'''Recorriu'''</div>
 | &nbsp;'''Parás'''
 |-
-| bgcolor=white|<center><font color=#FF9F00>'''L1'''</center>
-| bgcolor=#FF9F00|<center>'''Polígonu endustrial''' - '''Grabiel i Galán'''</center>
+| bgcolor=white|<div class="center"><span style="color:#FF9F00;">'''L1'''</span></div>
+| bgcolor=#FF9F00|<div class="center">'''Polígonu endustrial''' – '''Grabiel i Galán'''</div>
 | &nbsp;19
 |-
-| bgcolor=white|<center><font color=#BA1B1B>'''L2'''</center>
-| bgcolor=#BA1B1B|<center><font color=white>'''Ospital Vilhin del Puertu''' - '''Colónia Guadalupi'''</font></center>
+| bgcolor=white|<div class="center"><span style="color:#BA1B1B;">'''L2'''</span></div>
+| bgcolor=#BA1B1B|<div class="center"><span style="color:white;">'''Ospital Vilhin del Puertu''' – '''Colónia Guadalupi'''</span></div>
 | &nbsp;21
 |-
-| bgcolor=white|<center><font color=#009900>'''L3'''</center>
-| bgcolor=#009900|<center>'''Cerculal'''</center>
+| bgcolor=white|<div class="center"><span style="color:#009900;">'''L3'''</span></div>
+| bgcolor=#009900|<div class="center">'''Cerculal'''</div>
 | &nbsp;22
 |-
 |}
 
 Las tres línias tiinin puntus en común:
-* <font color=#FF9F00>'''L1''' <font color=black>i <font color=#BA1B1B>'''L2''' <font color=black>tiinin 9 parás comunis.
-* <font color=#FF9F00>'''L1''' <font color=black>i <font color=#009900>'''L3''' <font color=black>tiinin 5 parás comunis.
-* <font color=#BA1B1B>'''L2''' <font color=black>i <font color=#009900>'''L3''' <font color=black>tiinin 5 parás comunis.
+* <span style="color:#FF9F00;">'''L1'''</span> <span style="color:black;">i</span> <span style="color:#BA1B1B;">'''L2'''</span> <span style="color:black;">tiinin 9 parás comunis.</span>
+* <span style="color:#FF9F00;">'''L1'''</span> <span style="color:black;">i</span> <span style="color:#009900;">'''L3'''</span> <span style="color:black;">tiinin 5 parás comunis.</span>
+* <span style="color:#BA1B1B;">'''L2'''</span> <span style="color:black;">i</span> <span style="color:#009900;">'''L3'''</span> <span style="color:black;">tiinin 5 parás comunis.</span>
 
 La [[estación d'autubusis]] s'alcuentra assitiá ena calli Tornavacas, uñiendu regulalmenti Praséncia con otras ciais d'España, asín cumu con localiais cercanas.
 
