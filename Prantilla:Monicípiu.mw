@@ -10,6 +10,7 @@
 |}
 |-class="hiddenStructure{{{imagin|}}}"
 | style="background:#FFFFFF;" align="center" colspan="2" | {{{imahin}}}
+|- class="hiddenStructure{{{país|}}}"
 | valign="top"| [[País]] || style="background: #f7f8ff; text-align:center;"|[[File:Flag of Spain.svg|20px]]&nbsp;[[España]]
 |- class="hiddenStructure{{{comunidá|}}}" 
 | valign="top"| [[Comunidá Autónoma]] || style="background: #f7f8ff; text-align:center;"|  {{#switch:{{{comunidá}}}|
