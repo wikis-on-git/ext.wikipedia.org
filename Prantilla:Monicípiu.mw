@@ -1,0 +1,63 @@
+{| align="right" border="0" rules="all" width="250px" cellpadding="3" cellspacing="0"  style="margin: 0 0 1em 1em; font-size: 90%; border: 1px solid #999; border-right-width: 2px; border-bottom-width: 2px; background-color: #CEDAF2"
+! colspan="2" style="background-color: #003399; color: #FFFFFF; font-size:150%;" align="center" |
+'''{{{nombri|{{PAGENAME}}}}}'''
+|-
+| style="background:#FFFFFF;" align="center" colspan="2" |
+{| style="background:#FFFFFF; text-align: center;" border="0" cellpadding="2" cellspacing="0"
+|- 
+| {{#if:{{{bandera|}}}|{{Cantu|[[File:{{{bandera}}}|130px|Bandera {{{de|e&nbsp;}}}{{{nombri|{{PAGENAME}}}}}]]}}}}
+| {{#if:{{{escú|}}}|[[File:{{{escú}}}|{{{escú_grandaria|70px}}}|Escú armas {{{de|de&nbsp;}}}{{{nombri|{{PAGENAME}}}}}]]}}
+|}
+|-class="hiddenStructure{{{imagin|}}}"
+| style="background:#FFFFFF;" align="center" colspan="2" | {{{imahin}}}
+| valign="top"| [[País]] || style="background: #f7f8ff; text-align:center;"|[[File:Flag of Spain.svg|20px]]&nbsp;[[España]]
+|- class="hiddenStructure{{{comunidá|}}}" 
+| valign="top"| [[Comunidá Autónoma]] || style="background: #f7f8ff; text-align:center;"|  {{#switch:{{{comunidá}}}|
+Andaluzia=[[File:Bandera de Andalucía.png|20px]]&nbsp;[[Andaluzia]]|
+Astúrias=[[File:Flag of Asturias.svg|20px]]&nbsp;[[Prencipau d'Astúrias|Astúrias]]|
+Islas Balearis=[[File:Flag of the Balearic Islands.svg|20px]]&nbsp;[[Islas Balearis]]|
+Cataluña=[[File:Flag of Catalonia.svg|20px]]&nbsp;[[Cataluña]]|
+Canárias=[[File:Flag of the Canary Islands.svg|20px]]&nbsp;[[Canárias]]|
+Cantábria=[[File:Flag of Cantabria.svg|20px]]&nbsp;[[Cantábria]]|
+Castilla-La Mancha=[[File:Bandera Castilla-La Mancha.svg|20px]]&nbsp;[[Castilla-La Mancha]]|
+Castilla i Lión=[[File:Flag of Castilla y León.svg|20px]]&nbsp;[[Castilla i Lión]]|
+Comuniá Valenciana=[[File:Flag of the Land of Valencia (official).svg|20px]]&nbsp;[[Comuniá Valenciana]]|
+Estremaura=[[File:Banderaextremadura.png|20px]]&nbsp;[[Estremaura]]|
+Galícia=[[File:Flag of Galicia.svg|20px]]&nbsp;[[Galícia]]|
+Comuniá de Mairil=[[File:Flag of the Community of Madrid.svg|20px]]&nbsp;[[Comuniá de Mairil|Comuniá de Maril]]|
+Rehión de Múrcia=[[File:Flag of the Region of Murcia.svg|20px]]&nbsp;[[Rehión de Múrcia]]|
+Navarra=[[File:Flag of Navarre.svg|20px]]&nbsp;[[Navarra]]|
+Pais Vascu=[[File:Flag of the Basque Country.svg|20px]]&nbsp;[[Pais Vascu]]|
+La Rioja=[[File:Flag of La Rioja (with coat of arms).svg|20px]]&nbsp;[[La Rioja]]|
+Rioja=[[File:Flag of La Rioja (with coat of arms).svg|20px]]&nbsp;[[La Rioja]]|
+Melilla=[[File:Flag of Melilla.svg|20px]]&nbsp;[[Melilla]]|
+Ceuta=[[File:Flag of Ceuta.svg|20px]]&nbsp;[[Ceuta]]|
+|[[{{{comuniá}}}]]}}
+|- class="hiddenStructure{{{província|}}}" 
+| valign="top"| [[Provincias d'España|Provincia]] || style="background: #f7f8ff; text-align:center;"|  [[Provincia de {{{provincia}}}|{{{província}}}]]
+|- class="hiddenStructure{{{províncias|}}}" 
+| valign="top"| [[Provincias d'España|Provincia]] || style="background: #f7f8ff; text-align:center;"|  [[Provincia de {{{provincia}}}|{{{província}}}]]
+|-class="hiddenStructure{{{comarca|}}}"
+| valign="top"| [[Comarca]] || style="background: #f7f8ff; text-align:center;"| {{{Comarca}}}
+|- class="hiddenStructure{{{monicipiu|}}}" 
+| [[Ciá]] ||  style="background: #f7f8ff; text-align:center;" | {{{monicipiu}}}
+|- class="hiddenStructure{{{cp|}}}" 
+| [[Códigu postal]] ||  style="background: #f7f8ff; text-align:center;" | {{{cp}}}
+|-
+| valign="top"| [[Superfici]] || style="background: #f7f8ff; text-align:center;"| {{{superfici}}} [[Quilómetru cuairau|km²]]
+|-
+| valign="top"| [[Altitú]] || style="background: #f7f8ff; text-align:center;"| {{{altitú}}} msnm.
+|-class="hiddenStructure{{{longol|}}}"
+| valign="top"| [[Largol]] || style="background: #f7f8ff; text-align:center;"| {{{longol}}} km a [[{{{a}}}]]
+|-
+| valign="top"| [[Puebración]] || style="background: #f7f8ff; text-align:center;"| {{{puebración}}} ab.{{#if:{{{calendata|}}}|<small>&nbsp;([[{{{calendata}}}]])</small>}}
+|-class="hiddenStructure{{{gentilíciu|}}}" 
+| valign="top"| [[Gentiliciu]] ||  style="background: #f7f8ff; text-align:center;" | {{{gentilíciu}}}
+|-class="hiddenStructure{{{rius|}}}" 
+| valign="top"| [[Ríu]]s ||  style="background: #f7f8ff; text-align:center;" | {{{rius}}}
+|-class="hiddenStructure{{{web|}}}" 
+| valign="top"| [[Página web]] ||  style="background: #f7f8ff; text-align:center;" | {{{web}}}
+|-class="hiddenStructure{{{assitiamientu|}}}"
+| style="background:#FFFFFF;" align="center" colspan="2" | {{{assitiamientu}}}
+|}<noinclude>
+</noinclude>
