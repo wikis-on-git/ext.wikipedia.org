@@ -15,31 +15,28 @@
 |- class="hiddenStructure{{{comunidá|}}}" 
 | valign="top"| [[Comunidá Autónoma]] || style="background: #f7f8ff; text-align:center;"|  {{#switch:{{{comunidá}}}|
 Andaluzia=[[File:Bandera de Andalucía.png|20px]]&nbsp;[[Andaluzia]]|
-Astúrias=[[File:Flag of Asturias.svg|20px]]&nbsp;[[Prencipau d'Astúrias|Astúrias]]|
+Asturias=[[File:Flag of Asturias.svg|20px]]&nbsp;[[Prencipau d'Astúrias|Astúrias]]|
 Islas Balearis=[[File:Flag of the Balearic Islands.svg|20px]]&nbsp;[[Islas Balearis]]|
 Cataluña=[[File:Flag of Catalonia.svg|20px]]&nbsp;[[Cataluña]]|
-Canárias=[[File:Flag of the Canary Islands.svg|20px]]&nbsp;[[Canárias]]|
+Canarias=[[File:Flag of the Canary Islands.svg|20px]]&nbsp;[[Canárias]]|
 Cantábria=[[File:Flag of Cantabria.svg|20px]]&nbsp;[[Cantábria]]|
 Castilla-La Mancha=[[File:Bandera Castilla-La Mancha.svg|20px]]&nbsp;[[Castilla-La Mancha]]|
 Castilla i Lión=[[File:Flag of Castilla y León.svg|20px]]&nbsp;[[Castilla i Lión]]|
-Comuniá Valenciana=[[File:Flag of the Land of Valencia (official).svg|20px]]&nbsp;[[Comunidá Valenciana]]|
-Estremaura=[[File:Banderaextremadura.png|20px]]&nbsp;[[Estremaúra]]|
-Galícia=[[File:Flag of Galicia.svg|20px]]&nbsp;[[Galícia]]|
-Comuniá de Mairil=[[File:Flag of the Community of Madrid.svg|20px]]&nbsp;[[Comunidá de Mairil|Comunidá de Maril]]|
-Rehión de Múrcia=[[File:Flag of the Region of Murcia.svg|20px]]&nbsp;[[Rehión de Múrcia]]|
+Comunidá Valenciana=[[File:Flag of the Land of Valencia (official).svg|20px]]&nbsp;[[Comunidá Valenciana]]|
+Estremaúra=[[File:Banderaextremadura.png|20px]]&nbsp;[[Estremaúra]]|
+Galicia=[[File:Flag of Galicia.svg|20px]]&nbsp;[[Galícia]]|
+Comunidá de Mairil=[[File:Flag of the Community of Madrid.svg|20px]]&nbsp;[[Comunidá de Mairil|Comunidá de Maril]]|
+Región de Múrcia=[[File:Flag of the Region of Murcia.svg|20px]]&nbsp;[[Rehión de Múrcia]]|
 Navarra=[[File:Flag of Navarre.svg|20px]]&nbsp;[[Navarra]]|
 Pais Vascu=[[File:Flag of the Basque Country.svg|20px]]&nbsp;[[Pais Vascu]]|
 La Rioja=[[File:Flag of La Rioja (with coat of arms).svg|20px]]&nbsp;[[La Rioja]]|
-Rioja=[[File:Flag of La Rioja (with coat of arms).svg|20px]]&nbsp;[[La Rioja]]|
 Melilla=[[File:Flag of Melilla.svg|20px]]&nbsp;[[Melilla]]|
 Ceuta=[[File:Flag of Ceuta.svg|20px]]&nbsp;[[Ceuta]]|
 |[[{{{comunidá}}}]]}}
 |- class="hiddenStructure{{{províncias|}}}" 
-| valign="top"| [[Provincias d'España|Provincia]] || style="background: #f7f8ff; text-align:center;"|  [[Provincia de {{{provincia}}}|{{{província}}}]]
+| valign="top"| [[Provincias d'España|Provincia]] || style="background: #f7f8ff; text-align:center;"|  [[Provincia de {{{provincia}}}|{{{provincia}}}]]
 |-class="hiddenStructure{{{comarca|}}}"
 | valign="top"| [[Comarca]] || style="background: #f7f8ff; text-align:center;"| {{{Comarca}}}
-|- class="hiddenStructure{{{monicipiu|}}}" 
-| [[Ciá]] ||  style="background: #f7f8ff; text-align:center;" | {{{monicipiu}}}
 |- class="hiddenStructure{{{cp|}}}" 
 | [[Códigu postal]] ||  style="background: #f7f8ff; text-align:center;" | {{{cp}}}
 |-
