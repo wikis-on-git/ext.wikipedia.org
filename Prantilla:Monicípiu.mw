@@ -9,7 +9,7 @@
 | {{#if:{{{escú|}}}|[[File:{{{escú}}}|{{{escú_grandaria|70px}}}|Escú armas {{{de|de&nbsp;}}}{{{nombri|{{PAGENAME}}}}}]]}}
 |}
 |-class="hiddenStructure{{{imagin|}}}"
-| style="background:#FFFFFF;" align="center" colspan="2" | {{{imahin}}}
+| style="background:#FFFFFF;" align="center" colspan="2" | {{{imagin}}}
 |- class="hiddenStructure{{{país|}}}"
 | valign="top"| [[País]] || style="background: #f7f8ff; text-align:center;"|[[File:Flag of Spain.svg|20px]]&nbsp;[[España]]
 |- class="hiddenStructure{{{comunidá|}}}" 
@@ -61,4 +61,32 @@ Ceuta=[[File:Flag of Ceuta.svg|20px]]&nbsp;[[Ceuta]]|
 |-class="hiddenStructure{{{assitiamientu|}}}"
 | style="background:#FFFFFF;" align="center" colspan="2" | {{{assitiamientu}}}
 |}<noinclude>
-</noinclude>
+<templatedata>
+{
+	"params": {
+		"nombri": {},
+		"bandera": {},
+		"de": {},
+		"escú": {},
+		"escú_grandaria": {},
+		"imagin": {},
+		"país": {},
+		"comunidá": {},
+		"provincia": {},
+		"províncias": {},
+		"comarca": {},
+		"monicipiu": {},
+		"cp": {},
+		"superfici": {},
+		"altitú": {},
+		"longol": {},
+		"a": {},
+		"puebración": {},
+		"calendata": {},
+		"gentilíciu": {},
+		"rius": {},
+		"web": {},
+		"assitiamientu": {}
+	}
+}
+</templatedata></noinclude>
