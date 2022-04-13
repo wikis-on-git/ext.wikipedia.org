@@ -1,7 +1,57 @@
-Vikipeedia artiklite toimetamine on tegevus, mille käigus artikleid muudetakse, parandatakse ja täiendatakse eesmärgiga viia need kooskõlla entsüklopeedilise teksti nõuete ja tavadega, eesti keele õigekirja- ja stiilireeglitega ning Vikipeedia vormistusreeglite ja põhimõtetega.
-
-Vikipeediat koostavad paljud kaastöölised väikeste osade kaupa ja selle sisu on pidevas muutumises ja kasvamises. Isegi parimaid olemasolevaid artikleid saab täiendada ja parandada, rääkimata siis kõigist teistest. Eri kaastööliste erisugused oskused (nt suurepärased uurimistöö oskused, tehnilised oskused, teksti sõnastamise oskused jne) on väga väärtuslikud ja iga kaastööline saab artikleid oma panusega edasi arendada.
-
-Vikipeedia ülesanne on vahendada lugejatele kokkuvõtet kogu inimkonna väärtuslikest teadmistest. Lisa julgelt entsüklopeedilist infot (vaata, millist infot mitte lisada), et artiklid oleksid põhjalikud ja annaksid oma teemast piisava ülevaate. Artiklite sisu peab olema tõendatud viidetega sobivatele allikatele, et tagada info usaldusväärsus. Kui näed artiklis ilma viideteta infot, saad aidata allikate otsimise ja viidete lisamisega.
-
-Vikipeedia on pooleli ja see ei pea kindlaks tähtajaks valmis saama. Kaastöölistelt ei oodata absoluutset perfektsust. Vikipeediat koostatakse koostöös, mis tähendab, et poolikud ja puudustega artiklihakatused võivad aja jooksul areneda suurepärasteks entsüklopeediaartikliteks. Näiteks alustab üks kaastööline artiklit mõne üksiku fakti loetlemisega. Teine lisab materjali. Kolmas parandab keelevigu. Neljas kohendab vormistust. Viies tasakaalustab artikli väiteid teiste seisukohtadega. Ja nii edasi.
+<table style="width:242px;border:#99B3FF solid 1px;float:{{{float|right}}}">
+<tr><td><center>'''[[Güiquipeya:Babel]]'''</center></td></tr>{{#if:
+{{{1|}}}|<tr><td>{{Usuárius pol luenga ({{{1}}})}}</td></tr>}}{{#if:
+{{{2|}}}|<tr><td>{{Usuárius pol luenga ({{{2}}})}}</td></tr>}}{{#if:
+{{{3|}}}|<tr><td>{{Usuárius pol luenga ({{{3}}})}}</td></tr>}}{{#if:
+{{{4|}}}|<tr><td>{{Usuárius pol luenga ({{{4}}})}}</td></tr>}}{{#if:
+{{{5|}}}|<tr><td>{{Usuárius pol luenga ({{{5}}})}}</td></tr>}}{{#if:
+{{{6|}}}|<tr><td>{{Usuárius pol luenga ({{{6}}})}}</td></tr>}}{{#if:
+{{{7|}}}|<tr><td>{{Usuárius pol luenga ({{{7}}})}}</td></tr>}}{{#if:
+{{{8|}}}|<tr><td>{{Usuárius pol luenga ({{{8}}})}}</td></tr>}}{{#if:
+{{{9|}}}|<tr><td>{{Usuárius pol luenga ({{{9}}})}}</td></tr>}}{{#if:
+{{{10|}}}|<tr><td>{{Usuárius pol luenga ({{{10}}})}}</td></tr>}}{{#if:
+{{{11|}}}|<tr><td>{{Usuárius pol luenga ({{{11}}})}}</td></tr>}}{{#if:
+{{{12|}}}|<tr><td>{{Usuárius pol luenga ({{{12}}})}}</td></tr>}}{{#if:
+{{{13|}}}|<tr><td>{{Usuárius pol luenga ({{{13}}})}}</td></tr>}}{{#if:
+{{{14|}}}|<tr><td>{{Usuárius pol luenga ({{{14}}})}}</td></tr>}}{{#if:
+{{{15|}}}|<tr><td>{{Usuárius pol luenga ({{{15}}})}}</td></tr>}}{{#if:
+{{{16|}}}|<tr><td>{{Usuárius pol luenga ({{{16}}})}}</td></tr>}}{{#if:
+{{{17|}}}|<tr><td>{{Usuárius pol luenga ({{{17}}})}}</td></tr>}}{{#if:
+{{{18|}}}|<tr><td>{{Usuárius pol luenga ({{{18}}})}}</td></tr>}}{{#if:
+{{{19|}}}|<tr><td>{{Usuárius pol luenga ({{{19}}})}}</td></tr>}}{{#if:
+{{{20|}}}|<tr><td>{{Usuárius pol luenga ({{{20}}})}}</td></tr>}}{{#if:
+{{{21|}}}|<tr><td>{{Usuárius pol luenga ({{{21}}})}}</td></tr>}}{{#if:
+{{{22|}}}|<tr><td>{{Usuárius pol luenga ({{{22}}})}}</td></tr>}}{{#if:
+{{{23|}}}|<tr><td>{{Usuárius pol luenga ({{{23}}})}}</td></tr>}}{{#if:
+{{{24|}}}|<tr><td>{{Usuárius pol luenga ({{{24}}})}}</td></tr>}}{{#if:
+{{{25|}}}|<tr><td>{{Usuárius pol luenga ({{{25}}})}}</td></tr>}}{{#if:
+{{{26|}}}|<tr><td>{{Usuárius pol luenga ({{{26}}})}}</td></tr>}}{{#if:
+{{{27|}}}|<tr><td>{{Usuárius pol luenga ({{{27}}})}}</td></tr>}}{{#if:
+{{{28|}}}|<tr><td>{{Usuárius pol luenga ({{{28}}})}}</td></tr>}}{{#if:
+{{{29|}}}|<tr><td>{{Usuárius pol luenga ({{{29}}})}}</td></tr>}}{{#if:
+{{{30|}}}|<tr><td>{{Usuárius pol luenga ({{{30}}})}}</td></tr>}}{{#if:
+{{{31|}}}|<tr><td>{{Usuárius pol luenga ({{{31}}})}}</td></tr>}}{{#if:
+{{{32|}}}|<tr><td>{{Usuárius pol luenga ({{{32}}})}}</td></tr>}}{{#if:
+{{{33|}}}|<tr><td>{{Usuárius pol luenga ({{{33}}})}}</td></tr>}}{{#if:
+{{{34|}}}|<tr><td>{{Usuárius pol luenga ({{{34}}})}}</td></tr>}}{{#if:
+{{{35|}}}|<tr><td>{{Usuárius pol luenga ({{{35}}})}}</td></tr>}}{{#if:
+{{{36|}}}|<tr><td>{{Usuárius pol luenga ({{{36}}})}}</td></tr>}}{{#if:
+{{{37|}}}|<tr><td>{{Usuárius pol luenga ({{{37}}})}}</td></tr>}}{{#if:
+{{{38|}}}|<tr><td>{{Usuárius pol luenga ({{{38}}})}}</td></tr>}}{{#if:
+{{{39|}}}|<tr><td>{{Usuárius pol luenga ({{{39}}})}}</td></tr>}}{{#if:
+{{{40|}}}|<tr><td>{{Usuárius pol luenga ({{{40}}})}}</td></tr>}}{{#if:
+{{{41|}}}|<tr><td>{{Usuárius pol luenga ({{{41}}})}}</td></tr>}}{{#if:
+{{{42|}}}|<tr><td>{{Usuárius pol luenga ({{{42}}})}}</td></tr>}}{{#if:
+{{{43|}}}|<tr><td>{{Usuárius pol luenga ({{{43}}})}}</td></tr>}}{{#if:
+{{{44|}}}|<tr><td>{{Usuárius pol luenga ({{{44}}})}}</td></tr>}}{{#if:
+{{{45|}}}|<tr><td>{{Usuárius pol luenga ({{{45}}})}}</td></tr>}}{{#if:
+{{{46|}}}|<tr><td>{{Usuárius pol luenga ({{{46}}})}}</td></tr>}}{{#if:
+{{{47|}}}|<tr><td>{{Usuárius pol luenga ({{{47}}})}}</td></tr>}}{{#if:
+{{{48|}}}|<tr><td>{{Usuárius pol luenga ({{{48}}})}}</td></tr>}}{{#if:
+{{{49|}}}|<tr><td>{{Usuárius pol luenga ({{{49}}})}}</td></tr>}}{{#if:
+{{{50|}}}|<tr><td>{{Usuárius pol luenga ({{{50}}})}}</td></tr>}}
+<tr><td><center>'''[[:Category:Usuárius pol luenga|Usuárius pol luenga]]'''</center></td></tr>
+</table>
+<noinclude>
+[[Category:Prantillas henéricas de luenga|Babel]]
+</noinclude>
