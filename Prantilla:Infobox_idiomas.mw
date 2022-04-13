@@ -1,7 +1,117 @@
-Vikipeedia artiklite toimetamine on tegevus, mille käigus artikleid muudetakse, parandatakse ja täiendatakse eesmärgiga viia need kooskõlla entsüklopeedilise teksti nõuete ja tavadega, eesti keele õigekirja- ja stiilireeglitega ning Vikipeedia vormistusreeglite ja põhimõtetega.
+{| style="width: 300px; margin: 0 0 0.5em 1.4em; float: right; clear: right; border: 1px #aaa solid; border-collapse: collapse;" border=1
+! colspan="2" style="font-size:100%; color: black; background-color: lawngreen;"|<center>{{{nombri}}} [[Template:Infobox idiomas|<sup>(?)</sup>]]</center>{{#if:{{{nombriautótonu|}}}|<center>&nbsp;({{{nombriautótonu}}})</center>}}
+|-class="hiddenStructure{{{Imagin|}}}"
+| colspan="2" style="text-align: center; padding-left: 0em;" |{{{Imagin}}}
+|- class="hiddenStructure{{{algotrasdenominacionis|}}}"
+| style="vertical-align: top; padding-left: 0.5em;" |Otras denominacionis:
+|{{{algotrasdenominacionis}}}
+|-
+| style="vertical-align: top; padding-left: 0.5em;" |Palrau en:
+|{{{estaus}}}
+|- class="hiddenStructure{{{territórius|}}}"
+| style="vertical-align: top; padding-left: 0.5em;" |Territórius:
+|{{{territórius}}}
+|-
+| style="vertical-align: top; padding-left: 0.5em;" |Palrantis:
+*<small>Nativus:</small>
+*<small>Algotrus:</small>
+|{{{palrantis}}}
+*{{{p1}}}
+*{{{p2}}}
+|-class="hiddenStructure{{{crasificación|}}}"
+| style="vertical-align: top; padding-left: 0.5em;" |Crassificación:
+|{{{crasificación}}}
+|-
+| style="vertical-align: top; padding-left: 0.5em;" |Filiación:
+| style="text-align: left;" | {{{família}}}
+|-
+! colspan="2" style="color:{{{fontcolor}}}; background-color: lawngreen;"|Estatu oficial
+|-
+| style="vertical-align: top; padding-left: 0.5em;" |Luenga oficial en:
+| {{{pais}}}
+|-
+| style="vertical-align: top; padding-left: 0.5em;" |Regulau pol:
+| {{{regulau}}}
+|-
+! colspan="2" style="color: {{{fontcolor}}}; background-color: lawngreen;"|Coigus la luenga
+|-
+| style="vertical-align: top; padding-left: 0.5em;" |[[ISO 639]]-1||{{{iso1}}}
+|-
+| style="vertical-align: top; padding-left: 0.5em;" |ISO 639-2||{{{iso2}}}
+|-
 
-Vikipeediat koostavad paljud kaastöölised väikeste osade kaupa ja selle sisu on pidevas muutumises ja kasvamises. Isegi parimaid olemasolevaid artikleid saab täiendada ja parandada, rääkimata siis kõigist teistest. Eri kaastööliste erisugused oskused (nt suurepärased uurimistöö oskused, tehnilised oskused, teksti sõnastamise oskused jne) on väga väärtuslikud ja iga kaastööline saab artikleid oma panusega edasi arendada.
+| style="vertical-align: top; padding-left: 0.5em;" |[[Cóigu SIL|SIL]]||[http://www.ethnologue.com/show_language.asp?code={{{sil}}} {{{sil}}}]
+|-
+|-class="hiddenStructure{{{Cóigu wiki|}}}"
+! colspan="2" style="color: {{{fontcolor}}}; background-color: white;"|{{InterWiki Infobox|code={{{Cóigu wiki}}}}}
+</div>
+</div>
+|}<noinclude>
 
-Vikipeedia ülesanne on vahendada lugejatele kokkuvõtet kogu inimkonna väärtuslikest teadmistest. Lisa julgelt entsüklopeedilist infot (vaata, millist infot mitte lisada), et artiklid oleksid põhjalikud ja annaksid oma teemast piisava ülevaate. Artiklite sisu peab olema tõendatud viidetega sobivatele allikatele, et tagada info usaldusväärsus. Kui näed artiklis ilma viideteta infot, saad aidata allikate otsimise ja viidete lisamisega.
 
-Vikipeedia on pooleli ja see ei pea kindlaks tähtajaks valmis saama. Kaastöölistelt ei oodata absoluutset perfektsust. Vikipeediat koostatakse koostöös, mis tähendab, et poolikud ja puudustega artiklihakatused võivad aja jooksul areneda suurepärasteks entsüklopeediaartikliteks. Näiteks alustab üks kaastööline artiklit mõne üksiku fakti loetlemisega. Teine lisab materjali. Kolmas parandab keelevigu. Neljas kohendab vormistust. Viies tasakaalustab artikli väiteid teiste seisukohtadega. Ja nii edasi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+==Notas==
+Escrebi esti cóigu pa que se apaeça la prantilla, rellenandu los campus conocius:
+
+{|
+|<nowiki>{{Infobox idiomas</nowiki>
+|-
+|<nowiki>|nombri=XXX</nowiki>
+|-
+|<nowiki>|nombriautótonu=''XXX''</nowiki>
+|-
+|<nowiki>|Imahin=url.jpg</nowiki>
+|-
+|<nowiki>|algotrasdenominacionis=XXX</nowiki>
+|-
+|<nowiki>|estaus=XXX, XXX i XXX</nowiki>
+|-
+|<nowiki>|territórius=XXX</nowiki>
+|-
+|<nowiki>|palrantis= ~ X00X</nowiki>
+|-
+|<nowiki>|p1=xxx |p2=xxx </nowiki>
+|-
+|<nowiki>|crasificación=xxx</nowiki>
+|-
+|<nowiki>|família=xxx<br /></nowiki>
+|-
+|<nowiki>&nbsp;xxx<br /></nowiki>
+|-
+|<nowiki>&nbsp;&nbsp;xxx<br /></nowiki>
+|-
+|<nowiki>&nbsp;&nbsp;&nbsp;'''xxx'''<br></nowiki>
+|-
+|<nowiki>|pais=xxx</nowiki>
+|-
+|<nowiki>|regulau=x</nowiki>
+|-
+|<nowiki>|iso1=xxx</nowiki>
+|-
+|<nowiki>|iso2=xxx</nowiki>
+|-
+|<nowiki>|sil=xxx</nowiki>
+|-
+|<nowiki>|Cóigu wiki=xxx}}</nowiki>
+|}
