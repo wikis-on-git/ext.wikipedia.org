@@ -1,7 +1,52 @@
-Vikipeedia artiklite toimetamine on tegevus, mille käigus artikleid muudetakse, parandatakse ja täiendatakse eesmärgiga viia need kooskõlla entsüklopeedilise teksti nõuete ja tavadega, eesti keele õigekirja- ja stiilireeglitega ning Vikipeedia vormistusreeglite ja põhimõtetega.
-
-Vikipeediat koostavad paljud kaastöölised väikeste osade kaupa ja selle sisu on pidevas muutumises ja kasvamises. Isegi parimaid olemasolevaid artikleid saab täiendada ja parandada, rääkimata siis kõigist teistest. Eri kaastööliste erisugused oskused (nt suurepärased uurimistöö oskused, tehnilised oskused, teksti sõnastamise oskused jne) on väga väärtuslikud ja iga kaastööline saab artikleid oma panusega edasi arendada.
-
-Vikipeedia ülesanne on vahendada lugejatele kokkuvõtet kogu inimkonna väärtuslikest teadmistest. Lisa julgelt entsüklopeedilist infot (vaata, millist infot mitte lisada), et artiklid oleksid põhjalikud ja annaksid oma teemast piisava ülevaate. Artiklite sisu peab olema tõendatud viidetega sobivatele allikatele, et tagada info usaldusväärsus. Kui näed artiklis ilma viideteta infot, saad aidata allikate otsimise ja viidete lisamisega.
-
-Vikipeedia on pooleli ja see ei pea kindlaks tähtajaks valmis saama. Kaastöölistelt ei oodata absoluutset perfektsust. Vikipeediat koostatakse koostöös, mis tähendab, et poolikud ja puudustega artiklihakatused võivad aja jooksul areneda suurepärasteks entsüklopeediaartikliteks. Näiteks alustab üks kaastööline artiklit mõne üksiku fakti loetlemisega. Teine lisab materjali. Kolmas parandab keelevigu. Neljas kohendab vormistust. Viies tasakaalustab artikli väiteid teiste seisukohtadega. Ja nii edasi.
+{| style="width: 250px; margin: 0 0 0.5em 1.4em; float: right; clear: right; border: 1px #aaa solid; border-collapse: collapse;" border=1
+! colspan="2" style="font-size:110%; color: white; background-color: BurlyWood;"|<center>{{PAGENAME}}</center>{{#if:{{{nombriautótonu|}}}|<center>&nbsp;({{{nombriautótonu}}})</center>}}
+|-class="hiddenStructure{{{Imagin|}}}"
+| colspan="2" style="text-align: center; padding-left: 0em;" |[[File:{{{Imagin}}}|250px|{{PAGENAME}}]]
+|- class="hiddenStructure{{{algotrasdenominacionis|}}}"
+| style="vertical-align: top; padding-left: 0.5em;" |Otrus nombris:
+|{{{algotrasdenominacionis}}}
+|-
+! colspan="2" style="color: white; background-color: BurlyWood;"|Destribución
+|-class="hiddenStructure{{{Mapa|}}}"
+| colspan="2" style="text-align: center; padding-left: 0em;" |[[File:{{{Mapa}}}|250px|Destribución de {{PAGENAME}}]]
+|-
+! colspan="2" style="color: white; background-color: BurlyWood;"|Crassificación científica
+|-
+| style="vertical-align: top; padding-left: 0.5em;" |<center>[[Reinu (biologia)|Reinu]]</center>
+|<center>{{{Reinu}}}</center>
+|- class="hiddenStructure{{{Filu|}}}"
+| style="vertical-align: top; padding-left: 0.5em;" |<center>[[Filu (biologia)|Filu]]</center>
+|<center>{{{Filu}}}</center>
+|-
+|-class="hiddenStructure{{{Crassi|}}}"
+| style="vertical-align: top; padding-left: 0.5em;" |<center>[[Crassi (biologia)|Crassi]]</center>
+|<center>{{{Crassi}}}</center>
+|-
+|-class="hiddenStructure{{{ordin|}}}"
+| style="vertical-align: top; padding-left: 0.5em;" |<center>[[Ordin (biologia)|Ordin]]</center>
+|<center>{{{Ordin}}}</center>
+|-
+|-class="hiddenStructure{{{Família|}}}"
+| style="vertical-align: top; padding-left: 0.5em;" |<center>[[Família (biologia)|Familia]]</center>
+|<center>{{{Família}}}</center>
+|-
+|-class="hiddenStructure{{{Géniru|}}}"
+| style="vertical-align: top; padding-left: 0.5em;" |<center>[[Géniru (biologia)|Géneru]]</center>
+|<center>{{{Géniru}}}</center>
+|-
+|-class="hiddenStructure{{{Espécii|}}}"
+| style="vertical-align: top; padding-left: 0.5em;" |<center>[[Espécii (biologia)|Especii]]</center>
+|<center>''{{{Espécii}}}''</center>
+|-
+! colspan="2" style="color: white; background-color: BurlyWood;"|Autol
+|-
+|-class="hiddenStructure{{{Autol|}}}"
+! colspan="2" style="color: {{{fontcolor}}}; background-color: white;"|{{{Autol}}}
+|-
+! colspan="2" style="color: white; background-color: BurlyWood;"|Estau de conservación
+|-
+|-class="hiddenStructure{{{Estau|}}}"
+| colspan="2" style="text-align: center; padding-left: 0em;" |[[File:Status_iucn2.3_{{{Estau}}}_es.svg|200px|Conservación de{{PAGENAME}}]]
+</div>
+</div>
+|}
