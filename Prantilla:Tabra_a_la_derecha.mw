@@ -1,7 +1,41 @@
-Vikipeedia artiklite toimetamine on tegevus, mille käigus artikleid muudetakse, parandatakse ja täiendatakse eesmärgiga viia need kooskõlla entsüklopeedilise teksti nõuete ja tavadega, eesti keele õigekirja- ja stiilireeglitega ning Vikipeedia vormistusreeglite ja põhimõtetega.
+<div style="clear:right; float: right; padding: .5em 0 .5em 1em; background:transparent">__TOC__</div><noinclude>
 
-Vikipeediat koostavad paljud kaastöölised väikeste osade kaupa ja selle sisu on pidevas muutumises ja kasvamises. Isegi parimaid olemasolevaid artikleid saab täiendada ja parandada, rääkimata siis kõigist teistest. Eri kaastööliste erisugused oskused (nt suurepärased uurimistöö oskused, tehnilised oskused, teksti sõnastamise oskused jne) on väga väärtuslikud ja iga kaastööline saab artikleid oma panusega edasi arendada.
+==Nota==
+Escrebi <nowiki>{{Tabra a la derecha}}</nowiki> pa que la tabra continius la tu caraba passi de la gocha a la derecha.
 
-Vikipeedia ülesanne on vahendada lugejatele kokkuvõtet kogu inimkonna väärtuslikest teadmistest. Lisa julgelt entsüklopeedilist infot (vaata, millist infot mitte lisada), et artiklid oleksid põhjalikud ja annaksid oma teemast piisava ülevaate. Artiklite sisu peab olema tõendatud viidetega sobivatele allikatele, et tagada info usaldusväärsus. Kui näed artiklis ilma viideteta infot, saad aidata allikate otsimise ja viidete lisamisega.
 
-Vikipeedia on pooleli ja see ei pea kindlaks tähtajaks valmis saama. Kaastöölistelt ei oodata absoluutset perfektsust. Vikipeediat koostatakse koostöös, mis tähendab, et poolikud ja puudustega artiklihakatused võivad aja jooksul areneda suurepärasteks entsüklopeediaartikliteks. Näiteks alustab üks kaastööline artiklit mõne üksiku fakti loetlemisega. Teine lisab materjali. Kolmas parandab keelevigu. Neljas kohendab vormistust. Viies tasakaalustab artikli väiteid teiste seisukohtadega. Ja nii edasi.
+[[Category:Mantenimientu]]
+
+[[ar:قالب:فهرس يسار]]
+[[bar:Vorlage:TOCright]]
+[[be-x-old:Шаблён:Зьмест справа]]
+[[ca:Plantilla:TOCright]]
+[[ceb:Plantilya:TOCright]]
+[[cs:Šablona:RIGHTTOC]]
+[[da:Skabelon:TOC right]]
+[[de:Vorlage:TOCright]]
+[[dsb:Pśedłoga:TOC-right]]
+[[en:Template:TOCright]]
+[[eo:Ŝablono:TOC-dekstre]]
+[[fr:Modèle:Sommaire à droite]]
+[[he:תבנית:תוכן שמאל]]
+[[hr:Predložak:TOCright]]
+[[hsb:Předłoha:TOC-right]]
+[[hu:Sablon:TOCright]]
+[[id:Templat:TOCright]]
+[[it:Template:TOCright]]
+[[ja:Template:TOCright]]
+[[ko:틀:TOCright]]
+[[mk:Шаблон:Содржина-десно]]
+[[no:Mal:TOC right]]
+[[pl:Szablon:Spis treści]]
+[[pnt:Πρότυπον:TOC-right]]
+[[pt:Predefinição:TOC-direita]]
+[[ru:Шаблон:TOC-Right]]
+[[sv:Mall:TOCright]]
+[[szl:Szablon:TOC-right]]
+[[vi:Tiêu bản:Mục lục bên phải]]
+[[wuu:模板:Right TOC]]
+[[zh:Template:TOCright]]
+[[zh-yue:Template:TOCright]]
+</noinclude>
