@@ -1,7 +1,37 @@
-Vikipeedia artiklite toimetamine on tegevus, mille käigus artikleid muudetakse, parandatakse ja täiendatakse eesmärgiga viia need kooskõlla entsüklopeedilise teksti nõuete ja tavadega, eesti keele õigekirja- ja stiilireeglitega ning Vikipeedia vormistusreeglite ja põhimõtetega.
+<includeonly>{{#if: {{{title|}}}
+  |{{#if: {{{author|}}}{{{last|}}}
+    | {{#if: {{{authorlink|}}}
+      | [[{{{authorlink}}}|{{#if: {{{last|}}}
+        | {{{last}}}{{#if: {{{first|}}} | , {{{first}}} }}
+        | {{{author}}}
+      }}]]
+      | {{#if: {{{last|}}}
+        | {{{last}}}{{#if: {{{first|}}} | , {{{first}}} }}
+        | {{{author}}}
+      }}
+    }}
+  }}{{#if: {{{author|}}}{{{last|}}}
+    | {{#if: {{{coauthors|}}} | ,&#32;{{{coauthors}}} }}.&#32;
+  }}{{#if: {{{curly|}}}|“|«}}{{#if: {{{url|}}}
+   | [{{{url}}} {{{title}}}]
+   | {{{title}}}
+  }}{{#if: {{{curly|}}}|”|»}}{{#if: {{{format|}}} | &#32;({{{format}}}) 
+    }}{{#if: {{{work|}}}
+    | , ''{{{work}}}''}}{{#if: {{{publisher|}}}
+    | , ''{{{publisher}}}''
+  }}{{#if: {{{date|}}}
+    | , {{{date}}}
+  }}{{#if: {{{pages|}}}
+    | , pp.&nbsp;{{{pages}}}
+    |{{#if: {{{page|}}}
+      | , p.&nbsp;{{{page}}}
+    }}
+  }}{{#if: {{{accessdate|}}}
+  | .&#32;Leiu el {{{accessdate}}}
+  }}.{{#if: {{{language|}}}
+  | &#32;(en {{{language}}})
+  }}|Errol: hadi falta rellenal el campu '''title'''.}}</includeonly><noinclude>
 
-Vikipeediat koostavad paljud kaastöölised väikeste osade kaupa ja selle sisu on pidevas muutumises ja kasvamises. Isegi parimaid olemasolevaid artikleid saab täiendada ja parandada, rääkimata siis kõigist teistest. Eri kaastööliste erisugused oskused (nt suurepärased uurimistöö oskused, tehnilised oskused, teksti sõnastamise oskused jne) on väga väärtuslikud ja iga kaastööline saab artikleid oma panusega edasi arendada.
 
-Vikipeedia ülesanne on vahendada lugejatele kokkuvõtet kogu inimkonna väärtuslikest teadmistest. Lisa julgelt entsüklopeedilist infot (vaata, millist infot mitte lisada), et artiklid oleksid põhjalikud ja annaksid oma teemast piisava ülevaate. Artiklite sisu peab olema tõendatud viidetega sobivatele allikatele, et tagada info usaldusväärsus. Kui näed artiklis ilma viideteta infot, saad aidata allikate otsimise ja viidete lisamisega.
-
-Vikipeedia on pooleli ja see ei pea kindlaks tähtajaks valmis saama. Kaastöölistelt ei oodata absoluutset perfektsust. Vikipeediat koostatakse koostöös, mis tähendab, et poolikud ja puudustega artiklihakatused võivad aja jooksul areneda suurepärasteks entsüklopeediaartikliteks. Näiteks alustab üks kaastööline artiklit mõne üksiku fakti loetlemisega. Teine lisab materjali. Kolmas parandab keelevigu. Neljas kohendab vormistust. Viies tasakaalustab artikli väiteid teiste seisukohtadega. Ja nii edasi.
+[[Category:Mantenimientu]]
+</noinclude>
