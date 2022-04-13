@@ -1,7 +1,124 @@
-Vikipeedia artiklite toimetamine on tegevus, mille käigus artikleid muudetakse, parandatakse ja täiendatakse eesmärgiga viia need kooskõlla entsüklopeedilise teksti nõuete ja tavadega, eesti keele õigekirja- ja stiilireeglitega ning Vikipeedia vormistusreeglite ja põhimõtetega.
+{| style="width: 250px; margin: 0 0 0.5em 1.4em; float: right; clear: right; border: 1px #aaa solid; border-collapse: collapse;" border=1
+! colspan="2" style="font-size:100%; color: black; background-color: Chartreuse;"|<center>{{PAGENAME}} [[Template:Infobox plantae|<sup>(?)</sup>]]</center>{{#if:{{{nombriautótonu|}}}|<center>&nbsp;({{{nombriautótonu}}})</center>}}
+|-class="hiddenStructure{{{Imagin|}}}"
+| colspan="2" style="text-align: center; padding-left: 0em;" |[[File:{{{Imagin}}}|250px|{{PAGENAME}}]]
+|- class="hiddenStructure{{{algotrasdenominacionis|}}}"
+| style="vertical-align: top; padding-left: 0.5em;" |Otrus nombris:
+|{{{algotrasdenominacionis}}}
+|-
+! colspan="2" style="color: {{{fontcolor}}}; background-color: Chartreuse;"|Estau de conservación
+|-
+|-class="hiddenStructure{{{Estau|}}}"
+| colspan="2" style="text-align: center; padding-left: 0em;" |[[File:Status_iucn2.3_{{{Estau}}}_es.svg|200px|Conselvación de{{PAGENAME}}]]
+|-
+! colspan="2" style="color: {{{fontcolor}}}; background-color: Chartreuse;"|Crassificación científica
+|-
+| style="vertical-align: top; padding-left: 0.5em;" |<center>[[Reinu (biologia)|Reinu]]</center>
+|<center>{{{Reinu}}}</center>
+|- class="hiddenStructure{{{Filu|}}}"
+| style="vertical-align: top; padding-left: 0.5em;" |<center>[[Filu (biologia)|Filu]]</center>
+|<center>{{{Filu}}}</center>
+|-
+|-class="hiddenStructure{{{Crassi|}}}"
+| style="vertical-align: top; padding-left: 0.5em;" |<center>[[Crassi (biología)|Crassi]]</center>
+|<center>{{{Crassi}}}</center>
+|-
+|-class="hiddenStructure{{{ordin|}}}"
+| style="vertical-align: top; padding-left: 0.5em;" |<center>[[Ordin (biología)|Ordin]]</center>
+|<center>{{{Ordin}}}</center>
+|-
+|-class="hiddenStructure{{{Família|}}}"
+| style="vertical-align: top; padding-left: 0.5em;" |<center>[[Família (biologia)|Familia]]</center>
+|<center>{{{Família}}}</center>
+|-
+|-class="hiddenStructure{{{Géniru|}}}"
+| style="vertical-align: top; padding-left: 0.5em;" |<center>[[Géniru (biologia)|Géneru]]</center>
+|<center>{{{Géniru}}}</center>
+|-
+|-class="hiddenStructure{{{Espécii|}}}"
+| style="vertical-align: top; padding-left: 0.5em;" |<center>[[Espécii (biologia)|Especii]]</center>
+|<center>''{{{Espécii}}}''</center>
+|-
+! colspan="2" style="color: {{{fontcolor}}}; background-color: Chartreuse;"|Autol
+|-
+|-class="hiddenStructure{{{Autol|}}}"
+! colspan="2" style="color: {{{fontcolor}}}; background-color: white;"|''{{{Autol}}}''
+</div>
+</div>
+|}<noinclude>
+==Nombri el artículo==
+Los artículus los seris vivus '''sedrán entitulaus con el su nombri científicu''' inque se podrán crial tolas redireicionis que seyan mestel.
 
-Vikipeediat koostavad paljud kaastöölised väikeste osade kaupa ja selle sisu on pidevas muutumises ja kasvamises. Isegi parimaid olemasolevaid artikleid saab täiendada ja parandada, rääkimata siis kõigist teistest. Eri kaastööliste erisugused oskused (nt suurepärased uurimistöö oskused, tehnilised oskused, teksti sõnastamise oskused jne) on väga väärtuslikud ja iga kaastööline saab artikleid oma panusega edasi arendada.
+==Cóigu==
+{|
+|<nowiki>{{Infobox plantae</nowiki>
+|-
+|<nowiki>|nombriautótonu=''XXX''</nowiki>
+|-
+|<nowiki>|Imagin=url.jpg</nowiki>
+|-
+|<nowiki>|Estau=(Vel cóigus más p'abajoti)</nowiki>
+|-
+|<nowiki>|Reinu=X</nowiki>
+|-
+|<nowiki>|Filu=X</nowiki>
+|-
+|<nowiki>|Crassi=X</nowiki>
+|-
+|<nowiki>|Ordin=x</nowiki>
+|-
+|<nowiki>|Família=x</nowiki>
+|-
+|<nowiki>|Géniru=x</nowiki>
+|-
+|<nowiki>|Espécii=x</nowiki> (ponel la enicial del géniru siguia del nombri específicu. Ejempru: H. sapiens)
+|-
+|<nowiki>|Autol=x</nowiki>
+<nowiki>|}</nowiki>
+|}
 
-Vikipeedia ülesanne on vahendada lugejatele kokkuvõtet kogu inimkonna väärtuslikest teadmistest. Lisa julgelt entsüklopeedilist infot (vaata, millist infot mitte lisada), et artiklid oleksid põhjalikud ja annaksid oma teemast piisava ülevaate. Artiklite sisu peab olema tõendatud viidetega sobivatele allikatele, et tagada info usaldusväärsus. Kui näed artiklis ilma viideteta infot, saad aidata allikate otsimise ja viidete lisamisega.
+Si angún campu no es conociu o no hazi falta ponelu, '''no t'orviis d'esborral las "x"!
+'''
 
-Vikipeedia on pooleli ja see ei pea kindlaks tähtajaks valmis saama. Kaastöölistelt ei oodata absoluutset perfektsust. Vikipeediat koostatakse koostöös, mis tähendab, et poolikud ja puudustega artiklihakatused võivad aja jooksul areneda suurepärasteks entsüklopeediaartikliteks. Näiteks alustab üks kaastööline artiklit mõne üksiku fakti loetlemisega. Teine lisab materjali. Kolmas parandab keelevigu. Neljas kohendab vormistust. Viies tasakaalustab artikli väiteid teiste seisukohtadega. Ja nii edasi.
+==Ejempru==
+{{Infobox plantae
+|nombriautótonu=Rambután
+|Imagin=Rambutan.jpg
+|Estau=LC
+|Reinu=Plantae
+|Filu=Magnoliophyta
+|Crassi=Magnoliopsida
+|Ordin=Sapindales
+|Família=Sapindaceae
+|Géniru=Nephelium
+|Espécii=N. lappaceum
+|Autol=Linnaeus
+}}
+{|
+|<nowiki>{{Infobox plantae</nowiki>
+|-
+|<nowiki>|nombriautótonu=Rambután</nowiki>
+|-
+|<nowiki>|Imagin=Rambutan.jpg</nowiki>
+|-
+|<nowiki>|Estau=LC</nowiki>
+|-
+|<nowiki>|Reinu=Plantae</nowiki>
+|-
+|<nowiki>|Filu=Magnoliophyta</nowiki>
+|-
+|<nowiki>|Crassi=Magnoliopsida</nowiki>
+|-
+|<nowiki>|Ordin=Sapindales</nowiki>
+|-
+|<nowiki>|Família=Sapindaceae</nowiki>
+|-
+|<nowiki>|Géniru=Nephelium</nowiki>
+|-
+|<nowiki>|Espécii=N. lappaceum</nowiki>
+|-
+|<nowiki>|Autol=Linnaeus</nowiki>
+<nowiki>|}</nowiki>
+|}
+
+==Cóigus estau de conselvación==
