@@ -4,8 +4,8 @@
 |align=center colspan=2 style="background: #f7f8ff"|{{{escú}}}
 |- {{#if:{{{mapa|}}}||class="hiddenStructure"}}
 |align=center colspan=2 style="background: #f7f8ff"|{{{mapa}}}
-|- {{#if:{{{país|}}}||class="hiddenStructure"}} valign="top"
-| '''[[País]]''' || align=center style="background: #f7f8ff"| [[España]]
+|- {{#if:{{{estau|}}}||class="hiddenStructure"}} valign="top"
+| '''[[Estau]]''' || align=center style="background: #f7f8ff"| [[Archivu:Bandera de España.svg|20 px|sinmarco]] [[España]]
 |- {{#if:{{{ccaa|}}}||class="hiddenStructure"}} valign="top"
 | '''[[Comunidá Autónoma]]''' || align=center style="background: #f7f8ff"| {{{ccaa}}}
 |- {{#if:{{{provincia|}}}||class="hiddenStructure"}} valign="top"
